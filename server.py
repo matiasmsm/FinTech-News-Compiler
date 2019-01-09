@@ -35,6 +35,14 @@ def hacker_news():
         title = hn.item(articulo).title
         url = hn.item(articulo).url
 
+@app.route("/Hacker news", methods=["GET"])
+def hacker_news():
+    """Tomamos el top 100 articulos más populares"""
+    palabras = leer_lista_palabras()
+    top_stories_ids = hn.top_stories()
+    for articulo in top_stories_ids:
+        title = hn.item(articulo).title
+        url = hn.item(articulo).url
 
 if __name__ == "__main__":
     hacker_news()
