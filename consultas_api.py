@@ -44,5 +44,9 @@ def hacker_news():
         title = hn.item(articulo).title
         url = hn.item(articulo).url
 
+@app.route("/Twitter", methods=["GET"])
+def twitter():
+    pass
+
 if __name__ == "__main__":
     hacker_news()
