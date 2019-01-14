@@ -1,0 +1,8 @@
+{
+  "palabras":["Cryptocurrency", "Big Data", "Blockchain", "SupTech", "RegTech"
+  , "Cybersecurity", "Open Banking", "DLT", "FinTech", "Central Bank"],
+  "fuentes":[{"nombre":"new york times","peso":9},
+    {"nombre":"financial times", "peso":10}, {"nombre":"la tercera", "peso":10}
+  ,{"nombre":"diario financiero", "peso":10}],
+  "autores":[{"nombre":"edgar alan poe", "peso":10},{"nombre":"otro", "peso":1}]
+}
