@@ -2,7 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 
 """Declaración de url's"""
-quote_page = "http://www.bloomberg.com/quote/SPX:IND"
+american_banker_url = "https://www.americanbanker.com/"
+market_watch_url = "https://www.marketwatch.com/"
+el_cronista_url = "https://www.cronista.com/"
 
 # Here, we're just importing both Beautiful Soup and the Requests library
 page_link = 'the_url_you_want_to_scrape.scrape_it_real_good.com'
@@ -32,4 +34,4 @@ page_content.find_all('a')
 #  <a class="link" href="http://example.com/example3" id="link3">Link1</a>]
 page_content.find(id="link3")
 # <a class="link" href="http://example.com/example3" id="link3">This returns just the matching element by ID</a>
-page_content.findAll('div',attrs={"class":"cool_paragraph"})
+page_content.findAll('div', attrs={"class":"cool_paragraph"})

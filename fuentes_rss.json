@@ -1,0 +1,13 @@
+{ "fuentes":[
+  {"nombre":"aljazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+  {"nombre":"the_verge", "url": "https://www.theverge.com/rss/index.xml"},
+  {"nombre":"finextra", "url":"https://www.finextra.com/rss/headlines.aspx/?x=1"},
+  {"nombre":"gomedici", "url": "https://gomedici.com/feed.xml"},
+  {"nombre":"daily_fintech", "url": "https://dailyfintech.com/feed"},
+  {"nombre":"pymnts", "url": "http://www.pymnts.com/feed"},
+  {"nombre":"fintech_finance", "url": "http://www.fintech.finance/feed"},
+  {"nombre":"finovate", "url" : "http://finovate.com/blog/feed"},
+  {"nombre":"reddit_fintech", "url": "https://www.reddit.com/r/fintech/.rss?format=xml"} ]
+}
+
+
