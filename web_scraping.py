@@ -1,10 +1,21 @@
 from bs4 import BeautifulSoup
 import requests
 
-"""Declaración de url's"""
+"""Declaracion de url's"""
 american_banker_url = "https://www.americanbanker.com/"
 market_watch_url = "https://www.marketwatch.com/"
 el_cronista_url = "https://www.cronista.com/"
+
+def cargar_filtros():
+    with open("Filtros_FinTech.json", 'r', enconding="utf-8") as filtros_file:
+        diccionario_filtros = json.load(filtros_file)
+        return diccionario_filtros
+
+def cargar_fuentes():
+    with open("fuentes_web_scraping.json", 'r', encoding="utf-8") as fuentes_file:
+        diccionario_fuentes = json.load(fuentes_file)
+        return diccionario_fuentes
+
 
 # Here, we're just importing both Beautiful Soup and the Requests library
 page_link = 'the_url_you_want_to_scrape.scrape_it_real_good.com'

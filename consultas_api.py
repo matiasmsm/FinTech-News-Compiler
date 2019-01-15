@@ -10,12 +10,10 @@ app = flask.Flask(__name__)
 """URL's de API's"""
 hacker_news_url = 'https://hacker-news.firebaseio.com/v0/item/{}'
 
-
-def leer_lista_palabras():
-    with open("palabras.json", 'r', encoding='utf-8') as palabras_file:
-        dict_json = json.load(palabras_file)
-        lista_palabras = dict_json['palabras']
-        return lista_palabras
+def cargar_filtros():
+    with open("Filtros_FinTech.json", 'r', enconding="utf-8") as filtros_file:
+        diccionario_filtros = json.load(filtros_file)
+        return diccionario_filtros
 
 @app.route("/")
 def index():
