@@ -1,8 +1,8 @@
 {
   "palabras":[{"palabra":"cryptocurrency", "peso": 5 },{"palabra":"cryptoactivo", "peso":5},{"palabra": "big data",
-    "peso": 5},{"palabra":"blockchain","peso":5}{"palabra": "suptech", "peso":5},{"palabra":"regtech", "peso": 5},
+    "peso": 5},{"palabra":"blockchain","peso":5},{"palabra": "suptech", "peso":5},{"palabra":"regtech", "peso": 5},
     {"palabra": "cybersecurity","peso": 5},{"palabra": "cyberseguridad","peso": 5},{"palabra": "open banking","peso":5}
   ,{"palabra": "dlt", "peso":5}, {"palabra":"fintech","peso":5},{"palabra": "central bank", "peso": 10},
-    {"palabra": "banco central", "peso": 10},],
+    {"palabra": "banco central", "peso": 10}],
   "autores":[{"nombre":"edgar alan poe", "peso":10},{"nombre":"otro", "peso":1}]
 }

@@ -1,13 +1,13 @@
 { "fuentes":[
-  {"nombre":"aljazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
-  {"nombre":"the verge", "url": "https://www.theverge.com/rss/index.xml"},
-  {"nombre":"finextra", "url":"https://www.finextra.com/rss/headlines.aspx/?x=1"},
-  {"nombre":"gomedici", "url": "https://gomedici.com/feed.xml"},
-  {"nombre":"daily fintech", "url": "https://dailyfintech.com/feed"},
-  {"nombre":"pymnts", "url": "http://www.pymnts.com/feed"},
-  {"nombre":"fintech finance", "url": "http://www.fintech.finance/feed"},
-  {"nombre":"finovate", "url" : "http://finovate.com/blog/feed"},
-  {"nombre":"reddit fintech", "url": "https://www.reddit.com/r/fintech/.rss?format=xml"} ]
+  {"nombre":"aljazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "peso": 10},
+  {"nombre":"the verge", "url": "https://www.theverge.com/rss/index.xml", "peso": 7},
+  {"nombre":"finextra", "url":"https://www.finextra.com/rss/headlines.aspx/?x=1", "peso": 7},
+  {"nombre":"gomedici", "url": "https://gomedici.com/feed.xml", "peso": 7},
+  {"nombre":"daily fintech", "url": "https://dailyfintech.com/feed", "peso": 7},
+  {"nombre":"pymnts", "url": "http://www.pymnts.com/feed", "peso": 7},
+  {"nombre":"fintech finance", "url": "http://www.fintech.finance/feed", "peso": 7},
+  {"nombre":"finovate", "url" : "http://finovate.com/blog/feed", "peso": 7},
+  {"nombre":"reddit fintech", "url": "https://www.reddit.com/r/fintech/.rss?format=xml", "peso": 5} ]
 }
 
 
