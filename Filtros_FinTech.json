@@ -15,7 +15,7 @@
   ,{"palabra": "dlt", "peso":5},{"palabra": "distributed ledger", "peso":5},
     {"palabra": "descentralized ledger", "peso":5}, {"palabra": "centralized",
       "peso":5},{"palabra": "centralizado", "peso":5},{"palabra":
-    "central bank", "peso": 10}, {"palabra": "banco central", "peso": 10},
+    "central bank", "peso": 20}, {"palabra": "banco central", "peso": 20},
     {"palabra": "bank", "peso":5},{"palabra": "banco", "peso":5},
     {"palabra": "cbdc", "peso":5}, {"palabra": "swift", "peso":5}, {"palabra":
     "inteligencia artificial", "peso":5}, {"palabra":
