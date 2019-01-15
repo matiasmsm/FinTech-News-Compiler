@@ -1,8 +1,28 @@
 {
-  "palabras":[{"palabra":"cryptocurrency", "peso": 5 },{"palabra":"cryptoactivo", "peso":5},{"palabra": "big data",
-    "peso": 5},{"palabra":"blockchain","peso":5},{"palabra": "suptech", "peso":5},{"palabra":"regtech", "peso": 5},
-    {"palabra": "cybersecurity","peso": 5},{"palabra": "cyberseguridad","peso": 5},{"palabra": "open banking","peso":5}
-  ,{"palabra": "dlt", "peso":5}, {"palabra":"fintech","peso":5},{"palabra": "central bank", "peso": 10},
-    {"palabra": "banco central", "peso": 10}],
-  "autores":[{"nombre":"edgar alan poe", "peso":10},{"nombre":"otro", "peso":1}]
+  "palabras":[{"palabra":"cryptocurrency", "peso": 5 },{"palabra":
+  "criptomoneda", "peso": 5 },{"palabra":"cryptoactivo", "peso":5},
+    {"palabra": "dinero digital", "peso":5}, {"palabra": "digital currency",
+      "peso":5},{"palabra": "economía digital", "peso":5},
+    {"palabra": "pago digital", "peso":5}, {"palabra": "digital payment",
+      "peso":5},
+    {"palabra": "big data", "peso": 5},{"palabra":"blockchain","peso":5}
+  ,{"palabra":"fintech","peso":5}, {"palabra": "suptech", "peso":5},
+    {"palabra":"regtech", "peso": 5}, {"palabra": "cybersecurity","peso": 5},
+    {"palabra": "ciberseguridad","peso": 5},{"palabra": "cyberattack",
+      "peso":5},{"palabra": "ciberataque",
+      "peso":5},{"palabra": "open banking", "peso":5},
+    {"palabra": "banca abierta","peso":5}
+  ,{"palabra": "dlt", "peso":5},{"palabra": "distributed ledger", "peso":5},
+    {"palabra": "descentralized ledger", "peso":5}, {"palabra": "centralized",
+      "peso":5},{"palabra": "centralizado", "peso":5},{"palabra":
+    "central bank", "peso": 10}, {"palabra": "banco central", "peso": 10},
+    {"palabra": "bank", "peso":5},{"palabra": "banco", "peso":5},
+    {"palabra": "cbdc", "peso":5}, {"palabra": "swift", "peso":5}, {"palabra":
+    "inteligencia artificial", "peso":5}, {"palabra":
+    "artificial intelligence", "peso":5}, {"palabra": "ai", "peso":5},
+    {"palabra": "machine learning", "peso":5}, {"palabra": "jasper", "peso":5},
+    {"palabra": "ethereum", "peso":5}, {"palabra": "ripple", "peso":5},
+    {"palabra": "r3", "peso":5}],
+  "autores":[ {"nombre":"edgar alan poe", "peso":10}, {"nombre":"otro",
+    "peso":1}]
 }

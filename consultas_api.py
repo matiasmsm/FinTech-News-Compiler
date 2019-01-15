@@ -11,13 +11,13 @@ app = flask.Flask(__name__)
 hacker_news_url = 'https://hacker-news.firebaseio.com/v0/item/{}'
 
 def cargar_filtros():
-    with open("Filtros_FinTech.json", 'r', enconding="utf-8") as filtros_file:
+    with open("Filtros_FinTech.json", 'r', encoding="utf-8") as filtros_file:
         diccionario_filtros = json.load(filtros_file)
         return diccionario_filtros
 
 @app.route("/")
 def index():
-   return "Tarea 7"
+   return "Compiler"
 
 @app.route("/json")
 def retornar_json():
@@ -27,20 +27,13 @@ def retornar_json():
 @app.route("/Hacker news", methods=["GET"])
 def hacker_news():
     """Tomamos el top 100 articulos más populares"""
-    palabras = leer_lista_palabras()
+    diccionario_filtros = cargar_filtros()
+    palabras = diccionario_filtros["palabras"]
     top_stories_ids = hn.top_stories()
     for articulo in top_stories_ids:
         title = hn.item(articulo).title
         url = hn.item(articulo).url
 
-@app.route("/Hacker news", methods=["GET"])
-def hacker_news():
-    """Tomamos el top 100 articulos más populares"""
-    palabras = leer_lista_palabras()
-    top_stories_ids = hn.top_stories()
-    for articulo in top_stories_ids:
-        title = hn.item(articulo).title
-        url = hn.item(articulo).url
 
 @app.route("/Twitter", methods=["GET"])
 def twitter():
