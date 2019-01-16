@@ -7,7 +7,7 @@ market_watch_url = "https://www.marketwatch.com/"
 el_cronista_url = "https://www.cronista.com/"
 
 def cargar_filtros():
-    with open("Filtros_FinTech.json", 'r', enconding="utf-8") as filtros_file:
+    with open("Filtros_FinTech.json", 'r', encoding="utf-8") as filtros_file:
         diccionario_filtros = json.load(filtros_file)
         return diccionario_filtros
 

@@ -39,7 +39,7 @@
   {"nombre":"bbc business", "url":"http://feeds.bbci.co.uk/news/business/rss.xml", "peso": 10},
   {"nombre":"bbc technology", "url":"http://feeds.bbci.co.uk/news/technology/rss.xml", "peso": 10},
   {"nombre":"channel new asia business", "url":"https://www.channelnewsasia.com/rssfeeds/8395954", "peso": 10},
-  {"nombre":"china daily", "url":"http://www.chinadaily.com.cn/rss/cndy_rss.xml", "peso": 10}]
+  {"nombre":"china daily", "url":"http://www.chinadaily.com.cn/rss/cndy_rss.xml", "peso": 7}]
 }
 
 
