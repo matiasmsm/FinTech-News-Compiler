@@ -104,6 +104,21 @@ def filtrar_contenido(nombre, contenido, peso):
                                                  peso)
                 lista_diccionarios_entries.append({"titulo":titulo_noticia,
                                             "link":link_noticia, "puntaje": puntaje})
+                continue
+        elif "updated" in entry.keys():
+            lista_elems_fecha_articulo = entry.updated.split(" ")
+            num_ocurrencias = 0
+            for elemento in lista_elementos_fecha_actual:
+                for elem in lista_elems_fecha_articulo:
+                    if elemento == elem:
+                        num_ocurrencias += 1
+            if num_ocurrencias == 3:
+                puntaje = determinar_importancia(titulo_noticia, resumen,
+                                                 link_noticia,
+                                                 peso)
+                lista_diccionarios_entries.append({"titulo": titulo_noticia,
+                                                   "link": link_noticia,
+                                                   "puntaje": puntaje})
     return lista_diccionarios_entries
 
 
@@ -117,7 +132,6 @@ def crear_recopilación_top_noticias(diccionario_fuentes_noticias):
                 if noticia["puntaje"] > 0:
                     recopilacion_del_dia_file.write(noticia["titulo"]+"\n"+
                                                     noticia["link"]+"\n"+"\n")
-
 
 def consultas_feed():
     diccionario_fuentes = cargar_fuentes()

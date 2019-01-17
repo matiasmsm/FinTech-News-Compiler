@@ -8,7 +8,7 @@
     {"palabra": "big data", "peso": 5},{"palabra":"blockchain","peso":5}
   ,{"palabra":"fintech","peso":5}, {"palabra": "suptech", "peso":5},
     {"palabra":"regtech", "peso": 5}, {"palabra":"bigtech","peso":5},
-    {"palabra": "cybersecurity","peso": 5},
+    {"palabra":"insurtech","peso":5}, {"palabra": "cybersecurity","peso": 5},
     {"palabra": "ciberseguridad","peso": 5},{"palabra": "cyberattack",
       "peso":5},{"palabra": "ciberataque",
       "peso":5},{"palabra": "open banking", "peso":5},
@@ -29,6 +29,7 @@
       "big data", "banco central"], ["cybersecurity", "central bank"],
     ["ciberseguridad", "banco central"], ["cyberattack", "bank"], [
       "ciberataque", "banco"], ["central bank", "digital currency"],
+    ["central bank", "bank"], ["banco central", "banco"]
   ["banco central", "dinero digital"], ["central bank", "digital payment"]
   ,["central bank", "digital payment's"],["banco central", "pagos digitales"]
   , ["banco central", "pago digital"]],

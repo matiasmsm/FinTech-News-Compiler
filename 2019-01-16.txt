@@ -28,6 +28,9 @@ https://www.finextra.com/pressarticle/76969/r3-forms-independent-governing-found
 Tide and ClearBank potentially poised to grow with RBS bid
 https://dailyfintech.com/2019/01/16/tide-and-clearbank-potentially-poised-to-grow-with-rbs-bid/
 
+Fiserv Snaps Up First Data In $22B All-Stock Deal
+https://www.pymnts.com/news/partnerships-acquisitions/2019/fiserv-acquires-first-data-22b-all-stock-deal/
+
 Blockchain Makes Inroads Into Banking
 https://www.pymnts.com/news/b2b-payments/2019/blockchain-bank-iot-innovation-trade-finance/
 
@@ -46,17 +49,14 @@ http://feedproxy.google.com/~r/Techcrunch/~3/ucsBA3TbS3o/
 Grab moves to offer digital insurance services in Southeast Asia
 http://feedproxy.google.com/~r/Techcrunch/~3/jvDtwi6UW4A/
 
+Wall Street rises at open on BofA, Goldman earnings boost
+http://feeds.reuters.com/~r/reuters/businessNews/~3/fMdQP18PgVM/wall-street-rises-at-open-on-bofa-goldman-earnings-boost-idUSKCN1PA1NU
+
 BofA's loan growth powers better-than-expected profit
 http://feeds.reuters.com/~r/reuters/businessNews/~3/ws5yxhhjUtc/bofas-loan-growth-powers-better-than-expected-profit-idUSKCN1PA1FI
 
 Goldman's revenue beat powered by M&A bankers, equity traders
 http://feeds.reuters.com/~r/reuters/businessNews/~3/ubb-B2Lgu7U/goldmans-revenue-beat-powered-by-ma-bankers-equity-traders-idUSKCN1PA1M4
-
-Goldman, BofA earnings boost to drive Wall Street higher at open
-http://feeds.reuters.com/~r/reuters/businessNews/~3/h-kmB3u2smA/goldman-bofa-earnings-boost-to-drive-wall-street-higher-at-open-idUSKCN1PA1NU
-
-China central bank's record $83 billion injection heightens worries over ailing economy
-http://feeds.reuters.com/~r/reuters/businessNews/~3/xmeWzHPmaGQ/china-central-banks-record-83-billion-injection-heightens-worries-over-ailing-economy-idUSKCN1PA0UW
 
 Marriott looks to reboot loyalty plan after cyberattack
 https://www.cnbc.com/2019/01/16/marriott-looks-to-reboot-loyalty-plan-after-cyberattack.html
@@ -64,13 +64,13 @@ https://www.cnbc.com/2019/01/16/marriott-looks-to-reboot-loyalty-plan-after-cybe
 Private equity giant Apax buys $200 million stake in A.I. firm Fractal, valuing it at $500 million
 https://www.cnbc.com/2019/01/16/ai-firm-fractal-valued-at-500-million-after-apax-buys-minority-stake.html
 
-Stocks set to open higher on the back of strong bank earnings, Goldman jumps 2%
+Dow rises 100 points as Goldman Sachs gains 4%
 https://www.cnbc.com/2019/01/16/stock-market-futures-higher-after-brexit-vote-bank-earnigns-in-focus.html
 
 China just injected a record amount of money to stimulate its economy
 https://www.cnbc.com/2019/01/16/chinas-central-bank-injects-record-amount-to-stimulate-economy.html
 
-Stocks set to open higher on the back of strong bank earnings, Goldman jumps 2%
+Dow rises 100 points as Goldman Sachs gains 4%
 https://www.cnbc.com/2019/01/16/stock-market-futures-higher-after-brexit-vote-bank-earnigns-in-focus.html
 
 Bank of America shares jump nearly 5% after record earnings report
@@ -85,8 +85,8 @@ https://abcnews.go.com/Business/wireStory/fiserv-buys-data-22b-creating-fintech-
 Bank of America 4Q profits jump on higher interest rates
 https://abcnews.go.com/Business/wireStory/bank-america-profits-jump-higher-interest-rates-60414386
 
-Mark Carney: Sterling rebound reflects expectations that no-deal Brexit less likely - business live
-https://www.theguardian.com/business/live/2019/jan/16/mark-carney-mps-financial-stability-brexit-inflation-house-prices-business-live
+Bank of America 4Q profits jump on higher interest rates
+https://abcnews.go.com/Business/wireStory/bank-america-profits-jump-higher-interest-rates-60414386
 
 Goldman, BofA earnings boost to drive Wall Street higher at open
 https://www.channelnewsasia.com/news/business/goldman--bofa-earnings-boost-to-drive-wall-street-higher-at-open-11130960
