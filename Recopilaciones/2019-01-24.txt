@@ -1,0 +1,138 @@
+DLT
+
+$20 Million Funding Round in Blockchain Firm Symbiont Includes Citigroup and Nasdaq - Cointelegraph {blockchain: 100.0%} 
+https://cointelegraph.com/news/20-million-funding-round-in-blockchain-firm-symbiont-includes-citigroup-and-nasdaq
+100
+
+Is customer information safer with a blockchain database? - American Banker {blockchain: 66.66666666666666%, fintech: 33.33333333333333%, } 
+https://www.americanbanker.com/news/is-customer-information-safer-with-a-blockchain-database
+100
+
+Spanish Port Operator APBA Turns to IBM Blockchain Platform Tradelens - Blockonomi {blockchain: 100.0%} 
+https://blockonomi.com/apba-turns-to-ibm-tradelens/
+100
+
+Blockchain May Soon Enter The Boardroom, According To Institutional Investors - Crypto Briefing {blockchain: 66.66666666666666%, dlt: 33.33333333333333%, } 
+https://cryptobriefing.com/institutional-investors-blockchain-boardroom/
+100
+
+Long Blockchain reaches deal to sell iced tea business - Newsday {blockchain: 66.66666666666666%, cryptocurrency: 33.33333333333333%, } 
+https://www.newsday.com/business/technology/long-blockchain-long-island-iced-tea-1.26358726
+100
+
+Node Worthy 30: Game theory in blockchain economics with David Lancashire - TechNode {blockchain: 100.0%} 
+https://technode.com/2019/01/24/node-worthy-30-game-theory-in-blockchain-economics-with-david-lancashire/
+100
+
+Brewing the perfect coffee with blockchain - Reuters.com {blockchain: 100.0%} 
+https://mobile.reuters.com/video/2019/01/24/brewing-the-perfect-coffee-with-blockcha?videoId=507218314&videoChannel=6
+100
+
+Carrefour Italia is using blockchain technology for citrus fruits - FreshPlaza.com {blockchain: 100.0%} 
+https://www.freshplaza.com/article/9065120/carrefour-italia-is-using-blockchain-technology-for-citrus-fruits/
+100
+
+Microsoft exec shares strengths and challenges of blockchain - MobiHealthNews {blockchain: 100.0%} 
+https://www.mobihealthnews.com/content/microsoft-exec-shares-strengths-and-challenges-blockchain
+100
+
+Ripple announces blockchain research scholarship programme with Chinese university - CryptoNewsReview {ripple: 25.0%, blockchain: 75.0%, } 
+https://cryptonewsreview.com/ripple-announces-blockchain-research-scholarship-programme-with-chinese-university/
+150
+
+Aetna, Anthem, HCSC Back Healthcare Blockchain Initiative - HealthPayerIntelligence.com {blockchain: 75.0%, bank: 25.0%, } 
+https://healthpayerintelligence.com/news/aetna-anthem-hscs-back-healthcare-blockchain-initiative
+200
+
+Blockchain trends & the speed of blockchain adoption in India - YourStory.com {blockchain: 100.0%} 
+https://yourstory.com/2019/01/blockchain-trends-the-speed-of-blockchain-adoption-in-india/
+200
+
+Criptoactivos
+
+World Open Network (WON): Reinventing Cryptocurrency and Blockchain Technology for Society - Bitcoinist {cryptocurrency: 50.0%, blockchain: 50.0%, } 
+https://bitcoinist.com/world-open-network-won-reinventing-cryptocurrency-and-blockchain-technology-for-society/
+200
+
+Ciberseguridad
+
+Pagos Digitales
+
+Monitoreo Tecnológico
+
+Italian Government Introduces Blockchain Terms in Regulation for First Time {blockchain: 50.0%, regulation: 50.0%, } 
+https://cointelegraph.com/news/italian-government-introduces-blockchain-terms-in-regulation-for-first-time
+150
+
+Blockchain regulation in Malaysia: Murkiest before the dawn? - Digital News Asia {blockchain: 50.0%, regulation: 50.0%, } 
+https://www.digitalnewsasia.com/digital-economy/blockchain-regulation-malaysia-murkiest-dawn
+150
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Age of Konsentus for Mastercard’s open banking {open banking: 100.0%} 
+https://www.bankingtech.com/2019/01/age-of-konsentus-for-mastercards-open-banking/
+150
+
+New Partnership Helps Moven Grow in MENA {fintech: 25.0%, open banking: 25.0%, central bank: 25.0%, bank: 25.0%, } 
+https://finovate.com/new-partnership-helps-moven-grow-in-mena/
+400
+
+Otro
+
+US challenger bank Newbridge will start spreading the news {bank: 50.0%, fintech: 50.0%, } 
+https://www.bankingtech.com/2019/01/us-challenger-bank-newbridge-will-start-spreading-the-news/
+110
+
+Asset Management after Brexit: Responding to the New Reality - Michael Hodson, Director of Asset Management and Investment Banking {fintech: 5.357142857142857%, machine learning: 1.7857142857142856%, distributed ledger: 1.7857142857142856%, central bank: 41.07142857142857%, bank: 48.214285714285715%, regulation: 1.7857142857142856%, } 
+http://www.centralbank.ie/news/article/asset-management-after-brexit-michael-hodson
+300
+
+Interview: Achieving Success in Blockchain Consulting During A Bear Market - Forbes {blockchain: 100.0%} 
+https://www.forbes.com/sites/geraldfenech/2019/01/24/interview-achieving-success-in-blockchain-consulting-during-a-bear-market/
+100
+
+What Happens When Legal Tech Meets Blockchain - Forbes {blockchain: 100.0%} 
+https://www.forbes.com/sites/valentinpivovarov/2019/01/24/legalnodes/
+100
+
+Blockchain This Week: Is Blockchain’s Breakout Moment Here And More - Inc42 Media {blockchain: 100.0%} 
+https://inc42.com/buzz/blockchain-this-week-is-blockchains-breakout-moment-here-and-more/
+100
+
+Crypto Valley Labs Release Top 50 Blockchain Companies in Switzerland - Cryptocoin Spy {blockchain: 100.0%} 
+https://cryptocoinspy.com/crypto-valley-labs-release-top-50-blockchain-companies-in-switzerland/
+100
+
+Stephan Nilsson: Changing the world with blockchain - one fish at a time - CoinGeek {blockchain: 100.0%} 
+https://coingeek.com/stephan-nilsson-changing-world-blockchain-one-fish-time/
+100
+
+Dutch hacker puts his kid's LEGO train on the blockchain - TNW {blockchain: 100.0%} 
+https://thenextweb.com/hardfork/2019/01/24/hacker-blockchain-train-duplo/
+100
+
+Why Blockchain technology could revolutionise the entertainment industry - Screen Africa {blockchain: 100.0%} 
+https://www.screenafrica.com/2019/01/24/technology/business-technology/why-blockchain-technology-could-revolutionise-the-entertainment-industry/
+100
+
+StanChart makes its first S'pore trade finance deal on blockchain - The Business Times {blockchain: 100.0%} 
+https://www.businesstimes.com.sg/banking-finance/stanchart-makes-its-first-spore-trade-finance-deal-on-blockchain
+100
+
+Mérieux NutriSciences inks tie-up with blockchain specialist Crystalchain: 'Traceability has become a major concern' - FoodNavigator.com {blockchain: 100.0%} 
+https://www.foodnavigator.com/Article/2019/01/24/Merieux-NutriSciences-inks-tie-up-with-blockchain-specialist-Crystalchain-Traceability-has-become-a-major-concern
+100
+
+Italian Government Introduces Blockchain Terms in Regulation for First Time - Cointelegraph {blockchain: 50.0%, regulation: 50.0%, } 
+https://cointelegraph.com/news/italian-government-introduces-blockchain-terms-in-regulation-for-first-time
+150
+
+China Ranked first in World of Blockchain and AI Patents Being Filed – USA Runner-up {blockchain: 60.0%, ai: 40.0%, } 
+http://www.the-blockchain.com/2019/01/24/china-ranked-first-in-world-of-blockchain-and-ai-patents-being-filed-usa-runner-up/
+150
+

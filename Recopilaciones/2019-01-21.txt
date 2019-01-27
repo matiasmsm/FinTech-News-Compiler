@@ -1,0 +1,136 @@
+DLT
+
+Blockchain Front Page: Anonymous transactions in Bitcoin {blockchain: 100.0, } 
+https://dailyfintech.com/2019/01/21/blockchain-front-page-anonymous-transactions-in-bitcoin/
+100
+
+Global Blockchain Business Council adds Fidelity's Tom Jessop to board {blockchain: 100.0, } 
+https://www.finextra.com/pressarticle/77006/global-blockchain-business-council-adds-fidelitys-tom-jessop-to-board?utm_medium=rss&utm_source=finextrafeed
+154.16666666666666
+
+China bosses blockchain and AI patents {blockchain: 66.66666666666666, ai: 33.33333333333333, } 
+https://www.bankingtech.com/2019/01/china-bosses-blockchain-and-ai-patents/
+162.30769230769232
+
+Criptoactivos
+
+Ciberseguridad
+
+Pagos Digitales
+
+Shouldn’t We All Have Seamless Micropayments By Now? {digital payment: 100.0, } 
+https://www.wired.com/story/shouldnt-we-all-have-seamless-micropayments-by-now
+26.666666666666664
+
+Monitoreo Tecnológico
+
+France fines Google $57 million under new EU data-privacy law {regulators: 100.0, } 
+http://www.latimes.com/business/technology/la-fi-tn-google-france-data-privacy-20190121-story.html
+23.0
+
+'Tough for them': uncertainty grips bank investors ahead of grim year {bank: 50.0, regulation: 50.0, } 
+https://www.smh.com.au/business/banking-and-finance/tough-for-them-uncertainty-grips-bank-investors-ahead-of-grim-year-20190118-p50s57.html?ref=rss&utm_medium=rss&utm_source=rss_business
+35.0
+
+Merger deal between British supermarkets Sainsbury's, Asda faces regulatory challenge {regulatory: 100.0, } 
+https://www.channelnewsasia.com/news/business/merger-deal-between-british-supermarkets-sainsbury-s-asda-faces-11148228
+50
+
+Debt machine: are risks piling up in leveraged loans? {regulators: 100.0, } 
+https://www.ft.com/content/64c9665e-1814-11e9-9e64-d150b3105d21
+65.0
+
+Innovation About to Overtake Regulation - Fuelled by Regulation {regulation: 100.0, } 
+https://www.finextra.com/blogposting/16563/innovation-about-to-overtake-regulation---fuelled-by-regulation?utm_medium=rss&utm_source=finextrafeed
+100
+
+Big Data
+
+CBDC
+
+Otro
+
+Alipay Rides The Payments Licensing Trend In Europe {fintech: 100.0, } 
+https://www.pymnts.com/news/mobile-payments/2019/alipay-payments-licensing-luxembourg-fintech/
+28.385481852315394
+
+Canara Bank to sell stake in Small Industries Development Bank of India {bank: 100.0, } 
+https://www.business-standard.com/article/markets/canara-bank-to-sell-stake-in-small-industries-development-bank-of-india-119012101056_1.html
+33.5
+
+Coinbase acquires API data enabler Blockspring {api: 100.0, } 
+https://www.bankingtech.com/2019/01/coinbase-acquires-api-data-enabler-blockspring/
+50
+
+The VA Wants to Use DeepMind's AI to Prevent Kidney Disease {ai: 50.0, artificial intelligence: 50.0, } 
+https://www.wired.com/story/va-wants-deepminds-ai-prevent-kidney-disease
+83.33333333333334
+
+FinTech Connect 2018: Chris Chamberlain, Quadient {fintech: 100.0, } 
+https://www.fintech.finance/fintech-tv/fintech-connect-2018-chris-chamberlain-quadient/
+100
+
+How AI Will Turn Us All Into Filmmakers {ai: 50.0, artificial intelligence: 50.0, } 
+https://www.wired.com/story/artificial-intelligence-will-turn-us-all-into-filmmakers
+100.0
+
+Swiss fintech KiWi gets $3m funding for SME lending and payments {fintech: 100.0, } 
+https://www.bankingtech.com/2019/01/swiss-fintech-kiwi-gets-3-2m-funding-for-sme-lending-and-payments/
+100
+
+AI to outperform human credit decisions by 2024 - survey {ai: 50.0, artificial intelligence: 50.0, } 
+https://www.finextra.com/pressarticle/77005/ai-to-outperform-human-credit-decisions-by-2024---survey?utm_medium=rss&utm_source=finextrafeed
+115.0
+
+The Fintech Fix: Japan, Snoop Dogg and Marriage {fintech: 100.0, } 
+https://www.fintech.finance/01-news/the-fintech-fix-japan-snoop-dogg-and-marriage/
+126.25
+
+AI to outperform human credit decisions by 2024 {ai: 50.0, artificial intelligence: 50.0, } 
+https://www.fintech.finance/01-news/ai-to-outperform-human-credit-decisions-by-2024/
+155.0
+
+Canara Bank to sell stake in Small Industries Development Bank of India {bank: 100.0, } 
+https://www.business-standard.com/article/markets/canara-bank-to-sell-stake-in-small-industries-development-bank-of-india-119012101056_1.html
+33.5
+
+Objectway acquires Algorfin {fintech: 100.0, } 
+https://www.finextra.com/pressarticle/76999/objectway-acquires-algorfin?utm_medium=rss&utm_source=finextrafeed
+42.5
+
+IDBI Bank shares tumble over 3% after 51% stake acquisition by LIC {bank: 100.0, } 
+https://www.business-standard.com/article/markets/idbi-bank-shares-tumble-over-3-after-51-stake-acquisition-by-lic-119012100776_1.html
+64.27076540655437
+
+France fines Google €50 million using EU's transparency and consent law {regulatory: 100.0, } 
+http://feedproxy.google.com/~r/euronews/en/home/~3/1NMnB0cxT2w/france-fines-google-50-million-using-eu-s-transparency-and-consent-law
+67.5
+
+Flexciton is using AI to help factories optimise production lines {ai: 100.0, } 
+http://feedproxy.google.com/~r/Techcrunch/~3/CiwKfZlu93o/
+85.0
+
+Fintech Finance presents: The Insurtech Show Episode 1.02 – Banking on Insurtech {fintech: 100.0, } 
+https://www.fintech.finance/01-news/fintech-finance-presents-the-insurtech-show-episode-1-02-banking-on-insurtech/
+100
+
+Video: fintech news weekly round-up – 21 January 2019 {fintech: 100.0, } 
+https://www.bankingtech.com/2019/01/video-fintech-news-weekly-round-up-21-january-2019/
+100
+
+FutureFlow and Anorak join Fintech Innovation Lab London {fintech: 100.0, } 
+https://www.bankingtech.com/2019/01/futureflow-and-anorak-join-fintech-innovation-lab-london/
+100
+
+Invoice finance platform MarketInvoice raises $33.5M from  Barclays, Santander {fintech: 100.0, } 
+http://feedproxy.google.com/~r/Techcrunch/~3/UXXAbh9Gyfw/
+124.44444444444444
+
+Research: You spend 50 percent extra time and money if your development vendor isn't into fintech {fintech: 100.0, } 
+https://www.finextra.com/blogposting/16560/research-you-spend-50-percent-extra-time-and-money-if-your-development-vendor-isnt-into-fintech?utm_medium=rss&utm_source=finextrafeed
+134.0
+
+Augmentum Fintech deals with death with £4 million in Farewell {fintech: 100.0, } 
+https://www.finextra.com/pressarticle/77004/augmentum-fintech-deals-with-death-with-4-million-in-farewell?utm_medium=rss&utm_source=finextrafeed
+185.71428571428572
+
