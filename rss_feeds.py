@@ -1,7 +1,7 @@
-import feedparser
-import json
 import datetime
-from generar_palabras_noticias import obtener_palabras_url
+import json
+import feedparser
+
 
 def cargar_filtros():
     """FUNCIÓN QUE RETORNA EL DICCIONARIO DE FILTROS DE Filtros_FinTech.json"""
@@ -25,6 +25,8 @@ def cargar_combinaciones_palabras():
 
 
 def determinar_estadisticas(palabras_fintech):
+    """Función que determina y retorna estadisticas del % de mención de palabras
+    FinTech presentes en la noticias"""
     lista_estadisticas_palabras = list()
     lista_palabras_ya_incluidas = list()
     for palabra in palabras_fintech:
@@ -47,6 +49,7 @@ def determinar_estadisticas(palabras_fintech):
 
 
 def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
+    """Función que determina y retorna el tema(eje) de una noticia"""
     """diccionario_temas = {"DLT": ["dlt", "blockchain", "distributed ledger",
                                  "descentralized ledger", "centralized ledger",
                                  "ethereum", "ripple", "digital asset",
@@ -75,7 +78,6 @@ def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
         for dict_palabra in lista_palabras_fintech:
             if "eje" in dict_palabra.keys() and dict_palabra["palabra"] == palabra_contenido:
                 ejes_en_contenido.append(dict_palabra["eje"])
-
     if len(ejes_en_titulo) > 0:
         lista_ejes_titulo_estadistica = list()
         lista_ejes_mencionados = list()
@@ -88,7 +90,7 @@ def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
                         numero_de_mencion += 1
                 lista_ejes_titulo_estadistica.append([eje, numero_de_mencion])
         lista_ejes_titulo_estadistica = sorted(lista_ejes_titulo_estadistica, key=lambda k: int(k[1]))
-        eje = lista_ejes_titulo_estadistica[-1]
+        eje = lista_ejes_titulo_estadistica[-1][0]
         return eje
     elif len(ejes_en_contenido) > 0:
         lista_ejes_contenido_estadistica = list()
@@ -103,7 +105,7 @@ def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
                 lista_ejes_contenido_estadistica.append([eje, numero_de_mencion])
         lista_ejes_contenido_estadistica = sorted(lista_ejes_contenido_estadistica,
                                                key=lambda k: int(k[1]))
-        eje = lista_ejes_contenido_estadistica[-1]
+        eje = lista_ejes_contenido_estadistica[-1][0]
         return eje
     else:
         return "Otro"
@@ -121,6 +123,16 @@ def filtro_data_top_noticias(lista_palabras_contenido):
                 peso += numero_menciones
     return peso
 """
+
+def tiene_eje(palabra, lista_dict_palabras):
+    """Función que retorna True si la palabra FinTech tiene un eje asignado y
+    si no retorna False"""
+    for dict_palabra in lista_dict_palabras:
+        if dict_palabra["palabra"] == palabra:
+            if "eje" in dict_palabra.keys():
+                return True
+            else:
+                return False
 
 
 def determinar_importancia(titulo, contenido, link, peso_fuente):
@@ -187,13 +199,12 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
                 lista_palabras_fintech_presentes.append(diccionario_palabra[
                                                             "palabra"])
         indice_palabra_titulo += 1
-    """
-    """"""SE
-    SEGUNDO FILTRO:SE SUMA UN PUNTAJE POR CADA MENCIÓN DE UNA PALABRA
-    FINTECH PERO ÉSTE ES RELATIVO A LA POSICION DE LA PALABRA EN EL ARTICULO""""""
+
+    """Añadimos a lista_palabras_fintech_presentes las palabras FinTech que
+    están presentes en el contenido de la noticia"""
     indice_palabra_contenido = 0
     for palabra_contenido in lista_palabras_contenido:
-        #AQUI INCLUIR FACTOR MULTIPLICADOR DE PUNTAJE CON RESPECTO A NUMERO DE
+        # AQUI INCLUIR FACTOR MULTIPLICADOR DE PUNTAJE CON RESPECTO A NÚMERO DE
         # LINEA EN QUE SE MENCIONA LA PALABRA
         for diccionario_palabra in lista_diccionarios_palabras:
             dupla_palabras = ""
@@ -209,9 +220,9 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
                 lista_indices_palabras_fintech_presentes.append(
                     indice_palabra_contenido)
         indice_palabra_contenido += 1
-    """
 
-    """TERCER FILTRO: SE LE SUMA UN PUNTAJE ELEVADO A LA NOTICIA SI ES QUE
+
+    """SEGUNDO FILTRO: SE LE SUMA UN PUNTAJE ELEVADO A LA NOTICIA SI ES QUE
     MENCIONA CONJUNTOS DE PALABRAS ESPECIFICAS DEFINIDAS EN LA LISTA
     lista_palabras_contenido"""
     # La variable puntaje_conjunto_palabras representa la suma total de
@@ -222,18 +233,18 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
     for conjunto_palabras in lista_combinaciones:
         # En la siguiente linea se revisa si el el conjunto_palabras está en
         # la lista lista_palabras_fintech_presentes
-        resultado = all(elem in lista_palabras_fintech_presentes for elem
-                        in conjunto_palabras)
-        if resultado:
-            # Aqui se le suma un puntaje (**** POR DETERMINAR ****) si el
-            # conjunto_palabras está presente en la lista
-            # lista_palabras_fintech_presentes
-            puntaje_conjunto_palabras += 200
-            lista_conjunto_palabras_mencionadas.append(conjunto_palabras)
+        existe_eje = False
+        for elem in conjunto_palabras:
+            if tiene_eje(elem, lista_diccionarios_palabras):
+                resultado = all(elem in lista_palabras_fintech_presentes for elem
+                                in conjunto_palabras)
+                if resultado:
+                    # Aqui se le suma un puntaje (**** POR DETERMINAR ****) si el
+                    # conjunto_palabras está presente en la lista
+                    # lista_palabras_fintech_presentes
+                    puntaje_conjunto_palabras += 200
+                    lista_conjunto_palabras_mencionadas.append(conjunto_palabras)
     puntaje += puntaje_conjunto_palabras
-    """CUARTO FILTRO: SE LE SUMA UN PUNTAJE POR MENCION DE PALABRAS
-    RECOLECTADAS DE LAS RECOPILACIONES DE LAS MEJORES NOTICIAS DIARIAS"""
-    #puntaje += filtro_data_top_noticias(lista_palabras_contenido)
     """FILTRO POR AUTORES (FALTA DEFINIR AUTORES)
     for diccionario_autor in lista_diccionarios_autores:
         if diccionario_autor["nombre"] == autor:
@@ -245,7 +256,8 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
 
 
 def filtrar_contenido(nombre_fuente, contenido, peso):
-    """AQUI SE ENCUENTRAN TODOS LOS FILTROS"""
+    """AQUI SE RETORNA UNA LISTA CON DICCIONARIOS QUE REPRESENTAN Y TIENE
+    LOS DETALLES RELEVANTES DE UN ARTICULO DE LA FUENTE ESPECIFICADA"""
     # La variable lista_diccionario_entries es una lista de diccionarios en la
     # cual cada diccionario representa una noticia del día de hoy con las
     # llaves "titulo", "link" y "puntaje"
@@ -262,8 +274,8 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
         # Se separa el string de la fecha en sus componentes para asi poder
         # obtener las noticias que han salido sólo el día de hoy
         lista_elementos_fecha_actual = fecha_actual.split(" ")
-        """La llave published no siempre existe en el diccionario entregado por
-         el RSS feed por lo que se debe tomar en cuenta la llave updated"""
+        """La llave 'published' no siempre existe en el diccionario entregado por
+         el RSS feed por lo que se debe tomar en cuenta la llave 'updated'"""
         if "published" in entry.keys():
             lista_elems_fecha_articulo = entry.published.split(" ")
             num_ocurrencias = 0

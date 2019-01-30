@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
+import json
 
 """Declaracion de url's"""
 american_banker_url = "https://www.americanbanker.com/"
@@ -16,6 +17,16 @@ def cargar_fuentes():
         diccionario_fuentes = json.load(fuentes_file)
         return diccionario_fuentes
 
+def obtener_palabras_url(url):
+    page_response = requests.get(url, timeout=5)
+    soup = BeautifulSoup(page_response.content, "html.parser")
+    textContent = ""
+    for node in soup.findAll('p'):
+        textContent += str(node.findAll(text=True))
+    lista_palabras = textContent.strip(",").strip(".").strip("[").strip(
+        "]").strip("(").strip(")").split(" ")
+    lista_palabras_lower = [palabra.lower() for palabra in lista_palabras]
+    return lista_palabras_lower
 
 # Here, we're just importing both Beautiful Soup and the Requests library
 page_link = 'the_url_you_want_to_scrape.scrape_it_real_good.com'
