@@ -1,0 +1,138 @@
+DLT
+
+Notable Startup: Blockchain Firm Symbiont Raises $20 Million in Nasdaq Ventures-led Round {blockchain: 100.0%} 
+https://bankinnovation.net/2019/01/notable-startup-blockchain-firm-symbiont-raises-20-million-in-nasdaq-ventures-led-round/
+100
+
+Blockchain Tech and the Energy Industry: More Decentralization and Greater Efficiency {blockchain: 100.0%} 
+https://cointelegraph.com/news/blockchain-tech-and-the-energy-industry-more-decentralization-and-greater-efficiency
+100
+
+Portal Allows You to Buy Altcoins Using Fiat, Without Converting to Bitcoin or Ethereum First {ethereum: 100.0%} 
+https://cointelegraph.com/news/portal-allows-you-to-buy-altcoins-using-fiat-without-converting-to-bitcoin-or-ethereum-first
+100
+
+PNC and IBM back health insurers' blockchain project {blockchain: 66.66666666666666%, bank: 33.33333333333333%, } 
+https://www.finextra.com/newsarticle/33262/pnc-and-ibm-back-health-insurers-blockchain-project?utm_medium=rss&utm_source=finextrafeed
+1100
+
+Criptoactivos
+
+Bitcoin price: cryptocurrency to set record for ‘longest downward trend’ {cryptocurrency: 100.0%} 
+https://www.theweek.co.uk/cryptocurrencies/99247/bitcoin-price-today-cryptocurrency-to-set-record-for-longest-downward-trend
+100
+
+Bitcoin Falls Below $3,500 as Fresh Downturn Hits Cryptocurrency Markets {cryptocurrency: 100.0%} 
+https://cointelegraph.com/news/bitcoin-falls-below-3-500-as-fresh-downturn-hits-cryptocurrency-markets
+100
+
+Ciberseguridad
+
+Pagos Digitales
+
+Monitoreo Tecnológico
+
+Taxi drivers' protest for regulation enters eighth day as Madrid police move in {regulation: 100.0%} 
+http://feedproxy.google.com/~r/euronews/en/home/~3/_GSHXpvKl1U/taxi-drivers-protest-for-regulation-enters-eighth-day-as-madrid-police-move-in
+50
+
+Eurasian Economic Commission Prepares Report on Cryptocurrencies, Considers Regulation {regulation: 100.0%} 
+https://cointelegraph.com/news/eurasian-economic-commission-prepares-report-on-cryptocurrencies-considers-regulation
+50
+
+Blockchain Front Page: New York regulators approved new Crypto ventures {blockchain: 100.0%} 
+https://dailyfintech.com/2019/01/28/blockchain-front-page-new-york-regulators-approved-new-crypto-ventures/
+100
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Otro
+
+RBI Guv Das takes stock of banking sector with PSB Bank chiefs {bank: 100.0%} 
+https://www.thehindubusinessline.com/money-and-banking/rbi-guv-das-takes-stock-of-banking-sector-with-psb-bank-chiefs/article26111330.ece
+10
+
+Bank of India Q3 loss doubles to Rs 4,738 crore; gross NPAs at 16.31% {bank: 100.0%} 
+https://www.business-standard.com/article/companies/bank-of-india-q3-loss-doubles-to-rs-4-738-crore-gross-npas-at-16-31-119012801053_1.html
+10
+
+Lloyds Bank launches ‘mortgage of mum and dad’ to help more young people become homeowners {bank: 100.0%} 
+https://www.dailymail.co.uk/news/article-6638369/Lloyds-Bank-launches-mortgage-mum-dad-help-young-people-homeowners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+10
+
+Envestnet | Yodlee buys Abe AI {ai: 100.0%} 
+https://www.finextra.com/pressarticle/77085/envestnet--yodlee-buys-abe-ai?utm_medium=rss&utm_source=finextrafeed
+50
+
+Wirecard launches API developer portal {api: 100.0%} 
+https://www.bankingtech.com/2019/01/wirecard-launches-api-developer-portal/
+50
+
+India’s Largest FinTech Conclave Is Here: This Time 3X the Scale {fintech: 100.0%} 
+https://gomedici.com/india-largest-fintech-conclave-this-time-three-times-the-scale/
+100
+
+Comcast & NBCUniversal invest in fintech app Acorns with a deal to produce content through CNBC {fintech: 100.0%} 
+https://www.cnbc.com/2019/01/28/comcast--nbcuniversal-invest-in-fintech-app-acorns-to-produce-content-through-cnbc.html
+100
+
+Comcast & NBCUniversal invest in fintech app Acorns with a deal to produce content through CNBC {fintech: 100.0%} 
+https://www.cnbc.com/2019/01/28/comcast--nbcuniversal-invest-in-fintech-app-acorns-to-produce-content-through-cnbc.html
+100
+
+Mizuho makes move on Chinese fintech start-ups {fintech: 100.0%} 
+https://www.bankingtech.com/2019/01/mizuho-makes-move-on-chinese-fintech-start-ups/
+100
+
+Infographics Analyzing Incumbent Banks’ Standalone Fresh Mobile-First Offerings {fintech: 50.0%, bank: 50.0%, } 
+https://gomedici.com/infographic-analyzing-incumbent-bank-standalone-mobile-first-offerings/
+1000
+
+CBI to soon summon Chanda Kochhar, other suspects in ICICI Bank case {bank: 100.0%} 
+https://www.business-standard.com/article/pti-stories/icici-bank-case-cbi-to-call-suspects-for-questioning-after-scrutiny-of-documents-119012801290_1.html
+10
+
+Canara Bank Q3 net up over two-fold to Rs 317.5 cr as NPA provisioning dips {bank: 100.0%} 
+https://www.business-standard.com/article/pti-stories/canara-bank-q3-profit-jumps-over-twofold-as-bad-loan-provisioning-dips-119012800908_1.html
+10
+
+Belarus’ Largest Bank Considers Setting up Crypto Exchange, Says Chairman of Board {bank: 100.0%} 
+https://cointelegraph.com/news/belarus-largest-bank-considers-setting-up-crypto-exchange-says-chairman-of-board
+10
+
+Wirecard opens API management and developer portal {api: 100.0%} 
+https://www.finextra.com/pressarticle/77080/wirecard-opens-api-management-and-developer-portal?utm_medium=rss&utm_source=finextrafeed
+50
+
+Fintech apps of the future {fintech: 100.0%} 
+https://www.finextra.com/blogposting/16587/fintech-apps-of-the-future?utm_medium=rss&utm_source=finextrafeed
+100
+
+Fintech start-up Acorns valued at $860 million after latest funding round {fintech: 100.0%} 
+https://www.cnbc.com/2019/01/28/fintech-start-up-acorns-valued-at-860-million-after-latest-funding-round.html
+100
+
+Fintech start-up Acorns valued at $860 million after latest funding round {fintech: 100.0%} 
+https://www.cnbc.com/2019/01/28/fintech-start-up-acorns-valued-at-860-million-after-latest-funding-round.html
+100
+
+Video: fintech news weekly round-up – 28 January 2019 {fintech: 50.0%, alipay: 50.0%, } 
+https://www.bankingtech.com/2019/01/video-fintech-news-weekly-round-up-28-january-2019/
+100
+
+DBS CIO Neal Cross leaves for fintech start-up {fintech: 100.0%} 
+https://www.bankingtech.com/2019/01/dbs-cio-neal-cross-leaves-for-fintech-start-up/
+100
+
+Nestle: IBM Food Trust Blockchain Set to Expand to New Suppliers, Consumers in 2019 {blockchain: 100.0%} 
+https://cointelegraph.com/news/nestle-ibm-food-trust-blockchain-set-to-expand-to-new-suppliers-consumers-in-2019
+100
+
+Iran Soon to Unveil Cryptocurrency With Aim to Skirt US and SWIFT: Source {cryptocurrency: 100.0%} 
+https://cointelegraph.com/news/iran-soon-to-unveil-cryptocurrency-with-aim-to-skirt-us-and-swift-source
+100
+

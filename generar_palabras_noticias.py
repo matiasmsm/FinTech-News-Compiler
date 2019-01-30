@@ -26,7 +26,7 @@ def obtener_palabras_url(url):
     textContent = ""
     for node in soup.findAll('p'):
         textContent += str(node.findAll(text=True))
-    lista_palabras = textContent.strip(",").strip(".").strip("[").strip("]").split(" ")
+    lista_palabras = textContent.strip(",").strip(".").strip("[").strip("]").strip("(").strip(")").split(" ")
     lista_palabras_lower = [palabra.lower() for palabra in lista_palabras]
     return lista_palabras_lower
 
