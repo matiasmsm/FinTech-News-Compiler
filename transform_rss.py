@@ -1,36 +1,28 @@
 import datetime
 import json
-import feedparser
+from extract_rss import consultas_feed
 
 
 def cargar_filtros():
     """FUNCIÓN QUE RETORNA EL DICCIONARIO DE FILTROS DE Filtros_FinTech.json"""
-    with open("Filtros_FinTech.json", 'r', encoding="utf-8") as filtros_file:
+    with open("Archivos Json/Filtros_FinTech.json", 'r', encoding="utf-8") as filtros_file:
         diccionario_filtros = json.load(filtros_file)
         return diccionario_filtros
 
 
-def cargar_fuentes():
-    """FUNCIÓN QUE RETORNA EL DICCIONARIO DE LAS FUENTES DE NOTICIAS DE
-    fuentes_rss.json"""
-    with open("fuentes_rss.json", 'r', encoding="utf-8") as fuentes_file:
-        diccionario_fuentes = json.load(fuentes_file)
-        return diccionario_fuentes
-
-
 def cargar_combinaciones_palabras():
-    with open("combinaciones_palabras.json", "r") as combinaciones_file:
+    with open("Archivos Json/combinaciones_palabras.json", "r") as combinaciones_file:
         lista_combinaciones = json.load(combinaciones_file)["combinaciones"]
         return lista_combinaciones
 
 
-def determinar_estadisticas(palabras_fintech):
+def determinar_estadisticas(palabras_fintech, lista_dict_palabras):
     """Función que determina y retorna estadisticas del % de mención de palabras
     FinTech presentes en la noticias"""
     lista_estadisticas_palabras = list()
     lista_palabras_ya_incluidas = list()
     for palabra in palabras_fintech:
-        if palabra not in lista_palabras_ya_incluidas:
+        if palabra not in lista_palabras_ya_incluidas and tiene_eje(palabra, lista_dict_palabras):
             lista_palabras_ya_incluidas.append(palabra)
             numero_menciones = 0
             for palabra2 in palabras_fintech:
@@ -159,7 +151,7 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
     diccionario_filtros = cargar_filtros()
     lista_diccionarios_palabras = diccionario_filtros["palabras"]
     lista_diccionarios_autores = diccionario_filtros["autores"]
-    lista_listas_conjuntos_palabras = diccionario_filtros["conjuntos_palabras"]
+    #lista_listas_conjuntos_palabras = diccionario_filtros["conjuntos_palabras"]
     # -------------------------------------------------------------------------
     # -------------------------------------------------------------------------
     # Se separan las palabras del titulo y del contenido y se ponen en sus
@@ -250,7 +242,7 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
         if diccionario_autor["nombre"] == autor:
             puntaje += diccionario_autor["peso"]
     """
-    str_estadisticas = determinar_estadisticas(lista_palabras_fintech_presentes)
+    str_estadisticas = determinar_estadisticas(lista_palabras_fintech_presentes, lista_diccionarios_palabras)
     tema_global_noticia = determinar_tema(lista_palabras_titulo, lista_palabras_fintech_presentes)
     return puntaje, lista_conjunto_palabras_mencionadas, tema_global_noticia, str_estadisticas
 
@@ -290,6 +282,7 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
                     determinar_importancia(titulo_noticia, contenido,
                                            link_noticia,
                                                  peso)
+                print(puntaje)
                 lista_diccionarios_entries.append({"titulo":titulo_noticia,
                                             "link":link_noticia, "puntaje":
                                             puntaje, "conjunto_palabras":
@@ -359,27 +352,9 @@ def crear_recopilación_top_noticias(diccionario_fuentes_noticias):
                     noticia["puntaje"]) + "\n" + "\n")
 
 
-def consultas_feed():
-    diccionario_fuentes = cargar_fuentes()
-    # La variable diccionario_noticias_fuentes es un diccionario en el que cada
-    # key es el nombre de una fuente y cada valor respectivo a una key es una
-    # lista de noticias que tienen un determinado puntaje (>0 o un top número
-    # de noticias)
-    diccionario_noticias_fuentes = dict()
-    # ------------------------------------------------------------------------
-    for diccionario_fuente in diccionario_fuentes["fuentes"]:
-        nombre = diccionario_fuente["nombre"]
-        print(nombre)
-        url = diccionario_fuente["url"]
-        peso = diccionario_fuente["peso"]
-        url_content = feedparser.parse(url)
-        lista_entries = filtrar_contenido(nombre, url_content, peso)
-        diccionario_noticias_fuentes[nombre] = lista_entries
-    crear_recopilación_top_noticias(diccionario_noticias_fuentes)
-
-
-if __name__ == '__main__':
-    consultas_feed()
-
-
-
+def transformar():
+    diccionario_noticias_fuentes = consultas_feed()
+    for tupla in diccionario_noticias_fuentes.values():
+        lista_entries = filtrar_contenido(tupla[0], tupla[1], tupla[2])
+        diccionario_noticias_fuentes[tupla[0]] = lista_entries
+    return diccionario_noticias_fuentes

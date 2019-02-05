@@ -52,8 +52,8 @@
     {"palabra": "pago digital", "eje": "Pagos Digitales", "peso": 10},
     {"palabra": "digital payment", "eje": "Pagos Digitales", "peso": 10},
     {"palabra": "big data", "eje": "Big Data", "peso": 10},
-    {"palabra": "blockchain", "eje": "DLT","peso": 10},
-    {"palabra": "blockchain's", "eje": "DLT","peso": 10},
+    {"palabra": "blockchain", "eje": "DLT","peso": 0},
+    {"palabra": "blockchain's", "eje": "DLT","peso": 0},
     {"palabra": "fintech","peso": 0},
     {"palabra": "suptech", "eje": "Monitoreo Tecnológico", "peso": 10},
     {"palabra": "regtech", "eje": "Monitoreo Tecnológico", "peso": 10},
@@ -62,10 +62,11 @@
     {"palabra": "cybersecurity", "eje": "Ciberseguridad","peso": 10},
     {"palabra": "ciberataque", "eje": "Ciberseguridad", "peso": 10},
     {"palabra": "cyberattack", "eje": "Ciberseguridad", "peso": 10},
-    {"palabra": "hack", "eje": "Ciberseguridad", "peso": 10},
-    {"palabra": "theft", "eje": "Ciberseguridad", "peso": 10},
-    {"palabra": "scam", "eje": "Ciberseguridad", "peso": 10},
-    {"palabra": "scams", "eje": "Ciberseguridad", "peso": 10},
+    {"palabra": "financial crime", "eje": "Ciberseguridad", "peso": 10},
+    {"palabra": "hack", "eje": "Ciberseguridad", "peso": 0},
+    {"palabra": "theft", "eje": "Ciberseguridad", "peso": 0},
+    {"palabra": "scam", "eje": "Ciberseguridad", "peso": 0},
+    {"palabra": "scams", "eje": "Ciberseguridad", "peso": 0},
     {"palabra": "banca abierta", "eje": "Banca Abierta","peso": 10},
     {"palabra": "open banking", "eje": "Banca Abierta", "peso": 10},
     {"palabra": "api", "peso": 0},
@@ -88,10 +89,12 @@
     {"palabra": "artificial intelligence", "eje": "Otro", "peso": 0},
     {"palabra": "ai", "eje": "Otro", "peso": 0},
     {"palabra": "machine learning", "eje": "Otro", "peso": 0},
-    {"palabra": "project jasper", "eje": "CBDC", "peso": 10},
-    {"palabra": "project stella", "eje": "CBDC", "peso": 10},
-    {"palabra": "project ubin", "eje": "CBDC", "peso": 10},
-    {"palabra": "project khokha", "eje": "CBDC", "peso": 10},
+    {"palabra": "jasper", "eje": "CBDC", "peso": 10},
+    {"palabra": "aber", "eje": "CBDC", "peso": 10},
+    {"palabra": "pier", "eje": "CBDC", "peso": 10},
+    {"palabra": "stella", "eje": "CBDC", "peso": 10},
+    {"palabra": "ubin", "eje": "CBDC", "peso": 10},
+    {"palabra": "khokha", "eje": "CBDC", "peso": 10},
     {"palabra": "e-peso", "eje": "CBDC", "peso": 10},
     {"palabra": "alipay", "eje": "Pagos Digitales", "peso": 10},
     {"palabra": "google pay", "eje": "Pagos Digitales", "peso": 10},
@@ -109,7 +112,7 @@
     {"palabra": "regulatory", "peso": 0},
     {"palabra": "sandbox", "peso": 0}
   ],
-  "conjuntos_palabras":[
+  "conjuntos de palabras":[
     ["fintech", "regulation"],
     ["fintech", "regulación"],
     ["fintech", "innovación"],
@@ -244,5 +247,6 @@
     ["bank", "innovation hub"]],
   "autores":[
     {"nombre":"edgar alan poe", "peso":10}, {"nombre":"otro",
-    "peso":1}]
+    "peso":1}],
+  "palabras no queridas":["games", "bitcoin price"]
 }

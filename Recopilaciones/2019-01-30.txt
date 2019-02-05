@@ -8,6 +8,10 @@ Infinito blockchain platform is one stop show {blockchain: 100.0%}
 https://www.bankingtech.com/2019/01/infinito-blockchain-platform-is-one-stop-show/
 300
 
+London-based Project Uses Microsoft Architecture to Make Blockchain Easier for Developers {blockchain: 100.0%}
+https://cointelegraph.com/news/london-based-project-uses-microsoft-architecture-to-make-blockchain-easier-for-developers
+300
+
 Japanese IT Giant Fujitsu Completes Test of Blockchain Electricity Sharing Project {blockchain: 100.0%}
 https://cointelegraph.com/news/japanese-it-giant-fujitsu-completes-test-of-blockchain-electricity-sharing-project
 300
@@ -20,13 +24,9 @@ Japan: Major Messenger LINE Partners with Financial Giant to Create Blockchain A
 https://cointelegraph.com/news/japan-major-messenger-line-partners-with-financial-giant-to-create-blockchain-alliance
 500
 
-R3 and SBI Holdings form Japan blockchain JV {r3: 50.0%, blockchain: 25.0%, financial: 25.0%, }
-https://www.finextra.com/newsarticle/33278/r3-and-sbi-holdings-form-japan-blockchain-jv?utm_medium=rss&utm_source=finextrafeed
-700
-
-Swift to open gpi gateway to R3 blockchain {swift: 40.0%, r3: 20.0%, blockchain: 20.0%, network: 20.0%, }
-https://www.finextra.com/newsarticle/33286/swift-to-open-gpi-gateway-to-r3-blockchain?utm_medium=rss&utm_source=finextrafeed
-900
+Business Line Dubai: In with the old, in with the new {banking: 25.0%, technology: 25.0%, blockchain: 25.0%, companies: 25.0%, }
+http://feedproxy.google.com/~r/euronews/en/home/~3/giacaKgqrsk/business-line-dubai-in-with-the-old-in-with-the-new
+800
 
 CULedger grabs $10m funding to its blockchain credit {blockchain: 50.0%, dlt: 50.0%, }
 https://www.bankingtech.com/2019/01/culedger-grabs-10m-funding-to-its-blockchain-credit/
@@ -36,9 +36,17 @@ Swift links up with R3 for trading on blockchain {swift: 20.0%, r3: 20.0%, tradi
 https://www.bankingtech.com/2019/01/swift-links-up-with-r3-for-trading-on-blockchain/
 1100
 
+JPMorgan Notes Marginal Improvements to Payment System With Blockchain Technology {payment: 14.285714285714285%, blockchain: 28.57142857142857%, technology: 28.57142857142857%, banking: 14.285714285714285%, payments: 14.285714285714285%, }
+https://cointelegraph.com/news/jpmorgan-notes-marginal-improvements-to-payment-system-with-blockchain-technology
+1100
+
 SWIFT CEO Reveals Plans to Launch PoC Gateway With Blockchain Consortium R3 Tech {swift: 20.0%, launch: 10.0%, blockchain: 20.0%, r3: 10.0%, banking: 10.0%, payments: 10.0%, network: 10.0%, technology: 10.0%, }
 https://cointelegraph.com/news/swift-ceo-reveals-plans-to-integrate-blockchain-consortium-r3s-corda-tech
 1700
+
+Thai Stock Exchange to Formally Request Digital Asset License {stock: 20.0%, digital: 20.0%, digital asset: 40.0%, government: 10.0%, crypto: 10.0%, }
+http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/v8YY271481A/thai-stock-exchange-to-formally-request-digital-asset-license-cm1090037
+2400
 
 Criptoactivos
 
@@ -46,27 +54,75 @@ Bitcoin Approaches $3,500 as Top Cryptos See Growth {cryptocurrencies: 100.0%}
 https://cointelegraph.com/news/bitcoin-approaches-3-500-as-top-cryptos-see-growth
 200
 
-Singapore regulator warns of national cryptocurrency scam {cryptocurrency: 100.0%}
-https://www.bankingtech.com/2019/01/singapore-regulator-warns-of-national-cryptocurrency-scam/
+Love Crypto But Not Its Volatility? Meet Stablecoins {crypto: 100.0%}
+http://fortune.com/2019/01/30/stablecoins-bitcoin-cryptocurrency/
 300
 
-TokenCard partners with Contis to issue TokenCard Visa cards to crypto enthusiasts in the UK and EEA {crypto: 50.0%, payments: 50.0%, }
-https://www.finextra.com/pressarticle/77117/tokencard-partners-with-contis-to-issue-tokencard-visa-cards-to-crypto-enthusiasts-in-the-uk-and-eea?utm_medium=rss&utm_source=finextrafeed
+Cowboys on the Block: Inside Wyoming’s Race for Crypto Prominence {crypto: 100.0%}
+https://cointelegraph.com/news/cowboys-on-the-block-inside-wyomings-race-for-crypto-prominence
+300
+
+IOTA says bulk of $11 million stolen tokens found, hacker worked alone {technology: 50.0%, cryptocurrency: 50.0%, }
+http://feeds.reuters.com/~r/reuters/technologyNews/~3/etnnq7d7sqg/iota-says-bulk-of-11-million-stolen-tokens-found-hacker-worked-alone-idUSKCN1PO2J5
+400
+
+Bitcoin, Ripple, Ethereum, EOS, Bitcoin Cash, Litecoin, Tron, Stellar, Bitcoin SV, Cardano: Price Analysis, Jan. 30 {investment: 50.0%, crypto: 50.0%, }
+https://cointelegraph.com/news/bitcoin-ripple-ethereum-eos-bitcoin-cash-litecoin-tron-stellar-bitcoin-sv-cardano-price-analysis-jan-30
+400
+
+Bloomberg: Amid Bear Market, Crypto Venture Fund Strategy Wins out Over Hedge Fund Model {crypto: 66.66666666666666%, launch: 33.33333333333333%, }
+https://cointelegraph.com/news/bloomberg-amid-bear-market-crypto-venture-fund-strategy-wins-out-over-hedge-fund-model
 500
 
-Research Reveals $1.7 Billion Obtained via Crypto Thefts and Scams in 2018 {billion: 50.0%, crypto: 25.0%, cryptocurrency: 25.0%, }
-https://cointelegraph.com/news/research-reveals-17-billion-obtained-via-crypto-thefts-and-scams-in-2018
+Wikimedia Foundation Partners With Payments Provider BitPay to Accept BTC, BCH Donations {payments: 33.33333333333333%, cryptocurrency: 33.33333333333333%, payment: 33.33333333333333%, }
+https://cointelegraph.com/news/wikimedia-foundation-partners-with-payments-provider-bitpay-to-accept-btc-bch-donations
+600
+
+Abra CEO: Crypto Firms’ Route to Remittances at Scale Will Be Complex but Successful {crypto: 50.0%, cross-border: 25.0%, payments: 25.0%, }
+https://cointelegraph.com/news/abra-ceo-crypto-firms-route-to-remittances-at-scale-will-be-complex-but-successful
+700
+
+Report: New Zealand Cryptopia Exchange Hack Continues {hack: 50.0%, cryptocurrency: 50.0%, }
+https://cointelegraph.com/news/report-new-zealand-cryptopia-exchange-hack-continues
+900
+
+Local Media: Iran Reportedly in Talks With 8 Countries to Use Crypto Transactions {crypto: 33.33333333333333%, transactions: 33.33333333333333%, cryptocurrencies: 33.33333333333333%, }
+https://cointelegraph.com/news/local-media-iran-reportedly-in-talks-with-8-countries-to-use-crypto-transactions
 1300
 
-For Crypto At Scale, Look To Blockchain … And Academia? {crypto: 33.33333333333333%, blockchain: 33.33333333333333%, cryptocurrencies: 33.33333333333333%, }
-https://www.pymnts.com/blockchain/2019/academia-blockchain-cryptocurrency/
+VX Network introduces a new Crypto Based, Monopoly-Style Board Game called Crypto Marble {network: 23.076923076923077%, crypto: 53.84615384615385%, blockchain: 23.076923076923077%, }
+http://www.the-blockchain.com/2019/01/30/vx-network-introduces-a-new-crypto-based-monopoly-style-board-game-called-crypto-marble/
+1400
+
+Plato Technologies and Blackmoon Team Up to Expedite Launching of New ‘On-the-fly’ ETx’s {technologies: 33.33333333333333%, blockchain: 11.11111111111111%, financial: 33.33333333333333%, fintech: 11.11111111111111%, crypto: 11.11111111111111%, }
+http://www.the-blockchain.com/2019/01/30/plato-technologies-and-blackmoon-team-up-to-expedite-launching-of-new-on-the-fly-etxs/
 2000
 
+Research Reveals $1.7 Billion Obtained via Crypto Thefts and Scams in 2018 {billion: 40.0%, crypto: 20.0%, scams: 20.0%, cryptocurrency: 20.0%, }
+https://cointelegraph.com/news/research-reveals-17-billion-obtained-via-crypto-thefts-and-scams-in-2018
+2600
+
 Ciberseguridad
+
+DJI pledges painful action to tackle corruption {theft: 100.0%}
+https://www.bbc.co.uk/news/technology-47055255
+200
+
+Motorist shares genius hack for defrosting windscreen as UK faces &apos;snow bomb&apos; {hack: 100.0%}
+https://www.standard.co.uk/news/uk/motorist-shares-genius-hack-for-defrosting-windscreen-a4053001.html
+300
+
+Huawei charm offensive runs into buzzsaw of US charges {trade: 50.0%, theft: 50.0%, }
+https://www.channelnewsasia.com/news/world/huawei-charm-offensive-runs-into-buzzsaw-of-us-charges-11185428
+400
 
 A ‘black eye’ for Apple: FaceTime bug shakes faith in iPhone security {security: 33.33333333333333%, cybersecurity: 33.33333333333333%, government: 33.33333333333333%, }
 https://www.theguardian.com/technology/2019/jan/29/facetime-security-bug-apple-privacy-iphone
 600
+
+Singapore regulator warns of national cryptocurrency scam {cryptocurrency: 66.66666666666666%, scam: 33.33333333333333%, }
+https://www.bankingtech.com/2019/01/singapore-regulator-warns-of-national-cryptocurrency-scam/
+1000
 
 Pagos Digitales
 
@@ -74,9 +130,9 @@ Marshall Islands to deliver physical 'notes' for digital currency circulation {d
 https://www.finextra.com/newsarticle/33280/marshall-islands-to-deliver-physical-notes-for-digital-currency-circulation?utm_medium=rss&utm_source=finextrafeed
 700
 
-Hamas calls for supporters to send bitcoins {digital: 25.0%, digital currency: 25.0%, currency: 25.0%, financial: 25.0%, }
-https://www.aljazeera.com/news/2019/01/hamas-calls-supporters-send-bitcoins-190130065239528.html
-800
+Report: Alipay and WeChat Pay Require Huobi to Remove Payment Methods from OTC Desk {alipay: 40.0%, payment: 40.0%, trading: 20.0%, }
+https://cointelegraph.com/news/report-alipay-and-wechat-pay-require-huobi-to-remove-payment-methods-from-otc-desk
+700
 
 Saudi Arabia and UAE unite for digital currency dream {digital: 20.0%, digital currency: 20.0%, currency: 20.0%, central bank: 20.0%, bank: 20.0%, }
 https://www.bankingtech.com/2019/01/saudi-arabia-and-uae-unite-for-digital-currency-dream/
@@ -94,10 +150,18 @@ Santander Spain and Raisin in open banking duet {open banking: 33.33333333333333
 https://www.bankingtech.com/2019/01/santander-spain-and-raisin-in-open-banking-duet/
 700
 
+Credorax Partners with Temenos to Enhance Payment Services {payment: 30.0%, payments: 10.0%, cross-border: 10.0%, fintech: 10.0%, technology: 10.0%, open banking: 10.0%, banking: 20.0%, }
+https://finovate.com/credorax-partners-with-temenos-to-enhance-payment-services/
+1400
+
 Otro
 
 Retaining the human touch in an AI driven world {ai: 100.0%}
 https://www.finextra.com/blogposting/16599/retaining-the-human-touch-in-an-ai-driven-world?utm_medium=rss&utm_source=finextrafeed
+200
+
+Roles within marketing firms are changing with growing adoption of AI {ai: 100.0%}
+https://www.business-standard.com/article/management/roles-within-marketing-firms-are-changing-with-growing-adoption-of-ai-119013001525_1.html
 200
 
 Foxconn to set up advanced industrial AI research center in Hyderabad {ai: 100.0%}
@@ -108,20 +172,28 @@ Financial crime fighting AI platform Mimiro raises $30m {financial: 33.333333333
 https://www.finextra.com/newsarticle/33281/financial-crime-fighting-ai-platform-mimiro-raises-30m?utm_medium=rss&utm_source=finextrafeed
 400
 
-Warning! Everything Is Going Deep: ‘The Age of Surveillance Capitalism’ {artificial intelligence: 50.0%, 2019: 50.0%, }
-https://www.nytimes.com/2019/01/29/opinion/artificial-intelligence-surveillance.html?partner=rss&emc=rss
+Columbia Researchers Developed Technology That Can Translate Brain Activity Into Words {technology: 50.0%, artificial intelligence: 50.0%, }
+http://fortune.com/2019/01/30/columbia-ai-speech-synthesizer-translate-thoughts/
 400
 
-Anti-financial crime firm Mimiro raises $30m {machine learning: 50.0%, financial: 50.0%, }
-https://www.bankingtech.com/2019/01/anti-fraud-firm-mimiro-raises-30m/
+Feedzai and DataRobot team up to tackle financial crime {financial: 50.0%, ai: 50.0%, }
+https://www.bankingtech.com/2019/01/feedzai-and-datarobot-team-up-to-tackle-financial-crime/
 400
+
+Why Google Wants To Ride Shotgun With Automobile OEMs {ai: 100.0%} 
+https://www.pymnts.com/ecosystems/2019/google-automobile-ai-voice-assistants/
+200
+
+DJI pledges painful action to tackle corruption {theft: 100.0%} 
+https://www.bbc.co.uk/news/technology-47055255
+200
 
 Foxconn to set up advanced industrial AI research center in Hyderabad {ai: 100.0%} 
 https://www.business-standard.com/article/companies/foxconn-to-set-up-advanced-industrial-ai-research-center-in-hyderabad-119013001163_1.html
 200
 
-Report: New Zealand Cryptopia Exchange Hack Continues {cryptocurrency: 100.0%} 
-https://cointelegraph.com/news/report-new-zealand-cryptopia-exchange-hack-continues
+Why are smart contracts important? {blockchain: 100.0%} 
+https://www.ibm.com/blogs/blockchain/2019/01/why-are-smart-contracts-important/
 200
 
 Russia’s Ministry of Education Introduces System for Tracking Diamonds via Blockchain {blockchain: 100.0%} 
@@ -132,35 +204,39 @@ Feedzai and DataRobot Team Up to Tackle Financial Crime {financial: 50.0%, machi
 https://finovate.com/feedzai-and-datarobot-team-up-to-tackle-financial-crime/
 400
 
-Feedzai and DataRobot team up to tackle financial crime {financial: 50.0%, ai: 50.0%, } 
-https://www.bankingtech.com/2019/01/feedzai-and-datarobot-team-up-to-tackle-financial-crime/
+Warning! Everything Is Going Deep: ‘The Age of Surveillance Capitalism’ {artificial intelligence: 50.0%, 2019: 50.0%, } 
+https://www.nytimes.com/2019/01/29/opinion/artificial-intelligence-surveillance.html?partner=rss&emc=rss
 400
 
-A ‘black eye’ for Apple: FaceTime bug shakes faith in iPhone security {security: 33.33333333333333%, cybersecurity: 33.33333333333333%, government: 33.33333333333333%, } 
-https://www.theguardian.com/technology/2019/jan/29/facetime-security-bug-apple-privacy-iphone
-600
+Top Russian Official Urges Parliament to Discuss Draft Crypto Bill Without Further Delays {crypto: 50.0%, digital: 50.0%, } 
+https://cointelegraph.com/news/top-russian-official-urges-parliament-to-discuss-draft-crypto-bill-without-further-delays
+500
+
+Cryptocurrency Lending Firm Genesis Capital Processed Over $1.1 Billion in 2018 {cryptocurrency: 50.0%, billion: 50.0%, } 
+https://cointelegraph.com/news/cryptocurrency-lending-firm-genesis-capital-processed-over-11-billion-in-2018
+500
 
 UK commercial banks are missing a trick with Open Banking {banks: 36.36363636363637%, open banking: 27.27272727272727%, banking: 36.36363636363637%, } 
 https://bankingblog.accenture.com/uk-commercial-banks-missing-trick-open-banking
 700
 
-Swift CEO announces tie-up with blockchain start-up R3 {swift: 16.666666666666664%, blockchain: 33.33333333333333%, r3: 33.33333333333333%, financial: 16.666666666666664%, } 
-https://www.cnbc.com/2019/01/30/swift-announces-tie-up-with-blockchain-firm-r3-at-paris-fintech-forum.html
+Swift to open gpi gateway to R3 blockchain {swift: 40.0%, r3: 20.0%, blockchain: 20.0%, network: 20.0%, } 
+https://www.finextra.com/newsarticle/33286/swift-to-open-gpi-gateway-to-r3-blockchain?utm_medium=rss&utm_source=finextrafeed
 900
 
 Japanese Finance Giant SBI Holdings, Blockchain Firm R3 Officially Announce Joint Venture {finance: 16.666666666666664%, blockchain: 33.33333333333333%, r3: 33.33333333333333%, financial: 16.666666666666664%, } 
 https://cointelegraph.com/news/japanese-finance-giant-sbi-holdings-blockchain-firm-r3-officially-announce-joint-venture
 900
 
-JPMorgan Notes Marginal Improvements to Payment System With Blockchain Technology {payment: 14.285714285714285%, blockchain: 28.57142857142857%, technology: 28.57142857142857%, banking: 14.285714285714285%, payments: 14.285714285714285%, } 
-https://cointelegraph.com/news/jpmorgan-notes-marginal-improvements-to-payment-system-with-blockchain-technology
+Apple Pay Helps Bolster Tech Giant’s Services Revenue Gains {apple pay: 37.5%, mobile: 12.5%, payment: 12.5%, billion: 25.0%, transactions: 12.5%, } 
+https://bankinnovation.net/2019/01/apple-pay-helps-bolster-tech-giants-services-revenue-gains/
 1100
 
-Local Media: Iran Reportedly in Talks With 8 Countries to Use Crypto Transactions {crypto: 33.33333333333333%, transactions: 33.33333333333333%, cryptocurrencies: 33.33333333333333%, } 
-https://cointelegraph.com/news/local-media-iran-reportedly-in-talks-with-8-countries-to-use-crypto-transactions
-1300
+Singapore: Regulator Warns of Online Scam Claiming Gov’t Adoption of Crypto {scam: 33.33333333333333%, crypto: 33.33333333333333%, central bank: 16.666666666666664%, bank: 16.666666666666664%, } 
+https://cointelegraph.com/news/singapore-regulator-warns-of-online-scam-claiming-govt-adoption-of-crypto
+1800
 
-Plato Technologies and Blackmoon Team Up to Expedite Launching of New ‘On-the-fly’ ETx’s {technologies: 33.33333333333333%, blockchain: 11.11111111111111%, financial: 33.33333333333333%, fintech: 11.11111111111111%, crypto: 11.11111111111111%, } 
-http://www.the-blockchain.com/2019/01/30/plato-technologies-and-blackmoon-team-up-to-expedite-launching-of-new-on-the-fly-etxs/
-2000
+JPMorgan Says Blockchain Is Making Progress Outside Crypto {blockchain: 25.0%, crypto: 25.0%, cryptocurrencies: 25.0%, payment: 25.0%, } 
+https://bankinnovation.net/2019/01/jpmorgan-says-blockchain-is-making-progress-outside-crypto/
+2600
 
