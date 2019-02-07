@@ -1,0 +1,70 @@
+DLT
+
+What is the problem with Money being a claim on an Institution? Reflections from the AxessThinkTank event {blockchain: 50.0%}
+https://dailyfintech.com/2019/02/05/what-is-the-problem-with-money-being-a-claim-on-an-institution-reflections-from-the-axessthinktank-event/
+400
+
+Canada: Blockchain Association Merges with Chamber of Digital Commerce {blockchain: 40.0%}
+https://cointelegraph.com/news/canada-blockchain-association-merges-with-chamber-of-digital-commerce
+600
+
+New Regulatory Framework for Digital Asset Token Offering Introduced in Philippines {digital asset: 28.57142857142857%, crypto: 14.285714285714285%, }
+https://cointelegraph.com/news/new-regulatory-framework-for-digital-asset-token-offering-introduced-in-philippines
+2400
+
+Criptoactivos
+
+A Crypto Exchange CEO Dies—With the Only Key to $137 Million {crypto: 100.0%}
+https://www.wired.com/story/crypto-exchange-ceo-dies-holding-only-key
+300
+
+Crypto Markets Trade Sideways, Gold Tries to Find Direction Ahead of Trump Address {crypto: 50.0%}
+https://cointelegraph.com/news/crypto-markets-trade-sideways-gold-tries-to-find-direction-ahead-of-trump-address
+500
+
+Users of Crypto Wallets Electrum and MyEtherWallet Face Phishing Attacks {crypto: 50.0%, cryptocurrency: 50.0%, }
+https://cointelegraph.com/news/users-of-crypto-wallets-electrum-and-myetherwallet-face-phishing-attacks
+900
+
+Ciberseguridad
+
+Pagos Digitales
+
+Monitoreo Tecnológico
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Otro
+
+Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination {ai: 100.0%}
+https://www.wired.com/story/ideas-joi-ito-insurance-algorithms
+200
+
+Making New Drugs With a Dose of Artificial Intelligence {artificial intelligence: 100.0%}
+https://www.nytimes.com/2019/02/05/technology/artificial-intelligence-drug-research-deepmind.html?partner=rss&emc=rss
+200
+
+Robots' Lead Role in Super Bowl Ads Hint at Tech Anxieties {artificial intelligence: 50.0%}
+https://www.wsj.com/articles/robots-lead-role-in-super-bowl-ads-hint-at-tech-anxieties-11549311804?mod=rss_Technology
+400
+
+The EU’s “softball” approach to Artificial Intelligence will lose to China’s “hardball” ǀ View {artificial intelligence: 25.0%, ai: 50.0%, }
+http://feedproxy.google.com/~r/euronews/en/home/~3/wr5lqO489zY/the-eu-s-softball-approach-to-artificial-intelligence-will-lose-to-china-s-hardball-view
+1200
+
+Making New Drugs With a Dose of Artificial Intelligence {artificial intelligence: 100.0%}
+https://www.nytimes.com/2019/02/05/technology/artificial-intelligence-drug-research-deepmind.html?partner=rss&emc=rss
+200
+
+Making New Drugs With a Dose of Artificial Intelligence {artificial intelligence: 100.0%}
+https://www.nytimes.com/2019/02/05/technology/artificial-intelligence-drug-research-deepmind.html?partner=rss&emc=rss
+200
+
+Storage for blockchain and modern distributed database processing {blockchain: 71.42857142857143%}
+https://www.ibm.com/blogs/blockchain/2019/02/storage-for-blockchain-and-modern-distributed-database-processing/
+600
+

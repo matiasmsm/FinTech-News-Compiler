@@ -1,6 +1,8 @@
 import datetime
 import json
-from extract_rss import consultas_feed
+import re
+
+from RSS.extract_rss import consultas_feed
 
 
 def cargar_filtros():
@@ -269,9 +271,17 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
         """La llave 'published' no siempre existe en el diccionario entregado por
          el RSS feed por lo que se debe tomar en cuenta la llave 'updated'"""
         if "published" in entry.keys():
-            lista_elems_fecha_articulo = entry.published.split(" ")
+            if "-" in entry.published:
+                lista1_elems_fecha_articulo = entry.published.split("T")
+                lista_elems_fecha_articulo = list()
+                for elem in lista1_elems_fecha_articulo:
+                    lista_elems_fecha_articulo.extend(elem.split("-"))
+            else:
+                lista_elems_fecha_articulo = entry.published.split(" ")
             num_ocurrencias = 0
             for elemento in lista_elementos_fecha_actual:
+                if len(elemento) == 1:
+                    elemento = '0' + elemento
                 for elem in lista_elems_fecha_articulo:
                     if elemento == elem:
                         num_ocurrencias += 1
@@ -282,7 +292,6 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
                     determinar_importancia(titulo_noticia, contenido,
                                            link_noticia,
                                                  peso)
-                print(puntaje)
                 lista_diccionarios_entries.append({"titulo":titulo_noticia,
                                             "link":link_noticia, "puntaje":
                                             puntaje, "conjunto_palabras":
