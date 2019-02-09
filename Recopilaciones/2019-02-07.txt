@@ -1,0 +1,166 @@
+DLT
+
+SIA blockchain sureties a sure thing in south Italy {blockchain: 100.0%}
+https://www.bankingtech.com/2019/02/sia-blockchain-sureties-a-sure-thing-in-south-italy/
+200
+
+Blockchain-Based Digital ID Systems Are Increasingly Finding Real-World Use {blockchain: 33.33333333333333%}
+https://cointelegraph.com/news/blockchain-based-digital-id-systems-are-increasingly-finding-real-world-use
+400
+
+Italian city partners SIA on sureties blockchain project {blockchain: 50.0%}
+https://www.finextra.com/newsarticle/33342/italian-city-partners-sia-on-sureties-blockchain-project?utm_medium=rss&utm_source=finextrafeed
+600
+
+Over 5.5 Billion USDC has Been Transferred оn-Chain {ethereum: 25.0%}
+https://cointelegraph.com/news/over-55-billion-usdc-has-been-transferred-on-chain
+600
+
+Banco Best and Credit Suisse bring DLT to fund transactions {dlt: 33.33333333333333%}
+https://www.bankingtech.com/2019/02/banco-best-and-credit-suisse-bring-dlt-to-fund-transactions/
+700
+
+Swiss stock exchange’s blockchain bourse delays launch {blockchain: 25.0%}
+https://www.bankingtech.com/2019/02/swiss-stock-exchanges-blockchain-bourse-delays-launch/
+800
+
+Ripple adds 10 universities to blockchain research initiative {ripple: 50.0%, blockchain: 50.0%, }
+https://www.finextra.com/pressarticle/77213/ripple-adds-10-universities-to-blockchain-research-initiative?utm_medium=rss&utm_source=finextrafeed
+900
+
+How MIT Joined Ethereum in the Race for the First PoS Blockchain {ethereum: 33.33333333333333%, blockchain: 66.66666666666666%, }
+https://cointelegraph.com/news/how-mit-joined-ethereum-in-the-race-for-the-first-pos-blockchain
+900
+
+Two Investment Firms Launch ETF Tracking Cloud Computing and Blockchain Companies {blockchain: 16.666666666666664%}
+https://cointelegraph.com/news/two-investment-firms-launch-etf-tracking-cloud-computing-and-blockchain-companies
+1000
+
+UAE to Discuss Blockchain and Digital Assets at 7th World Government Summit {blockchain: 22.22222222222222%}
+https://cointelegraph.com/news/uae-to-discuss-blockchain-and-digital-assets-at-7th-world-government-summit
+1200
+
+Fetch.AI joins the IoT Alliance With Bosch, Cisco and Others to Accelerate IoT {ai: 25.0%, blockchain: 25.0%, distributed ledger: 50.0%, }
+https://www.the-blockchain.com/2019/02/07/fetch-ai-joins-the-iot-alliance-with-bosch-cisco-and-others-to-accelerate-iot/
+1800
+
+Criptoactivos
+
+Bitcoin, Altcoins Are Vulnerable to New Lows, Fundstrat Warns Clients {cryptocurrency: 100.0%}
+https://cointelegraph.com/news/bitcoin-altcoins-are-vulnerable-to-new-lows-fundstrat-warns-clients
+200
+
+Germany: Suspects Arrested for Stealing Electricity in Crypto Mining Operation {crypto: 100.0%}
+https://cointelegraph.com/news/germany-suspects-arrested-for-stealing-electricity-in-crypto-mining-operation
+300
+
+How criminals use Uber and Airbnb to launder money stolen from your credit card {cryptocurrencies: 50.0%}
+https://www.cnbc.com/2019/02/07/how-criminals-use-airbnb-uber-launder-stolen-credit-card-money.html
+400
+
+Binance Wants to Add Ripple’s xRapid as a Partner in Future, CZ Reveals {crypto: 50.0%}
+https://cointelegraph.com/news/binance-wants-to-add-ripples-xrapid-as-a-partner-in-future-cz-reveals
+400
+
+BitTorrent Partners with CoinPayments to Launch Support for Native BTT Token {crypto: 33.33333333333333%}
+https://cointelegraph.com/news/bittorrent-partners-with-coinpayments-to-launch-support-for-native-btt-token
+600
+
+Binance CEO CZ: Crypto Growth Needs Entrepreneurs and Projects, Not ETFs {crypto: 50.0%, cryptocurrency: 50.0%, }
+https://cointelegraph.com/news/binance-ceo-cz-crypto-growth-needs-entrepreneurs-and-projects-not-etfs
+900
+
+Investing App Invstr Launches Cryptocurrency Index {cryptocurrency: 40.0%, crypto: 20.0%, }
+https://cointelegraph.com/news/investing-app-invstr-launches-a-cryptocurrency-index-for-investors
+1700
+
+Ciberseguridad
+
+HC takes green route, orders 2G case accused to plant 3,000 trees each {scam: 100.0%}
+https://www.business-standard.com/article/current-affairs/hc-asks-2g-case-accused-to-plant-3-000-trees-each-for-delay-in-filing-reply-119020701349_1.html
+200
+
+Tesco warns customers over new text message phishing scam {scam: 100.0%}
+https://www.dailymail.co.uk/news/article-6678469/Tesco-warns-customers-new-text-message-phishing-scam.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+200
+
+The Shift: After Uproar, Instacart Backs Off Controversial Tipping Policy {theft: 50.0%}
+https://www.nytimes.com/2019/02/06/technology/instacart-doordash-tipping-deliveries.html?partner=rss&emc=rss
+400
+
+Pagos Digitales
+
+Monitoreo Tecnológico
+
+CUBE wins MetLife Insurance regtech project {regtech: 100.0%}
+https://www.bankingtech.com/2019/02/cube-wins-metlife-insurance-regtech-project/
+300
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Lloyds unleashes open banking app {open banking: 50.0%}
+https://www.bankingtech.com/2019/02/lloyds-unleashes-open-banking-app/
+500
+
+Tink Raises $63 Million, Goes Live in Five New European Markets {open banking: 33.33333333333333%}
+https://finovate.com/tink-raises-63-million-goes-live-in-five-new-european-markets/
+600
+
+Lloyds Launches Open Banking App Feature {open banking: 16.666666666666664%}
+https://www.pymnts.com/news/digital-banking/2019/lloyds-open-banking-app-halifax-barclays/
+1100
+
+Otro
+
+Adobe mulls custom Arm hardware {ai: 100.0%}
+http://feedproxy.google.com/~r/bit-tech/all/~3/m31b5l_k3vk/
+200
+
+DataSine Scores $5 Million Investment in Round Led by BBVA {machine learning: 20.0%}
+https://finovate.com/datasine-scores-5-million-investment-in-round-led-by-bbva/
+800
+
+Zoovu Raises $14M To Expand Use Of AI Digital Sales Assistants {ai: 20.0%, artificial intelligence: 20.0%, }
+https://www.pymnts.com/news/ecommerce/2019/zoovu-ai-target-global-financing/
+1200
+
+NZ Police Report Says ‘Excellent Progress’ Being Made in Cryptopia Hack Investigation {hack: 100.0%} 
+https://cointelegraph.com/news/nz-police-report-says-excellent-progress-being-made-in-cryptopia-hack-investigation
+200
+
+How criminals use Uber and Airbnb to launder money stolen from your credit card {cryptocurrencies: 50.0%} 
+https://www.cnbc.com/2019/02/07/how-criminals-use-airbnb-uber-launder-stolen-credit-card-money.html
+400
+
+The Shift: After Uproar, Instacart Backs Off Controversial Tipping Policy {theft: 50.0%} 
+https://www.nytimes.com/2019/02/06/technology/instacart-doordash-tipping-deliveries.html?partner=rss&emc=rss
+400
+
+Bitcoin Stuck Around $3,400 as the Stock Market Sees a Minor Downturn {cryptocurrencies: 50.0%} 
+https://cointelegraph.com/news/bitcoin-stuck-around-3-400-as-the-stock-market-sees-a-minor-downturn
+400
+
+Lloyds app now lets customers see accounts from other banks {open banking: 25.0%} 
+https://www.finextra.com/newsarticle/33343/lloyds-app-now-lets-customers-see-accounts-from-other-banks?utm_medium=rss&utm_source=finextrafeed
+600
+
+Crypto Exchange ErisX Appoints Three New Execs From Barclays, YouTube, CBOE {crypto: 33.33333333333333%} 
+https://cointelegraph.com/news/crypto-exchange-erisx-appoints-three-new-execs-from-barclays-youtube-cboe
+700
+
+TD Bank: 90% of Finance Professionals Think Blockchain Will Have a Positive Impact {blockchain: 20.0%} 
+https://cointelegraph.com/news/td-bank-90-of-finance-professionals-think-blockchain-will-have-a-positive-impact
+800
+
+Ripple Expands Blockchain University Initiative With Partners in US, China & Singapore {ripple: 33.33333333333333%, blockchain: 66.66666666666666%, } 
+https://cointelegraph.com/news/ripple-expands-blockchain-university-initiative-with-partners-in-us-china-singapore
+900
+
+Swiss stock exchange plans to raise capital on new digital asset system {digital asset: 40.0%} 
+https://www.finextra.com/newsarticle/33336/swiss-stock-exchange-plans-to-raise-capital-on-new-digital-asset-system?utm_medium=rss&utm_source=finextrafeed
+1400
+

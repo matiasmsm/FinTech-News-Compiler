@@ -113,7 +113,7 @@
     {"palabra": "sandbox", "peso": 0}
   ],
   "autores":[
-    {"nombre":"edgar alan poe", "peso":10}, {"nombre":"otro",
+    {"nombre":"edgar alan poe", "peso":1.25}, {"nombre":"otro",
     "peso":1}],
   "palabras no queridas":["games", "bitcoin price"]
 }

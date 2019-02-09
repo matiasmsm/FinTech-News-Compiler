@@ -1,9 +1,39 @@
 import datetime
+import smtplib
+from fpdf import FPDF
 
-from RSS.transform_rss import transformar
+def juntar_datos(diccionario_noticias):
+    TEXT = ""
+    for fuente in diccionario_noticias.keys():
+        TEXT += "{}\n".format(fuente)
+        for dict_noticia in diccionario_noticias[fuente]:
+            TEXT += "{}\n{}\n\n".format(dict_noticia["titulo"],
+                                        dict_noticia["link"])
+    return TEXT
+
+def enviar_mail(contenido):
+    SERVER = ""
+    FROM = "mmingo@bcch.local"
+    TO = ["lsanz@bcentral.cl", "mamusa@bcentral.cl"]
+    SUBJECT = "Noticias {}".format(datetime.datetime.now().date())
+    message = """From: {}\r\nTo: {}\r\nSubject: {}\r\n
+
+    {}
+    """.format(FROM, ",".join(TO), SUBJECT, contenido)
+    server = smtplib.SMTP(SERVER)
+    server.sendmail(FROM, TO, message)
 
 
-def crear_recopilación_top_noticias():
+def escribir_pdf(contenido):
+    pdf = FPDF()
+    pdf.add_page()
+    pdf.set_xy(0, 0)
+    pdf.set_font('arial', 'B', 13.0)
+    pdf.cell(ln=0, h=5.0, align='L', w=0, txt=contenido, border=0)
+    pdf.output("Noticias {}".format(datetime.datetime.now().date()), 'F')
+
+
+def crear_txt():
     """FUNCIÓN QUE ESCRIBE EN UN DOCUMENTO .txt LAS MEJORES NOTICIAS DEL DÍA"""
     diccionario_fuentes_noticias = transformar()
     with open("Recopilaciones/{}.txt".format(datetime.datetime.now().date()),
