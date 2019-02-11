@@ -197,8 +197,6 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
     están presentes en el contenido de la noticia"""
     indice_palabra_contenido = 0
     for palabra_contenido in lista_palabras_contenido:
-        # AQUI INCLUIR FACTOR MULTIPLICADOR DE PUNTAJE CON RESPECTO A NÚMERO DE
-        # LINEA EN QUE SE MENCIONA LA PALABRA
         for diccionario_palabra in lista_diccionarios_palabras:
             dupla_palabras = ""
             if indice_palabra_contenido < len(lista_palabras_contenido)-1:

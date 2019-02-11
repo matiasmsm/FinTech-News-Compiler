@@ -1,5 +1,5 @@
-from RSS.load_rss import crear_recopilación_top_noticias
+from load_global import load_todo
 
 if __name__ == '__main__':
-    crear_recopilación_top_noticias()
+    load_todo()
 
