@@ -1,5 +1,6 @@
 import datetime
 import json
+import re
 
 from RSS.extract_rss import consultas_feed
 
@@ -23,7 +24,7 @@ def determinar_estadisticas(palabras_fintech, lista_dict_palabras):
     lista_estadisticas_palabras = list()
     lista_palabras_ya_incluidas = list()
     for palabra in palabras_fintech:
-        if palabra not in lista_palabras_ya_incluidas and tiene_eje(palabra, lista_dict_palabras):
+        if palabra not in lista_palabras_ya_incluidas:
             lista_palabras_ya_incluidas.append(palabra)
             numero_menciones = 0
             for palabra2 in palabras_fintech:
@@ -38,28 +39,12 @@ def determinar_estadisticas(palabras_fintech, lista_dict_palabras):
             str_estadisticas += str(str(lista[0]) + ": "+"{0:.2f}".format(lista[1])+"%")
         else:
             str_estadisticas += str(str(lista[0])+": "+"{0:.2f}".format(lista[1])+"%"", ")
+        indice_lista_estadisticas += 1
     return str_estadisticas
 
 
 def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
     """Función que determina y retorna el tema(eje) de una noticia"""
-    """diccionario_temas = {"DLT": ["dlt", "blockchain", "distributed ledger",
-                                 "descentralized ledger", "centralized ledger",
-                                 "ethereum", "ripple", "digital asset",
-                                 "hyperledger"], "Banca Abierta":
-                                 ["open banking", "banca abierta", "api"],
-                         "Criptoactivos": ["criptomoneda", "cryptocurrency",
-                                           "criptoactivo"], "Ciberseguridad": [
-            "ciberseguridad", "cybersecurity", "ciberataque", "cyberattack"],
-                         "Pagos Digitales": ["pago digital", "digital payment"]
-        , "Monitoreo Tecnológico": ["suptech", "regtech", "regulatorio",
-                                    "regulatory", "regulation", "regulación",
-                                    "regulators", "reguladores"], "Big Data":
-                             ["big data"], "CBDC": ["cbdc", "project jasper",
-                             "project stella", "project ubin", "project khokha"
-                             , "e-peso"], "Otro": ["inteligencia artificial",
-                              "artificial intelligence", "ai",
-                              "machine learning"]}"""
     lista_palabras_fintech = cargar_filtros()["palabras"]
     ejes_en_titulo = list()
     for palabra_titulo in palabras_fintech_titulo:
@@ -83,8 +68,21 @@ def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
                         numero_de_mencion += 1
                 lista_ejes_titulo_estadistica.append([eje, numero_de_mencion])
         lista_ejes_titulo_estadistica = sorted(lista_ejes_titulo_estadistica, key=lambda k: int(k[1]))
-        eje = lista_ejes_titulo_estadistica[-1][0]
-        return eje
+        """CASOS EN QUE HAY 2 EJES CON EL MISMO NUMERO DE MENCIÓN"""
+        if len(lista_ejes_titulo_estadistica) > 2:
+            top_2 = lista_ejes_titulo_estadistica[::2]
+            if top_2[1][1] == top_2[0][1]:
+                if top_2[1][0] == "Otro":
+                    eje = top_2[0][0]
+                    return eje
+                else:
+                    return top_2[1][0]
+            else:
+                eje = lista_ejes_titulo_estadistica[-1][0]
+                return eje
+        else:
+            eje = lista_ejes_titulo_estadistica[-1][0]
+            return eje
     elif len(ejes_en_contenido) > 0:
         lista_ejes_contenido_estadistica = list()
         lista_ejes_mencionados = list()
@@ -98,8 +96,20 @@ def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
                 lista_ejes_contenido_estadistica.append([eje, numero_de_mencion])
         lista_ejes_contenido_estadistica = sorted(lista_ejes_contenido_estadistica,
                                                key=lambda k: int(k[1]))
-        eje = lista_ejes_contenido_estadistica[-1][0]
-        return eje
+        if len(lista_ejes_contenido_estadistica) > 2:
+            top_2 = lista_ejes_contenido_estadistica[::2]
+            if top_2[1][1] == top_2[0][1]:
+                if top_2[1][0] == "Otro":
+                    eje = top_2[0][0]
+                    return eje
+                else:
+                    return top_2[1][0]
+            else:
+                eje = lista_ejes_contenido_estadistica[-1][0]
+                return eje
+        else:
+            eje = lista_ejes_contenido_estadistica[-1][0]
+            return eje
     else:
         return "Otro"
 
@@ -152,13 +162,15 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
     diccionario_filtros = cargar_filtros()
     lista_diccionarios_palabras = diccionario_filtros["palabras"]
     lista_diccionarios_autores = diccionario_filtros["autores"]
+    lista_palabras_no_deseadas = diccionario_filtros["palabras no queridas"]
     #lista_listas_conjuntos_palabras = diccionario_filtros["conjuntos_palabras"]
     # -------------------------------------------------------------------------
     # -------------------------------------------------------------------------
     # Se separan las palabras del titulo y del contenido y se ponen en sus
     # listas respectivas
-    lista_palabras_titulo = titulo.strip(",").strip(".").strip("(").strip(")").split(" ")
-    lista_palabras_contenido = contenido.strip(",").strip(".").strip("(").strip(")").split(" ")
+    regex = r'\b\w+\b'
+    lista_palabras_titulo = re.findall(regex, titulo)
+    lista_palabras_contenido = re.findall(regex, contenido)
     # -------------------------------------------------------------------------
     # -------------------------------------------------------------------------
     # Lista a la que se le agregan las palabras FinTech presentes en el
@@ -167,8 +179,14 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
     lista_indices_palabras_fintech_presentes = list()
     # -------------------------------------------------------------------------
     # -------------------------------------------------------------------------
+    """SE DESCARTA
+    NOTICIA SI CONTIENE PALABRAS NO DESEADAS EN EL TÍTULO"""
+    for palabra_titulo in lista_palabras_titulo:
+        for palabra_no_deseada in lista_palabras_no_deseadas:
+            if palabra_titulo.lower() == palabra_no_deseada.lower():
+                return 0, [], "Otro", "{}"
     """PRIMER FILTRO: DE PRESENCIA DE PALABRAS FINTECH EN TITULO
-    SE DEBE DAR UN PUNTAJE BASE A LA NOTICIA BAJO ESTE CRITERIO"""
+    SE DEBE DAR UN PUNTAJE BASE A LA NOTICIA BAJO ESTE CRITERIO. """
     indice_palabra_titulo = 0
     for palabra_titulo in lista_palabras_titulo:
         for diccionario_palabra in lista_diccionarios_palabras:
@@ -300,9 +318,17 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
                                             "estadisticas": estadisticas})
                 continue
         elif "updated" in entry.keys():
-            lista_elems_fecha_articulo = entry.updated.split(" ")
+            if "-" in entry.updated:
+                lista1_elems_fecha_articulo = entry.updated.split("T")
+                lista_elems_fecha_articulo = list()
+                for elem in lista1_elems_fecha_articulo:
+                    lista_elems_fecha_articulo.extend(elem.split("-"))
+            else:
+                lista_elems_fecha_articulo = entry.updated.split(" ")
             num_ocurrencias = 0
             for elemento in lista_elementos_fecha_actual:
+                if len(elemento) == 1:
+                    elemento = '0' + elemento
                 for elem in lista_elems_fecha_articulo:
                     if elemento == elem:
                         num_ocurrencias += 1

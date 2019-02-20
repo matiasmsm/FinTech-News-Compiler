@@ -1,0 +1,74 @@
+DLT
+
+Margin lending with no Counterparty risk– the Dharma open source protocol {blockchain: 100.00%}
+https://dailyfintech.com/2019/02/12/margin-lending-with-no-counterparty-risk-the-dharma-open-source-protocol/
+200
+
+EUIPO Launches Forum on Using Blockchain for Counterfeiting {blockchain: 100.00%}
+https://www.the-blockchain.com/2019/02/12/euipo-launches-forum-on-using-blockchain-for-counterfeiting/
+200
+
+New Release: Oracle Adds New Features to their Enterprise Blockchain {blockchain: 83.33%, transactions: 16.67%}
+https://www.the-blockchain.com/2019/02/12/new-release-oracle-adds-new-features-to-their-enterprise-blockchain/
+400
+
+Global trade: The role of blockchain-enabled trade finance networks {trade: 33.33%, finance: 33.33%, economic: 16.67%, blockchain: 16.67%}
+https://www.ibm.com/blogs/blockchain/2019/02/global-trade-the-role-of-blockchain-enabled-trade-finance-networks/
+800
+
+14 banks and 400 companies now using we.trade for global trade finance {banks: 22.22%, companies: 22.22%, trade: 22.22%, finance: 11.11%, transactions: 11.11%, blockchain: 11.11%}
+https://www.ibm.com/blogs/blockchain/2019/02/14-banks-and-400-companies-now-using-we-trade-for-global-trade-finance/
+1200
+
+Criptoactivos
+
+Singapore’s NodeSwap Teams up with NY’s NODE40 {cryptocurrency: 100.00%}
+https://www.the-blockchain.com/2019/02/12/singapores-nodeswap-teams-up-with-nys-node40-in/
+200
+
+Chainalysis Secures $30M Investment Led by Accel to  Pave Way for Next Wave of Cryptocurrency Growth {investment: 33.33%, cryptocurrency: 66.67%}
+https://www.the-blockchain.com/2019/02/12/chainalysis-secures-30m-investment-led-by-accel-to-pave-way-for-next-wave-of-cryptocurrency-growth/
+500
+
+Nexo Lending to Offer Crypto-Backed Loans with Blockport Exchange {crypto: 33.33%, cryptocurrencies: 33.33%, cryptocurrency: 33.33%}
+https://www.the-blockchain.com/2019/02/12/nexo-lending-to-offer-crypto-backed-loans-with-blockport-exchange/
+1800
+
+Ciberseguridad
+
+Pagos Digitales
+
+Monitoreo Tecnológico
+
+RegTech Innovation and Closing Gender Gap in Regulation And Policy Making {regtech: 50.00%, regulation: 50.00%}
+https://www.finextra.com/blogposting/16663/regtech-innovation-and-closing-gender-gap-in-regulation-and-policy-making?utm_medium=rss&utm_source=finextrafeed
+500
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Otro
+
+The Real Reason Tech Struggles With Algorithmic Bias {ai: 100.00%}
+https://www.wired.com/story/the-real-reason-tech-struggles-with-algorithmic-bias
+200
+
+Admiration Society: Ai Weiwei and Frank Gehry Talk Art, Legos and Being Cultural Renegades {ai: 100.00%}
+https://www.nytimes.com/2019/02/12/t-magazine/ai-weiwei-frank-gehry-conversation.html?partner=rss&emc=rss
+250.0
+
+Pentagon Drafts Artificial Intelligence to Fight Wildfires {artificial intelligence: 100.00%} 
+https://www.wsj.com/articles/pentagon-drafts-artificial-intelligence-to-fight-wildfires-11549997774?mod=rss_Technology
+250.0
+
+Trump calls for US investment in artificial intelligence {investment: 50.00%, artificial intelligence: 50.00%} 
+https://www.smh.com.au/technology/trump-calls-for-us-investment-in-artificial-intelligence-20190212-p50x4y.html?ref=rss&utm_medium=rss&utm_source=rss_technology
+400
+
+Taking the next step towards deploying blockchain for business anywhere {blockchain: 60.00%, technology: 20.00%, ai: 20.00%} 
+https://www.ibm.com/blogs/blockchain/2019/02/taking-the-next-step-towards-deploying-blockchain-anywhere/
+1200
+

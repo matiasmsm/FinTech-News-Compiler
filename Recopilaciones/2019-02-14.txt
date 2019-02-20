@@ -1,0 +1,138 @@
+DLT
+
+Chinese Tech Giant Baidu Launches Blockchain OS to Support DApp Development {blockchain: 100.00%}
+https://cointelegraph.com/news/chinese-tech-giant-baidu-launches-blockchain-os-to-support-dapp-development
+200
+
+Enterprise-Focused Ethereum Standards Consortium EEA to Form ‘Token Task Force’ {ethereum: 100.00%}
+https://cointelegraph.com/news/enterprise-focused-ethereum-standards-consortium-eea-to-form-token-task-force
+300
+
+Santander Enters $700 Million Deal to Use IBM’s Tech, Including Blockchain {blockchain: 66.67%, largest: 33.33%}
+https://cointelegraph.com/news/santander-enters-700-million-deal-to-use-ibms-tech-including-blockchain
+400
+
+JPMorgan Chase to create digital coins using blockchain for payments {digital: 25.00%, blockchain: 25.00%, payments: 25.00%, launch: 12.50%, network: 12.50%}
+https://www.channelnewsasia.com/news/business/jpmorgan-chase-to-create-digital-coins-using-blockchain-for-payments-11243908
+1000
+
+Samsung SDS Reveals Blockchain Accelerator Tech Following Hyperledger Testing {blockchain: 50.00%, hyperledger: 25.00%, technology: 25.00%}
+https://cointelegraph.com/news/samsung-sds-reveals-blockchain-accelerator-tech-following-hyperledger-testing
+1300
+
+Criptoactivos
+
+JP Morgan Chase to trial new cryptocurrency {cryptocurrency: 100.00%}
+https://www.bankingtech.com/2019/02/jp-morgan-chase-to-trial-new-cryptocurrency/
+300
+
+DealBook Briefing: JPMorgan Has Its Own Cryptocurrency {cryptocurrency: 100.00%}
+https://www.nytimes.com/2019/02/14/business/dealbook/jpmorgan-cryptocurrency.html?partner=rss&emc=rss
+375.0
+
+South Korea’s Largest Telecom Company to Develop Local Crypto: Report {largest: 50.00%, cryptocurrency: 50.00%}
+https://cointelegraph.com/news/south-koreas-largest-telecom-company-to-develop-local-crypto-report
+400
+
+JPMorgan Chase to Launch ‘JPM Coin,’ Using Crypto to Speed Settlements {launch: 50.00%, crypto: 50.00%}
+https://cointelegraph.com/news/jpmorgan-chase-launches-jpm-coin-using-crypto-to-speed-settlements
+500
+
+DealBook Briefing: JPMorgan Has Its Own Cryptocurrency {cryptocurrency: 50.00%, payments: 50.00%}
+https://www.nytimes.com/2019/02/14/business/dealbook/jpmorgan-cryptocurrency.html
+625.0
+
+Top Crypto Exchange Binance’s CFO: Business Still Profitable, Despite Bear Market {crypto: 50.00%, financial: 25.00%, largest: 25.00%}
+https://cointelegraph.com/news/top-crypto-exchange-binances-cfo-business-still-profitable-despite-bear-market
+700
+
+One of the world's largest crypto exchanges says it's still profitable 'even in this bear market' {largest: 33.33%, crypto: 33.33%, exchanges: 33.33%}
+https://www.cnbc.com/2019/02/14/crypto-exchange-binance-profitable-despite-bear-market-cfo-says.html
+875.0
+
+JPMorgan Debuts First Bank-Backed Crypto {crypto: 25.00%, cryptocurrency: 50.00%, bank: 25.00%}
+https://www.pymnts.com/cryptocurrency/2019/jpmorgan-bank-backed-crypto-jpm-coin/
+1300
+
+Ciberseguridad
+
+Pagos Digitales
+
+Most Digital Tokens ‘Will Go to Zero’ Says Digital Currency Group CEO {digital: 50.00%, digital currency: 25.00%, currency: 25.00%}
+https://cointelegraph.com/news/most-digital-tokens-will-go-to-zero-says-digital-currency-group-ceo
+700
+
+JPMorgan Chase to Be First Big U.S. Bank With Own Cryptocurrency, JPM Coin {bank: 20.00%, trading: 20.00%, digital: 20.00%, digital currency: 20.00%, currency: 20.00%}
+https://www.nytimes.com/2019/02/14/business/dealbook/jpmorgan-chase-cryptocurrency-bitcoin.html?partner=rss&emc=rss
+1250.0
+
+Monitoreo Tecnológico
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Yolt opens up to businesses {open banking: 33.33%, banking: 33.33%, api: 33.33%}
+https://www.finextra.com/newsarticle/33377/yolt-opens-up-to-businesses?utm_medium=rss&utm_source=finextrafeed
+600
+
+Otro
+
+The basketball coverage directed and filmed by AI {ai: 100.00%}
+https://www.bbc.co.uk/news/technology-47044796
+200
+
+Amazon's Alexa wants to ease your 'cognitive overload' {ai: 100.00%}
+https://www.smh.com.au/technology/amazon-s-alexa-wants-to-ease-your-cognitive-overload-20190213-p50xib.html?ref=rss&utm_medium=rss&utm_source=rss_technology
+200
+
+EU to keep closer eye on Chinese takeover moves {artificial intelligence: 50.00%, investment: 50.00%}
+https://www.channelnewsasia.com/news/business/eu-to-keep-closer-eye-on-chinese-takeover-moves-11243918
+400
+
+Fidor releases chatbot with Finn AI {ai: 20.00%, fintech: 20.00%, digital: 20.00%, banking: 40.00%}
+https://www.finextra.com/pressarticle/77289/fidor-releases-chatbot-with-finn-ai?utm_medium=rss&utm_source=finextrafeed
+800
+
+How a Sydney startup is using artificial intelligence to fix sewerage pipes {artificial intelligence: 100.00%} 
+https://www.smh.com.au/business/small-business/how-a-sydney-startup-is-using-artificial-intelligence-to-fix-sewerage-pipes-20190212-p50x7l.html?ref=rss&utm_medium=rss&utm_source=rss_business
+200
+
+Posture perfect: Class 10 students develop AI device to fix 'text neck' {ai: 100.00%} 
+https://www.business-standard.com/article/pti-stories/grade-10-students-develop-ai-device-to-help-fix-posture-119021400368_1.html
+200
+
+Spanish Region Gives $13 Mln to Develop ‘Industry 4.0’ Technologies, Including Blockchain {blockchain: 100.00%} 
+https://cointelegraph.com/news/spanish-city-gives-13-mln-to-develop-industry-40-technologies-including-blockchain
+200
+
+Enterprise Ethereum Alliance Opens Regional Office in China {ethereum: 100.00%} 
+https://cointelegraph.com/news/enterprise-ethereum-alliance-opens-regional-office-in-china
+300
+
+Institute of Decentralized Economics Launches in UK to Study Blockchain Economic Systems {blockchain: 33.33%, economic: 66.67%} 
+https://cointelegraph.com/news/institute-of-decentralized-economics-launches-in-uk-to-study-blockchain-economic-systems
+400
+
+J.P. Morgan Chase Becomes First U.S. Bank With a Cryptocurrency {bank: 50.00%, cryptocurrency: 25.00%, payments: 25.00%} 
+http://fortune.com/2019/02/14/jp-morgan-chase-cryptocurrency/
+700
+
+CFTC’s First Published 2019 Examination Priorities Reveal Major Cryptocurrency Focus {2019: 40.00%, cryptocurrency: 40.00%, trading: 20.00%} 
+https://cointelegraph.com/news/cftcs-first-published-2019-examination-priorities-reveal-major-cryptocurrency-focus
+700
+
+GCHQ chief tells Queen spy agency will use AI to help save lives and protect public {ai: 50.00%, artificial intelligence: 50.00%} 
+https://www.standard.co.uk/news/crime/gchq-spy-agency-will-use-ai-to-help-save-lives-and-protect-public-a4066966.html
+800
+
+JP Morgan rolls out first US bank-backed cryptocurrency to transform payments business {cryptocurrency: 20.00%, payments: 40.00%, digital: 20.00%, transactions: 20.00%} 
+https://www.cnbc.com/2019/02/13/jp-morgan-is-rolling-out-the-first-us-bank-backed-cryptocurrency-to-transform-payments--.html
+1125.0
+
+JPMorgan Chase to Be First Big U.S. Bank With Own Cryptocurrency, JPM Coin {bank: 20.00%, trading: 20.00%, digital: 20.00%, digital currency: 20.00%, currency: 20.00%} 
+https://www.nytimes.com/2019/02/14/business/dealbook/jpmorgan-chase-cryptocurrency-bitcoin.html
+1250.0
+

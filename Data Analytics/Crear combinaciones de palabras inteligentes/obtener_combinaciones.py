@@ -2,7 +2,7 @@ import json
 
 
 def obtener_combinaciones():
-    with open("Filtros_FinTech.json", "r") as filtros_file:
+    with open("Archivos Json/Filtros_FinTech.json", "r") as filtros_file:
         diccionario_filtros_fintech = json.load(filtros_file)
         listado_palabras = diccionario_filtros_fintech["palabras"]
     lista_combinaciones = list()

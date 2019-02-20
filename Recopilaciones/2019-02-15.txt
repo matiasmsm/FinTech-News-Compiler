@@ -1,0 +1,190 @@
+DLT
+
+Majority of Voters Support ASIC-Resistant ETH Algorithm Implementation, Online Vote Shows {ethereum: 100.00%}
+https://cointelegraph.com/news/majority-of-voters-support-asic-resistant-eth-algorithm-implementation-online-vote-shows
+200
+
+Russian Tech Giant, Blockchain Platform Sign Agreement to Improve Operational Systems {blockchain: 100.00%}
+https://cointelegraph.com/news/russian-tech-giant-blockchain-platform-sign-agreement-to-improve-operational-systems
+200
+
+Hyundai Commercial Partners With IBM to Accelerate Blockchain Development {blockchain: 50.00%, financial: 50.00%}
+https://cointelegraph.com/news/hyundai-commercial-partners-with-ibm-to-accelerate-blockchain-development
+400
+
+Blockchain Technology -Scope for Intraday Liquidity Management {blockchain: 33.33%, technology: 33.33%, bank: 33.33%}
+https://www.finextra.com/blogposting/16681/blockchain-technology--scope-for-intraday-liquidity-management?utm_medium=rss&utm_source=finextrafeed
+600
+
+UK trade finance challenger bank Diaspora preps for flight {trade: 33.33%, finance: 33.33%, bank: 16.67%, blockchain: 16.67%}
+https://www.bankingtech.com/2019/02/uk-trade-finance-challenger-bank-diaspora-preps-for-flight/
+800
+
+Grayscale Q4 2018 Report: Institutional Investors Provide 66% of Capital Inflow {crypto: 20.00%, investment: 20.00%, digital: 20.00%, digital asset: 40.00%}
+https://cointelegraph.com/news/grayscale-q4-2018-report-institutional-investors-provide-66-of-capital-inflow
+1800
+
+Ripple CEO Brad Garlinghouse Says JPMorgan Coin ‘Misses the Point’ of Crypto {ripple: 16.67%, crypto: 16.67%, digital: 16.67%, digital asset: 33.33%, banking: 16.67%}
+https://cointelegraph.com/news/ripple-ceo-brad-garlinghouse-says-jpmorgan-coin-misses-the-point-of-crypto
+3400
+
+Criptoactivos
+
+The Return of Crypto DeQuorum – JPMCoin the XRP Killer {crypto: 100.00%}
+https://dailyfintech.com/2019/02/15/the-return-of-crypto-dequorum-jpmcoin-the-xrp-killer/
+300
+
+That Crypto Exchange That Lost Access to Over $144 Million? It Just Misplaced Another $500,000 {crypto: 100.00%}
+http://fortune.com/2019/02/15/quadrigacx-crypto-cold-storage/
+300
+
+Liechtenstein's Postal Service to Offer Crypto Exchange Services at Physical Locations {crypto: 100.00%}
+https://cointelegraph.com/news/liechtensteins-postal-service-to-offer-crypto-exchange-services-at-physical-locations
+300
+
+Report: Brazilian Bank Bradesco Closes Accounts of Local Crypto Exchange and Owners {bank: 50.00%, crypto: 50.00%}
+https://cointelegraph.com/news/report-brazilian-bank-bradesco-closes-accounts-of-local-crypto-exchange-and-owners
+500
+
+CME Group CEO Terry Duffy: Government Involvement Key to Crypto’s Success {government: 33.33%, banks: 33.33%, crypto: 33.33%}
+https://cointelegraph.com/news/cme-group-ceo-terry-duffy-government-involvement-key-to-cryptos-success
+600
+
+Survey: 41% of Institutional Investors to Invest in ICOs Within Five Years {blockchain: 33.33%, crypto: 33.33%, digital: 33.33%}
+https://cointelegraph.com/news/survey-41-of-institutional-investors-to-invest-in-icos-within-five-years
+1200
+
+Ciberseguridad
+
+Pagos Digitales
+
+Retail Pulse: Recess Opens ‘IRL’ Pop-Up In NY; Walgreens To Accept Alipay In More Stores {alipay: 100.00%}
+https://www.pymnts.com/news/retail/2019/recess-hemp-cbd-pop-up-walgreens-alipay/
+300
+
+Personal Data Collection: The Complete Wired Guide {digital: 50.00%, digital economy: 50.00%}
+https://www.wired.com/story/wired-guide-personal-data-collection
+400
+
+Monitoreo Tecnológico
+
+Big Data
+
+CBDC
+
+Quick-thinking shopper uses four cans of Stella Artois to stop a suspect {stella: 100.00%}
+https://www.dailymail.co.uk/news/article-6708945/Quick-thinking-shopper-uses-four-cans-Stella-Artois-stop-suspect.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+300
+
+Banca Abierta
+
+Otro
+
+Credit card provider NewDay taps Limitless Voice of Customer programme {ai: 100.00%}
+https://www.finextra.com/pressarticle/77290/credit-card-provider-newday-taps-limitless-voice-of-customer-programme?utm_medium=rss&utm_source=finextrafeed
+200
+
+Interview: Pavel Novak, Zonky – a fintech fable {fintech: 100.00%}
+https://www.bankingtech.com/2019/02/interview-pavel-novak-zonky-a-fintech-fable/
+200
+
+Chinese state media warn of a 'high-tech cold war' amid fears of an AI arms race with the US {ai: 100.00%}
+https://www.dailymail.co.uk/news/article-6708915/Chinese-state-media-warn-high-tech-cold-war-amid-fears-AI-arms-race-US.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+200
+
+Apple reportedly bought an AI marketing start-up as it looks for opportunities beyond the iPhone {ai: 100.00%}
+https://www.cnbc.com/2019/02/15/apple-acquires-ai-marketing-startup-datatiger-report.html
+250.0
+
+Nationwide to roll out AI assistant {ai: 50.00%, launch: 50.00%}
+https://www.finextra.com/newsarticle/33394/nationwide-to-roll-out-ai-assistant?utm_medium=rss&utm_source=finextrafeed
+400
+
+Rabobank puts EUR80m into tech venture fund {investing: 50.00%, fintech: 50.00%}
+https://www.finextra.com/newsarticle/33390/rabobank-puts-eur80m-into-tech-venture-fund?utm_medium=rss&utm_source=finextrafeed
+400
+
+Welcome to Day Four of FinovateEurope {financial: 50.00%, artificial intelligence: 50.00%}
+https://finovate.com/welcome-to-day-four-of-finovateeurope/
+400
+
+Top fintech stories this week – 15 February 2019 {fintech: 75.00%, 2019: 25.00%}
+https://www.bankingtech.com/2019/02/top-fintech-stories-this-week-15-february-2019/
+400
+
+Fintech Unfiltered: Why Developers Should Use Scala Script for Platform Building {fintech: 50.00%, digital: 25.00%, faster: 25.00%}
+https://bankinnovation.net/2019/02/fintech-unfiltered-why-developers-should-use-scala-script-for-platform-building/
+600
+
+Small banks you've never heard of are quietly enabling the tech takeover of the financial industry {banks: 50.00%, financial: 25.00%, fintech: 25.00%}
+https://www.cnbc.com/2019/02/15/small-banks-youve-never-heard-of-quietly-power-the-booming-fintech-industry--.html
+750.0
+
+Thoma Bravo to Acquire Ellie Mae in $3.7 Billion Deal {billion: 40.00%, investment: 20.00%, fintech: 20.00%, finance: 20.00%}
+https://finovate.com/thoma-bravo-to-acquire-ellie-mae-in-3-7-billion-deal/
+800
+
+Fidor Teams with Finn AI to Launch AI Chatbot for Banking Clients {ai: 42.86%, launch: 14.29%, banking: 14.29%, fintech: 14.29%, banks: 14.29%}
+https://bankinnovation.net/2019/02/fidor-teams-with-finn-ai-to-launch-ai-chatbot-for-banking-clients/
+2000
+
+The AI that can write a fake news story after being given just a few words {ai: 100.00%} 
+https://www.smh.com.au/business/companies/the-ai-that-can-write-a-fake-news-story-after-being-given-just-a-few-words-20190215-p50xxv.html?ref=rss&utm_medium=rss&utm_source=rss_business
+200
+
+AI program at Imperial College could improve survival rate of ovarian cancer patients {ai: 100.00%} 
+https://www.standard.co.uk/news/health/ai-program-at-imperial-college-could-improve-survival-rate-of-ovarian-cancer-patients-a4067861.html
+200
+
+The Week Unwrapped podcast: Female AI, accents and stingy billionaires {ai: 100.00%} 
+https://www.theweek.co.uk/99610/the-week-unwrapped-podcast-female-ai-accents-and-stingy-billionaires
+200
+
+Argo Blockchain Plans to Terminate Mining Contracts, Cut Costs by 35 Percent {blockchain: 100.00%} 
+https://cointelegraph.com/news/argo-blockchain-plans-to-terminate-mining-contracts-cut-costs-by-35-percent
+200
+
+Bits: The Week in Tech: A Break From Consumer Tech {artificial intelligence: 100.00%} 
+https://www.nytimes.com/2019/02/15/technology/the-week-in-tech-a-break-from-consumer-tech.html?partner=rss&emc=rss
+250.0
+
+Nvidia Reports Full-Year Revenue Increases But Q4 Losses After Cryptocurrency ‘Hangover’ {cryptocurrency: 100.00%} 
+https://cointelegraph.com/news/nvidia-reports-full-year-revenue-increases-but-q4-losses-after-cryptocurrency-hangover
+300
+
+US state regulators reach out to fintech startups {fintech: 50.00%, financial: 50.00%} 
+https://www.finextra.com/newsarticle/33393/us-state-regulators-reach-out-to-fintech-startups?utm_medium=rss&utm_source=finextrafeed
+400
+
+UN report dismisses fintech sandboxes in developing economies {fintech: 66.67%, financial: 33.33%} 
+https://www.finextra.com/newsarticle/33389/un-report-dismisses-fintech-sandboxes-in-developing-economies?utm_medium=rss&utm_source=finextrafeed
+400
+
+Fintech charms US state regulator into modelling {fintech: 50.00%, bank: 50.00%} 
+https://www.bankingtech.com/2019/02/fintech-charms-us-state-regulator-into-modelling/
+400
+
+Arm announces Helium-powered Armv8.1-M architecture {faster: 50.00%, machine learning: 50.00%} 
+http://feedproxy.google.com/~r/bit-tech/all/~3/jqsn-eLMLn0/
+400
+
+US FDA Looks to Blockchain Technology to Secure Drug Supply Chain {blockchain: 50.00%, technology: 50.00%} 
+https://www.the-blockchain.com/2019/02/15/us-fda-looks-to-blockchain-technology-to-secure-drug-supply-chain/
+400
+
+Japan Economic Alliance Asks Financial Regulator FSA to Reduce Tax on Crypto {economic: 25.00%, financial: 50.00%, crypto: 25.00%} 
+https://cointelegraph.com/news/japan-economic-alliance-asks-financial-regulator-fsa-to-reduce-tax-on-crypto
+700
+
+FSB: Banks should be worried about BigTech not fintech {banks: 40.00%, bigtech: 20.00%, fintech: 20.00%, financial: 20.00%} 
+https://www.finextra.com/newsarticle/33392/fsb-banks-should-be-worried-about-bigtech-not-fintech?utm_medium=rss&utm_source=finextrafeed
+800
+
+Elon Musk's 'malicious' AI too dangerous to release {ai: 50.00%, artificial intelligence: 50.00%} 
+http://news.sky.com/story/elon-musks-malicious-ai-too-dangerous-to-release-say-developers-11638381
+800
+
+JPMorgan Chase Moves to Be First Big U.S. Bank With Its Own Cryptocurrency {bank: 16.67%, cryptocurrency: 16.67%, digital: 33.33%, technology: 16.67%, currencies: 16.67%} 
+https://www.nytimes.com/2019/02/14/business/dealbook/jpmorgan-cryptocurrency-bitcoin.html?partner=rss&emc=rss
+1375.0
+

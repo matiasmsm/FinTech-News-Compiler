@@ -13,15 +13,27 @@ def juntar_datos(diccionario_noticias):
     TEXTO = ""
     lista_todas_las_noticias = list()
     lista_contenido = list()
+    lista_links_noticias = list()
+    lista_titulos_noticias = list()
     for fuente in diccionario_noticias.keys():
         # Se ordena la lista de noticias respectiva a cada fuente según su
         # puntaje
-        lista_links_noticias = list()
         for noticia in diccionario_noticias[fuente]:
             # Se revisa si la noticia no está repetida
             if noticia["link"] not in lista_links_noticias:
-                lista_links_noticias.append(noticia["link"])
-                lista_todas_las_noticias.append(noticia)
+                porcentaje_coincidencia = 0
+                for titulo in lista_titulos_noticias:
+                    for palabra_titulo in list(noticia["titulo"]):
+                        for palabra_titulo_lista_titulos_noticias in list(
+                                titulo):
+                            if palabra_titulo == \
+                                    palabra_titulo_lista_titulos_noticias:
+                                porcentaje_coincidencia += 1
+                porcentaje_coincidencia = porcentaje_coincidencia/len(list(
+                    noticia["titulo"]))
+                if porcentaje_coincidencia < 80:
+                    lista_links_noticias.append(noticia["link"])
+                    lista_todas_las_noticias.append(noticia)
     lista_ordenada_todas_las_noticias = sorted(lista_todas_las_noticias,
                                                key=lambda k: int(k['puntaje']))
     top_noticias = [n for n in lista_ordenada_todas_las_noticias if n[
@@ -29,20 +41,18 @@ def juntar_datos(diccionario_noticias):
     temas_ejes = ["DLT", "Criptoactivos", "Ciberseguridad",
                   "Pagos Digitales", "Monitoreo Tecnológico", "Big Data"
         , "CBDC", "Banca Abierta", "Otro"]
-    lista_links_noticias_incluidas = list()
     for eje in temas_ejes:
         TEXTO += (str(eje) + "\n" + "\n")
         lista_contenido.append(eje)
         indice_lista_top = 0
         for noticia in top_noticias:
-            if noticia["tema"] == eje and noticia["link"] not in \
-                    lista_links_noticias_incluidas:
+            if noticia["tema"] == eje :
                 del top_noticias[indice_lista_top]
-                lista_links_noticias_incluidas.append(noticia["link"])
                 TEXTO += noticia["titulo"] + " {" + noticia["estadisticas"] + \
                          "}" + "\n" +noticia["link"] + "\n" + \
                          str(noticia["puntaje"]) + "\n" + "\n"
-                lista_contenido.append(noticia["titulo"] + " {" + noticia["estadisticas"] + \
+                lista_contenido.append(noticia["titulo"] + " {" + noticia[
+                    "estadisticas"] + \
                          "}")
                 lista_contenido.append(noticia["link"])
             indice_lista_top += 1
@@ -60,6 +70,7 @@ def juntar_datos(diccionario_noticias):
             lista_contenido.append(noticia["link"])
     return TEXTO, lista_contenido
 
+
 def enviar_mail(contenido):
     SERVER = ""
     FROM = "mmingo@bcch.local"
@@ -74,10 +85,11 @@ def enviar_mail(contenido):
 
 
 def escribir_pdf(lista_contenido):
-    doc = SimpleDocTemplate("Noticias {}.pdf".format(datetime.datetime.now().date()), pagesize=letter)
+    doc = SimpleDocTemplate("Recopilaciones PDF/Noticias {}.pdf".format(
+        datetime.datetime.now().date()), pagesize=letter)
     width, height = letter
     Story = []
-    logo = "logo_bcch.png"
+    logo = "Fotos/logo_bcch.png"
     im = Image(logo, inch, inch)
     Story.append(im)
     styles = getSampleStyleSheet()
@@ -89,7 +101,8 @@ def escribir_pdf(lista_contenido):
     for linea in lista_contenido:
         ptext = '<font size=12>%s</font>'%linea
         Story.append(Paragraph(ptext, styles["Normal"]))
-        Story.append(Spacer(1, 12))
+        if linea[:4] != ["h", "t", "t", "p"]:
+            Story.append(Spacer(1, 12))
     doc.build(Story)
 
 
@@ -98,6 +111,7 @@ def crear_txt(contenido):
     with open("Recopilaciones/{}.txt".format(datetime.datetime.now().date()),
               "w") as recopilacion_del_dia_file:
         recopilacion_del_dia_file.write(contenido)
+
 
 def load_todo():
     diccionario_fuentes_noticias_rss = RSS.transform_rss.transformar()

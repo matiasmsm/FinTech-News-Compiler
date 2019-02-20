@@ -1,0 +1,150 @@
+DLT
+
+Blockstream Publishes Schnorr-Based Test Code for Bitcoin Blockchain Upgrade {blockchain: 100.00%}
+https://cointelegraph.com/news/blockstream-publishes-schnorr-based-test-code-for-bitcoin-blockchain-upgrade
+200
+
+Iota Foundation Partners With Incubator Nova to Fund Startups Using Blockchain {blockchain: 100.00%}
+https://cointelegraph.com/news/iota-foundation-partners-with-incubator-nova-to-fund-startups-using-blockchain
+200
+
+German Government Consults Industry About Blockchain Technology {government: 25.00%, blockchain: 50.00%, technology: 25.00%}
+https://cointelegraph.com/news/german-government-consults-industry-about-blockchain-technology
+600
+
+Ethereum Client Parity’s Afri Schoeden Quits Social Media Amid Community Infighting {ethereum: 66.67%, blockchain: 33.33%}
+https://cointelegraph.com/news/ethereum-client-paritys-afri-schoeden-quits-social-media-amid-community-infighting
+900
+
+Criptoactivos
+
+CFTC Commissioner Brian Quintenz Suggests Creation of Crypto Self-Regulatory Organization {crypto: 100.00%}
+https://cointelegraph.com/news/cftc-commissioner-brian-quintenz-suggests-creation-of-crypto-self-regulatory-organization
+300
+
+Tim Draper Predicts Crypto Will Rule, Only Criminals Will Use Cash in Five Years {crypto: 33.33%, cash: 66.67%}
+https://cointelegraph.com/news/tim-draper-predicts-crypto-will-rule-only-criminals-will-use-cash-in-five-years
+500
+
+Indonesia’s Commodity Futures Regulator Releases Regulation for Crypto Futures Market {regulation: 25.00%, crypto: 50.00%, digital: 25.00%}
+https://cointelegraph.com/news/indonesias-commodity-futures-regulator-releases-regulation-for-crypto-futures-market
+700
+
+JPM Coin Drives Crypto Higher – Cryptocurrency Weekly Update from GlobalBlock {crypto: 50.00%, cryptocurrency: 50.00%}
+https://www.the-blockchain.com/2019/02/18/jpm-coin-drives-crypto-higher-cryptocurrency-weekly-update-from-globalblock/
+1000
+
+Cryptocurrencies May ‘Upend the Digital World,’ Says Institutional Investor Consultancy {cryptocurrencies: 25.00%, digital: 25.00%, crypto: 25.00%, investment: 25.00%}
+https://cointelegraph.com/news/cryptocurrencies-may-upend-the-digital-world-says-institutional-investor-consultancy
+1700
+
+Ciberseguridad
+
+Facebook is out of control and politicians have no idea what to do | Simon Jenkins {cybersecurity: 100.00%}
+https://www.theguardian.com/commentisfree/2019/feb/18/facebook-powerful-politicians-commons-abuse
+200
+
+Australia cree que un gobierno extranjero orquestó ciberataque contra su Parlamento {ciberataque: 100.00%}
+http://www.cooperativa.cl/noticias/mundo/pacifico-sur/australia/australia-cree-que-un-gobierno-extranjero-orquesto-ciberataque-contra-su/2019-02-18/012147.html
+300
+
+Australia’s government and political parties hit by cyberattack from ‘sophisticated state actor’ {government: 40.00%, cyberattack: 40.00%, network: 20.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/OHArGVCS34Y/
+700
+
+Pagos Digitales
+
+An app may be stealing your bank data, RBI warns digital, UPI users {bank: 20.00%, digital: 40.00%, security: 20.00%, digital economy: 20.00%}
+https://www.business-standard.com/article/finance/digital-banking-upi-users-beware-rbi-warns-against-anydesk-all-you-need-to-know-119021800425_1.html
+800
+
+The FinTech Story of WeChat {fintech: 7.69%, wechat: 30.77%, billion: 15.38%, third-party: 15.38%, payments: 15.38%, digital: 7.69%, cash: 7.69%}
+https://gomedici.com/fintech-story-of-wechat/
+1500
+
+Monitoreo Tecnológico
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Otro
+
+Smartr365 launches ‘MortgageKanban’ workflow tool to smooth mortgage application tracking {fintech: 100.00%}
+https://www.finextra.com/pressarticle/77314/smartr365-launches-mortgagekanban-workflow-tool-to-smooth-mortgage-application-tracking?utm_medium=rss&utm_source=finextrafeed
+200
+
+Factris merges with Lithuanian fintech Debifo {fintech: 100.00%}
+https://www.finextra.com/pressarticle/77307/factris-merges-with-lithuanian-fintech-debifo?utm_medium=rss&utm_source=finextrafeed
+200
+
+Fintechs Do Not Fear Brexit … At Least Not, Yet {fintech: 100.00%}
+https://bankinnovation.net/2019/02/fintechs-do-not-fear-brexit-at-least-not-yet/
+200
+
+Bits: The Week in Tech: A Break From Consumer Tech {artificial intelligence: 100.00%}
+https://www.nytimes.com/2019/02/15/technology/the-week-in-tech-a-break-from-consumer-tech.html?partner=rss&emc=rss
+250.0
+
+Mambu joins fintech fund raise craze with EUR30 million round {fintech: 66.67%, banking: 33.33%}
+https://www.finextra.com/newsarticle/33402/mambu-joins-fintech-fund-raise-craze-with-eur30-million-round?utm_medium=rss&utm_source=finextrafeed
+400
+
+What a European education project can tell us about Brexit – podcast {technology: 50.00%, ai: 50.00%}
+https://www.theguardian.com/news/audio/2019/feb/18/what-european-education-project-can-tell-us-about-brexit-podcast
+400
+
+Creepy AI generates endless fake faces {ai: 50.00%, digital: 50.00%}
+https://www.foxnews.com/tech/creepy-ai-generates-endless-fake-faces
+400
+
+Can Banks Solve their Small-Dollar Loan Problem with Fintech Partnerships? {banks: 40.00%, fintech: 40.00%, bank: 20.00%}
+https://bankinnovation.net/2019/02/can-banks-solve-their-small-dollar-loan-problem-with-fintech-partnerships/
+600
+
+What an American artificial intelligence initiative really needs {artificial intelligence: 50.00%, ai: 50.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/oecqLLC_vKM/
+800
+
+Singapore Life acquires teen pre-paid card business from Yolopay {fintech: 100.00%} 
+https://www.finextra.com/pressarticle/77310/singapore-life-acquires-teen-pre-paid-card-business-from-yolopay?utm_medium=rss&utm_source=finextrafeed
+200
+
+Sberbank creates algorithm to do data scientists' job {artificial intelligence: 100.00%} 
+https://www.finextra.com/newsarticle/33397/sberbank-creates-algorithm-to-do-data-scientists-job?utm_medium=rss&utm_source=finextrafeed
+200
+
+Major Chinese University Launches Blockchain Research Center {blockchain: 100.00%} 
+https://cointelegraph.com/news/major-chinese-university-launches-blockchain-research-center
+200
+
+Crypto Crime Trends Evolving as Users Wise Up: Exchange Hacks, Darknet and Money Laundering {crypto: 100.00%} 
+https://cointelegraph.com/news/crypto-crime-trends-evolving-as-users-wise-up-exchange-hacks-darknet-and-money-laundering
+300
+
+VCs Are Hungry for Fast-Casual ‘Food Platforms’ {investment: 50.00%, ai: 50.00%} 
+https://www.wired.com/story/vcs-hungry-for-fast-casual-food-platforms
+400
+
+Video: fintech news weekly round-up – 18 February 2019 {fintech: 50.00%, 2019: 50.00%} 
+https://www.bankingtech.com/2019/02/video-fintech-news-weekly-round-up-18-february-2019/
+400
+
+Self-Professed ‘Satoshi’ Craig Wright Answers CFTC’s Request for Input on Crypto Markets {crypto: 50.00%, trading: 50.00%} 
+https://cointelegraph.com/news/self-professed-satoshi-craig-wright-answers-cftcs-request-for-input-on-crypto-markets
+500
+
+Facebook Targeted in Scathing Report by British Parliament {investment: 33.33%, machine learning: 33.33%, technologies: 33.33%} 
+https://www.nytimes.com/2019/02/18/business/facebook-uk-parliament-report.html?partner=rss&emc=rss
+750.0
+
+Blockchain Front Page: Can Regulation drive the next Bull Market? {blockchain: 25.00%, regulation: 50.00%, crypto: 25.00%} 
+https://dailyfintech.com/2019/02/18/can-regulation-drive-the-next-crypto-bull-market/
+1200
+
+Crypto Markets See Bullish Growth, Asian Stock Markets Rally Ahead of US-China Trade Talk {crypto: 25.00%, stock: 25.00%, trade: 25.00%, cryptocurrencies: 25.00%} 
+https://cointelegraph.com/news/crypto-markets-see-bullish-growth-asian-stock-markets-rally-ahead-of-us-china-trade-talk
+1700
+

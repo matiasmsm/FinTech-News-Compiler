@@ -6,7 +6,7 @@ import operator
 
 def obtener_urls():
     lista_urls = list()
-    with open("noticias_de_interes.txt", "r") as seguimientos_file:
+    with open("titulos_noticias_de_interes", "r") as seguimientos_file:
         contenido = seguimientos_file.readlines()
         for linea in contenido:
             lista_urls.append(linea)
@@ -43,6 +43,12 @@ def obtener_todas_las_palabras():
     with open("palabras_top.json", "w") as palabras_top_file:
         json.dump({"palabras":lista_palabras_dict}, palabras_top_file)
 
+def generar_json_seguimientos():
+    with open("titulos_noticias_de_interes", "r") as titulos_de_interes_file:
+        pass
+
+def identificar_seguimientos():
+    pass
 
 if __name__ == '__main__':
     obtener_todas_las_palabras()
