@@ -1,0 +1,234 @@
+DLT
+
+Malta to Store Education Certificates On a Blockchain {blockchain: 100.00%}
+https://cointelegraph.com/news/malta-to-store-education-certificates-on-a-blockchain
+200
+
+Ohio County Auditors to Explore Blockchain-Based Real Estate System {blockchain: 100.00%}
+https://cointelegraph.com/news/ohio-county-auditors-to-explore-blockchain-based-real-estate-system
+200
+
+Mark Zuckerberg Considers Blockchain Authorization of Data in Recent Interview {blockchain: 100.00%}
+https://cointelegraph.com/news/mark-zuckerberg-considers-blockchain-authorization-of-data-in-recent-interview
+200
+
+SK Telecom, Deutsche Telekom to Build Blockchain Identity Platform {blockchain: 50.00%, largest: 50.00%}
+https://cointelegraph.com/news/sk-telecom-deutsche-telekom-to-build-blockchain-identity-platform
+400
+
+ConsenSys Backs Ethereum-Based Unlisted Infrastructure Investment Startup Allinfra {ethereum: 33.33%, investment: 66.67%}
+https://cointelegraph.com/news/consensys-backs-ethereum-based-unlisted-infrastructure-investment-startup-allinfra
+500
+
+Bitcoin Will Hit $1 Million, Says IBM’s VP of Blockchain Jesse Lund {blockchain: 50.00%, digital: 25.00%, currencies: 25.00%}
+https://cointelegraph.com/news/bitcoin-will-hit-1-million-says-ibms-vp-of-blockchain-jesse-lund
+600
+
+Commerzbank, Siemens and Continental Complete Blockchain Money Market Pilot {blockchain: 40.00%, security: 20.00%, transaction: 20.00%, technology: 20.00%}
+https://cointelegraph.com/news/commerzbank-siemens-and-continental-complete-blockchain-money-market-pilot
+800
+
+Blockchain Technology in Maritime Trade {blockchain: 16.67%, technology: 16.67%, trade: 41.67%, trading: 16.67%, economic: 8.33%}
+https://gomedici.com/blockchain-technology-in-maritime-trade/
+1000
+
+Latin America’s Largest Investment Bank to Launch Its Own Security Token {largest: 12.50%, investment: 12.50%, bank: 12.50%, launch: 12.50%, security: 25.00%, banco: 12.50%, ethereum: 12.50%}
+https://cointelegraph.com/news/latin-americas-largest-investment-bank-to-launch-its-own-security-token
+1400
+
+Report: The State of Stablecoins 2019 Hype vs. Reality in the Race for Stable, Global, Digital Money {2019: 42.31%, digital: 19.23%, blockchain: 30.77%, currencies: 3.85%, cryptocurrency: 3.85%}
+https://www.the-blockchain.com/2019/02/21/report-the-state-of-stablecoins-2019-hype-vs-reality-in-the-race-for-stable-global-digital-money/
+2000
+
+Bank Frick targets institutional investors with digital asset trading {bank: 28.57%, digital: 14.29%, digital asset: 28.57%, trading: 14.29%, dlt: 14.29%}
+https://www.finextra.com/newsarticle/33416/bank-frick-targets-institutional-investors-with-digital-asset-trading?utm_medium=rss&utm_source=finextrafeed
+2400
+
+Bahrain’s Central Bank Launches Sandbox for Blockchain Companies: Report {central bank: 16.67%, bank: 16.67%, sandbox: 16.67%, blockchain: 16.67%, companies: 16.67%, regulatory: 8.33%, crypto: 8.33%}
+https://cointelegraph.com/news/bahrains-central-bank-launches-sandbox-for-blockchain-companies-report
+2800
+
+Criptoactivos
+
+Crypto Markets Show Slight Decline, as Do Dow Jones Industrial and S&P 500 {crypto: 100.00%}
+https://cointelegraph.com/news/crypto-markets-show-slight-decline-as-do-dow-jones-industrial-and-sp-500
+300
+
+UK Auction House to Sell Off $430K in Crypto Confiscated by Belgian Police {crypto: 100.00%}
+https://cointelegraph.com/news/uk-auction-house-to-sell-off-430k-in-crypto-confiscated-by-belgian-police
+300
+
+Major Cryptocurrencies See Green While US Crude Futures Hit New High for 2019 {cryptocurrencies: 33.33%, 2019: 33.33%, trade: 33.33%}
+https://cointelegraph.com/news/major-cryptocurrencies-see-green-while-us-crude-futures-hit-new-high-for-2019
+700
+
+Report: Major European Derivatives Exchange to Launch Cryptocurrency Futures {launch: 25.00%, cryptocurrency: 25.00%, digital: 25.00%, currencies: 25.00%}
+https://cointelegraph.com/news/report-major-european-derivatives-exchange-to-launch-cryptocurrency-futures
+900
+
+Bitcoin Daily: QuadrigaCX’s Crypto Moves To EY; Samsung Unveils Smartphone With Built-In Crypto Key {crypto: 42.86%, digital: 14.29%, digital currency: 14.29%, currency: 14.29%, cash: 14.29%}
+https://www.pymnts.com/blockchain/bitcoin/2019/quadrigacx-crypto-wallet-ey-samsung-smartphone/
+2200
+
+Ciberseguridad
+
+Eftpos malware attack hits 136 US stores {malware: 100.00%}
+https://www.finextra.com/newsarticle/33419/eftpos-malware-attack-hits-136-us-stores?utm_medium=rss&utm_source=finextrafeed
+300
+
+Research Warns ‘Familiar’ Monero Mining Malware Is Infecting Windows Systems {malware: 100.00%}
+https://cointelegraph.com/news/research-warns-familiar-monero-mining-malware-is-infecting-windows-systems
+300
+
+ThreatList: Porn-Focused Malware Triples, Dark Web Loves It {malware: 100.00%}
+https://threatpost.com/porn-malware-dark-web/142105/
+300
+
+Security experts released new GandCrab Decryptor for free {security: 83.33%, malware: 16.67%}
+https://securityaffairs.co/wordpress/81475/malware/gandcrab-decryptor.html
+400
+
+Toyota Australia driven offline by cyber attack, as heart hospital hit by ransomware {security: 22.22%, 2019: 66.67%, malware: 11.11%}
+https://www.tripwire.com/state-of-security/featured/toyota-australia-cyber-attack-heart-hospital-ransomware/#new_tab
+600
+
+Israel’s Jerusalem Venture Partners closes $220m tech fund {cybersecurity: 50.00%, fintech: 50.00%}
+https://www.bankingtech.com/2019/02/israels-jerusalem-venture-partners-closes-220m-tech-fund/
+800
+
+139 US bars, restaurants and coffeeshops infected by credit-card stealing malware {malware: 38.46%, 2019: 46.15%, payment: 7.69%, security: 7.69%}
+https://hotforsecurity.bitdefender.com/blog/139-us-bars-restaurants-and-coffeeshops-infected-by-credit-card-stealing-malware-20871.html#new_tab
+1100
+
+Pagos Digitales
+
+Three digital payments security must-dos {digital: 15.79%, digital payments: 15.79%, payments: 42.11%, security: 21.05%, banking: 5.26%}
+https://bankingblog.accenture.com/three-digital-payments-security-must-dos
+125.0
+
+Apple Pay's rebirth gives Goldman a gateway to consumers {apple pay: 66.67%, banks: 33.33%}
+http://www.americanbanker.com/news/apple-pays-rebirth-gives-goldman-a-gateway-to-consumers
+500
+
+Alipay Will Charge Fees For Credit Card Repayments {alipay: 60.00%, mobile: 20.00%, payment: 20.00%}
+https://www.pymnts.com/consumer-finance/2019/alipay-fee-credit-card-payment-china/
+900
+
+Japanese Banking Giant Mizuho to Launch Its Yen-Pegged Stablecoin in March {banking: 20.00%, launch: 20.00%, financial: 10.00%, digital: 10.00%, digital currency: 10.00%, currency: 10.00%, payments: 20.00%}
+https://cointelegraph.com/news/japanese-banking-giant-mizuho-to-launch-its-yen-pegged-stablecoin-in-march
+1600
+
+Monitoreo Tecnológico
+
+The wild world of regtech {regtech: 66.67%, billion: 33.33%}
+https://www.finextra.com/blogposting/16709/the-wild-world-of-regtech?utm_medium=rss&utm_source=finextrafeed
+500
+
+Big Data
+
+Temenos snaps up India’s hTrunk for greater big data {big data: 100.00%}
+https://www.bankingtech.com/2019/02/temenos-snaps-up-indias-htrunk-for-greater-big-data/
+300
+
+CBDC
+
+Banca Abierta
+
+Otro
+
+Lunar Way launches in Norway {fintech: 100.00%}
+https://www.finextra.com/pressarticle/77367/lunar-way-launches-in-norway?utm_medium=rss&utm_source=finextrafeed
+200
+
+Our “before it is news, you can read about it on Daily Fintech” Retrospective of nearly 4 years of Insurtech insights on Daily Fintech {fintech: 100.00%}
+https://dailyfintech.com/2019/02/21/our-before-it-is-news-you-can-read-about-it-on-daily-fintech-retrospective-of-nearly-4-years-of-insurtech-insights-on-daily-fintech/
+200
+
+Domino’s Looks To AI, Loyalty And ‘Fortressing’ For More Growth {ai: 50.00%, technology: 50.00%}
+https://www.pymnts.com/earnings/2019/dominos-qsr-q4-ai-loyalty-fortressing/
+400
+
+London’s Accountant Marketplace Capitalise Raises $4.5 Million {financial: 25.00%, investment: 25.00%, fintech: 50.00%}
+https://finovate.com/londons-accountant-marketplace-capitalise-raises-4-5-million/
+600
+
+Fintechs help boost US personal loan surge to a record $138 billion {billion: 33.33%, fintech: 33.33%, companies: 33.33%}
+https://www.cnbc.com/2019/02/21/personal-loans-surge-to-a-record-138-billion-in-us-as-fintechs-lead-new-lending-charge.html
+750.0
+
+Revolut chief calls for specialised tech visas to keep Brexit Britain top of fintech pile {fintech: 25.00%, financial: 25.00%, technology: 25.00%, government: 25.00%}
+https://www.finextra.com/newsarticle/33418/revolut-chief-calls-for-specialised-tech-visas-to-keep-brexit-britain-top-of-fintech-pile?utm_medium=rss&utm_source=finextrafeed
+800
+
+Budgeting for a Fintech App Development Project {fintech: 100.00%} 
+https://www.finextra.com/blogposting/16707/budgeting-for-a-fintech-app-development-project?utm_medium=rss&utm_source=finextrafeed
+200
+
+Global tech leaders for making humans responsible for AI behavior {ai: 100.00%} 
+https://www.business-standard.com/article/technology/global-tech-leaders-caution-industries-for-responsible-use-of-ai-119022100969_1.html
+200
+
+Big Four Firm KPMG Partners With Blockchain Co. Guardtime to Develop Tools for Businesses {blockchain: 100.00%} 
+https://cointelegraph.com/news/big-four-firm-kpmg-partners-with-blockchain-co-guardtime-to-develop-tools-for-businesses
+200
+
+LA Kings Confirm Release of Blockchain Merchandise Authenticator {blockchain: 100.00%} 
+https://cointelegraph.com/news/la-kings-confirm-release-of-blockchain-merchandise-authenticator
+200
+
+QuadrigaCX Transfers Remaining Crypto to Big Four Auditor Ernst & Young {crypto: 100.00%} 
+https://cointelegraph.com/news/quadrigacx-transfers-remaining-crypto-to-big-four-auditor-ernst-young
+300
+
+Why Cybersecurity Burnout Is Real (and What to Do About It) {cybersecurity: 100.00%} 
+https://www.darkreading.com/threat-intelligence/why-cybersecurity-burnout-is-real-(and-what-to-do-about-it)/a/d-id/1333906?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+300
+
+Banks fall further behind fintechs in personal lending {banks: 66.67%, fintech: 33.33%} 
+http://www.americanbanker.com/news/banks-fall-further-behind-fintechs-in-personal-lending
+400
+
+Korean Telecom Giant KT to Launch Blockchain-as-a-Service Platform in March: Report {launch: 33.33%, blockchain: 66.67%} 
+https://cointelegraph.com/news/korean-telecom-giant-kt-to-launch-blockchain-as-a-service-platform-in-march-report
+400
+
+Kenya keen on regulatory fintech sandbox {regulatory: 33.33%, fintech: 33.33%, sandbox: 33.33%} 
+https://www.bankingtech.com/2019/02/kenya-keen-on-regulatory-fintech-sandbox/
+600
+
+The interface of WinPot ATM Malware looks like a slot machine {malware: 70.00%, security: 20.00%, cash: 10.00%} 
+https://securityaffairs.co/wordpress/81449/malware/winpot-atm-malware-ui.html
+700
+
+South Korea's SK Hynix plans to spend $107 billion building four memory chip plants {billion: 33.33%, technology: 33.33%, artificial intelligence: 33.33%} 
+https://www.cnbc.com/2019/02/21/sk-hynix-plans-to-spend-107-billion-building-four-memory-chip-plants.html
+750.0
+
+Smashing Security #116: Stalking debtors, Facebook farce, and a cyber insurance snag {security: 46.67%, 2019: 40.00%, companies: 6.67%, malware: 6.67%} 
+https://www.grahamcluley.com/smashing-security-116-stalking-debtors-facebook-farce-and-a-cyber-insurance-snag/
+800
+
+UAE’s Largest Real Estate Firm Emaar Denies Reports That It Accepts Crypto: Bloomberg {largest: 33.33%, crypto: 33.33%, payments: 33.33%} 
+https://cointelegraph.com/news/uaes-largest-real-estate-firm-emaar-denies-reports-that-it-accepts-crypto-bloomberg
+900
+
+Save up to $1,000 if you register for FinovateSpring before Friday! {2019: 20.00%, companies: 20.00%, technology: 20.00%, blockchain: 20.00%, security: 20.00%} 
+https://finovate.com/save-up-to-1000-if-you-register-for-finovatespring-before-friday/
+1000
+
+Criminals Phishing for Porn Site Credentials {phishing: 33.33%, attackers: 33.33%, malware: 33.33%} 
+https://www.infosecurity-magazine.com:443/news/criminals-phishing-for-porn-site-1/
+1300
+
+Finovate Alumni News {blockchain: 25.00%, technology: 25.00%, government: 25.00%, fintech: 25.00%} 
+https://finovate.com/finovate-alumni-news-943/
+1600
+
+Blockchain and the City: New York State as a “Tough” Model of Crypto Regulation {blockchain: 33.33%, crypto: 16.67%, regulation: 16.67%, financial: 16.67%, finance: 16.67%} 
+https://cointelegraph.com/news/blockchain-and-the-city-new-york-state-as-a-tough-model-of-crypto-regulation
+2100
+
+Coinbase Acquires Blockchain Intelligence Platform Neutrino {blockchain: 60.00%, crypto: 20.00%, fintech: 10.00%, financial: 10.00%} 
+https://finovate.com/coinbase-acquires-blockchain-intelligence-platform-neutrino/
+2400
+

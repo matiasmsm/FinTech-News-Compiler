@@ -69,9 +69,10 @@ def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
                 lista_ejes_titulo_estadistica.append([eje, numero_de_mencion])
         lista_ejes_titulo_estadistica = sorted(lista_ejes_titulo_estadistica, key=lambda k: int(k[1]))
         """CASOS EN QUE HAY 2 EJES CON EL MISMO NUMERO DE MENCIÓN"""
-        if len(lista_ejes_titulo_estadistica) > 2:
-            top_2 = lista_ejes_titulo_estadistica[::2]
-            if top_2[1][1] == top_2[0][1]:
+        num_men_top_ej = lista_ejes_titulo_estadistica[-1][1]
+        if len(lista_ejes_titulo_estadistica) >=2 :
+            if lista_ejes_titulo_estadistica[len(lista_ejes_titulo_estadistica)-2][1] == num_men_top_ej:
+                top_2 = lista_ejes_titulo_estadistica[-2:]
                 if top_2[1][0] == "Otro":
                     eje = top_2[0][0]
                     return eje
@@ -96,9 +97,11 @@ def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
                 lista_ejes_contenido_estadistica.append([eje, numero_de_mencion])
         lista_ejes_contenido_estadistica = sorted(lista_ejes_contenido_estadistica,
                                                key=lambda k: int(k[1]))
-        if len(lista_ejes_contenido_estadistica) > 2:
-            top_2 = lista_ejes_contenido_estadistica[::2]
-            if top_2[1][1] == top_2[0][1]:
+        num_men_top_ej = lista_ejes_contenido_estadistica[-1][1]
+        if len(lista_ejes_contenido_estadistica) >= 2:
+            if lista_ejes_contenido_estadistica[len(lista_ejes_contenido_estadistica) - 2][
+                1] == num_men_top_ej:
+                top_2 = lista_ejes_contenido_estadistica[-2:]
                 if top_2[1][0] == "Otro":
                     eje = top_2[0][0]
                     return eje
