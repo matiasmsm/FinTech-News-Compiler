@@ -2,7 +2,7 @@
 
 ##Banco Central de Chile (Enero y Febrero 2019)
 
-##### Por: Matías Mingo (Alumno en práctica )
+##### Por: Matías Mingo (Alumno en práctica, Banco Central de Chile)
 
 ## Sobre el proyecto:
 Al correr este porgrama se recopilan noticias de todas las fuentes explicitadas
