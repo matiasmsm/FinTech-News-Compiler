@@ -148,7 +148,8 @@
   {"nombre": "Forbes- Security", "url":"http://www.forbes.com/security/index.xml", "peso": 1},
   {"nombre": "The Hacker News", "url":"https://feeds.feedburner.com/TheHackersNews", "peso": 1},
   {"nombre": "BankInfoSecurity.com", "url":"http://feeds.feedburner.com/bankinfosecurity/com", "peso": 1},
-  {"nombre": "Mckinsey", "url":"https://www.mckinsey.com/Insights/rss.aspx", "peso": 1.5}
+  {"nombre": "Mckinsey", "url":"https://www.mckinsey.com/Insights/rss.aspx", "peso": 1.5},
+  {"nombre": "Mckinsey", "url":"https://www.ncsc.gov.uk/blogs-feed.xml", "peso": 1.5}
   ]
 }
 

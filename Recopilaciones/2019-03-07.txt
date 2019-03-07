@@ -1,0 +1,266 @@
+DLT
+
+SETL files for insolvency {blockchain: 100.00%}
+https://www.finextra.com/newsarticle/33496/setl-files-for-insolvency?utm_medium=rss&utm_source=finextrafeed
+200
+
+Credit Agricole-Backed Blockchain Startup Setl Files for Insolvency in the UK {blockchain: 100.00%}
+https://cointelegraph.com/news/credit-agricole-backed-blockchain-startup-setl-files-for-insolvency-in-the-uk
+200
+
+Coinbase Bought Neutrino for $13.5 Million, Acquisition Contract Allegedly Shows {blockchain: 100.00%}
+https://cointelegraph.com/news/coinbase-bought-neutrino-for-135-million-acquisition-contract-allegedly-shows
+200
+
+US: Denver to Use Mobile Voting Blockchain Platform Aimed at Overseas Voters in Elections {mobile: 50.00%, blockchain: 50.00%}
+https://cointelegraph.com/news/us-denver-to-use-mobile-voting-blockchain-platform-aimed-at-overseas-voters-in-elections
+400
+
+Smilo Platform Launches Mainnet – Decentralized, GDPR compliant, Hybrid, Multipurpose {blockchain: 56.25%, 2019: 43.75%}
+https://www.the-blockchain.com/2019/03/07/smilo-platform-launches-mainnet-decentralized-gdpr-compliant-hybrid-multipurpose/
+400
+
+Commerzbank and Deutsche Börse complete DLT repo transaction {dlt: 33.33%, transaction: 66.67%}
+https://www.bankingtech.com/2019/03/commerzbank-and-deutsche-borse-complete-dlt-repo-transaction/
+500
+
+SIX picks Corda blockchain to support digital exchange {blockchain: 33.33%, digital: 33.33%, r3: 33.33%}
+https://www.bankingtech.com/2019/03/six-picks-corda-blockchain-to-support-digital-exchange/
+600
+
+CFTC Chair: Blockchain Could Have Transformed Regulators’ Real-Time Response to 2008 Crash {blockchain: 50.00%, trading: 25.00%, financial: 25.00%}
+https://cointelegraph.com/news/cftc-chair-blockchain-could-have-transformed-regulators-real-time-response-to-2008-crash
+600
+
+Fitting Hub right fit for Japanese banking on blockchain {banking: 25.00%, blockchain: 25.00%, banks: 25.00%, launch: 25.00%}
+https://www.bankingtech.com/2019/03/fitting-hub-right-fit-for-japanese-banking-on-blockchain/
+800
+
+Avaloq joins Enterprise Ethereum Alliance {ethereum: 50.00%, fintech: 50.00%}
+https://www.finextra.com/pressarticle/77563/avaloq-joins-enterprise-ethereum-alliance?utm_medium=rss&utm_source=finextrafeed
+900
+
+Swiss Stock Exchange SIX to Use R3 Corda Enterprise for Blockchain-Based Trading Platform {stock: 25.00%, r3: 25.00%, blockchain: 25.00%, trading: 12.50%, digital: 12.50%}
+https://cointelegraph.com/news/swiss-stock-exchange-six-to-use-r3-corda-enterprise-for-blockchain-based-trading-platform
+1000
+
+Finovate Alumni News {bank: 16.67%, network: 16.67%, blockchain: 16.67%, trade: 16.67%, finance: 16.67%, digital: 16.67%}
+https://finovate.com/finovate-alumni-news-952/
+1200
+
+Alfa-Bank and the Marco Polo Network join to Optimize Trade Finance with Blockchain technology {bank: 12.00%, network: 12.00%, trade: 14.00%, finance: 12.00%, blockchain: 26.00%, technology: 10.00%, 2019: 12.00%, largest: 2.00%}
+https://www.the-blockchain.com/2019/03/07/alfa-bank-and-the-marco-polo-network-join-to-optimize-trade-finance-with-blockchain-technology/
+1600
+
+eToro Officially Launches Crypto Trading Platform & Wallet in the U.S. {crypto: 14.29%, trading: 21.43%, blockchain: 35.71%, 2019: 28.57%}
+https://www.the-blockchain.com/2019/03/07/etoro-officially-launches-crypto-trading-platform-wallet-in-the-u-s/
+1700
+
+An Overview of the Best Bitcoin Exchange Apps {blockchain: 34.78%, financial: 30.43%, crypto: 8.70%, exchanges: 8.70%, cryptocurrency: 4.35%, mobile: 4.35%, trading: 4.35%, 2019: 4.35%}
+https://www.the-blockchain.com/2019/03/07/an-overview-of-the-best-bitcoin-exchange-apps/
+4800
+
+Criptoactivos
+
+Monero cryptominers hijack hundreds of unpatched Docker hosts {cryptocurrency: 100.00%}
+https://nakedsecurity.sophos.com/2019/03/07/monero-cryptominers-hijack-hundreds-of-unpatched-docker-hosts/
+200
+
+Japan: Hacked IoT Devices and Cryptocurrency Networks Doubled in 2018 {cryptocurrency: 100.00%}
+https://cointelegraph.com/news/japan-hacked-iot-devices-and-cryptocurrency-networks-doubled-in-2018
+300
+
+Bitcoin: Crypto investors 'think they can get rich quick' {crypto: 100.00%}
+https://www.bbc.co.uk/news/business-47483068
+375.0
+
+Ripple CEO Says JPM Coin Lacks Interoperability: ‘Just Use the Dollar, I Don’t Get It!’ {ripple: 66.67%, banking: 33.33%}
+https://cointelegraph.com/news/ripple-ceo-says-jpm-coin-lacks-interoperability-just-use-the-dollar-i-dont-get-it
+500
+
+‘For Trustworthy Startups Only’: BlockShow Announces New Crypto Conference in Singapore {crypto: 33.33%, companies: 33.33%, 2019: 33.33%}
+https://cointelegraph.com/news/for-trustworthy-startups-only-blockshow-announces-new-crypto-conference-in-singapore
+700
+
+eToro bringing crypto trading and wallet to the US {crypto: 20.00%, trading: 40.00%, investing: 20.00%, regulatory: 20.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/QKJ72eZjHdM/
+900
+
+UK Financial Regulator: Crypto Investors Are Driven by Interest to 'Get Rich Quick' {financial: 50.00%, crypto: 25.00%, cryptocurrencies: 25.00%}
+https://cointelegraph.com/news/uk-financial-regulator-crypto-investors-are-driven-by-interest-to-get-rich-quick
+1300
+
+EToro launches in the US {trading: 25.00%, investment: 25.00%, crypto: 25.00%, crypto asset: 25.00%}
+https://www.finextra.com/newsarticle/33499/etoro-launches-in-the-us?utm_medium=rss&utm_source=finextrafeed
+1600
+
+Next Google or Next MySpace? Exchange Takes Risk Out of Investing in New Cryptocurrencies {investing: 25.00%, cryptocurrencies: 25.00%, crypto: 25.00%, digital: 25.00%}
+https://cointelegraph.com/news/next-google-or-next-myspace-exchange-takes-risk-out-of-investing-in-new-cryptocurrencies
+1700
+
+Ciberseguridad
+
+Raytheon IIS Seizes the Moment with Cybersecurity as a Service {cybersecurity: 100.00%}
+https://www.darkreading.com/raytheon-iis-seizes-the-moment-with-cybersecurity-as-a-service-/v/d-id/1334097?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+300
+
+FBI boss warns businesses of Chinese hackers stealing their intellectual property {2019: 85.71%, cybersecurity: 14.29%}
+https://businessinsights.bitdefender.com/fbi-warns-businesses-chinese-hackers-stealing-intellectual-property#new_tab
+400
+
+AT&T Cybersecurity Ensures Companies SOAR with Security Strategy {cybersecurity: 40.00%, companies: 20.00%, security: 40.00%}
+https://www.darkreading.com/atandt-cybersecurity-ensures-companies-soar-with-security-strategy/v/d-id/1334096?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+700
+
+StealthWorker Malware Uses Windows, Linux Bots to Hack Websites {malware: 60.00%, hack: 20.00%, security: 20.00%}
+https://securityaffairs.co/wordpress/82108/malware/stealthworker-malware.html
+900
+
+Regular User Awareness Training Still the Best Security Tactic {security: 16.67%, largest: 16.67%, phishing: 33.33%, ai: 16.67%, machine learning: 16.67%}
+https://www.darkreading.com/regular-user-awareness-training-still-the-best-security-tactic/v/d-id/1334098?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+3000
+
+Pagos Digitales
+
+HSBC launches PSD2 developer portal {psd2: 100.00%}
+https://www.bankingtech.com/2019/03/hsbc-launches-psd2-developer-portal/
+300
+
+Blockchain outfit SETL files for bankruptcy {blockchain: 50.00%, payment: 50.00%}
+https://www.bankingtech.com/2019/03/blockchain-outfit-setl-files-for-bankruptcy/
+600
+
+Eastern Caribbean Central Bank in digital currency pilot {central bank: 28.57%, bank: 28.57%, digital: 14.29%, digital currency: 14.29%, currency: 14.29%}
+https://www.finextra.com/newsarticle/33490/eastern-caribbean-central-bank-in-digital-currency-pilot?utm_medium=rss&utm_source=finextrafeed
+1100
+
+Monitoreo Tecnológico
+
+Big Data
+
+Code42: Data Loss Protection is the New DLP {companies: 50.00%, big data: 50.00%}
+https://www.darkreading.com/endpoint/code42-data-loss-protection-is-the-new-dlp/v/d-id/1334084?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+400
+
+CBDC
+
+Banca Abierta
+
+Otro
+
+Malaysia: Domestic Finance Watchdog Seeks Public Feedback on ICO Regulatory Framework {finance: 25.00%, ico: 25.00%, regulatory: 50.00%}
+https://cointelegraph.com/news/malaysia-domestic-finance-watchdog-seeks-public-feedback-on-ico-regulatory-framework
+100
+
+Welcome Pat Kelahan to Daily Fintech {fintech: 100.00%}
+https://dailyfintech.com/2019/03/07/welcome-pat-kelahan-to-daily-fintech/
+200
+
+Tencent taps University of Hong Kong for fintech talent {fintech: 100.00%}
+https://www.bankingtech.com/2019/03/tencent-taps-university-of-hong-kong-for-fintech-talent/
+200
+
+IPC invests in GreenKey Technologies {technologies: 66.67%, ai: 33.33%}
+https://www.finextra.com/newsarticle/33480/ipc-invests-in-greenkey-technologies?utm_medium=rss&utm_source=finextrafeed
+400
+
+Scaleway releases cloud GPU instances for €1 per hour {companies: 66.67%, machine learning: 33.33%}
+http://feedproxy.google.com/~r/Techcrunch/~3/Gnnped95TUg/
+400
+
+Nationwide revives 10x Futures Technology with £15m funding {technology: 50.00%, fintech: 50.00%}
+https://www.bankingtech.com/2019/03/nationwide-revives-10x-futures-technology-with-15m-funding/
+400
+
+M&A on back burner as Valley chief focuses on fintech partnerships {fintech: 33.33%, bank: 66.67%}
+http://www.americanbanker.com/news/m-a-on-back-burner-as-valley-chief-focuses-on-fintech-partnerships
+400
+
+Chinese IT Giant Tencent and University of Hong Kong Collaborate on Fintech {fintech: 66.67%, financial: 33.33%}
+https://cointelegraph.com/news/chinese-it-giant-tencent-and-university-of-hong-kong-collaborate-on-fintech
+400
+
+German fintech Raisin buys bank {fintech: 50.00%, bank: 25.00%, banks: 25.00%}
+https://www.finextra.com/newsarticle/33492/german-fintech-raisin-buys-bank?utm_medium=rss&utm_source=finextrafeed
+600
+
+From SBA chief to fintech backer {fintech: 25.00%, bank: 25.00%, technology: 25.00%, banks: 25.00%}
+http://www.americanbanker.com/news/karen-mills-journey-from-sba-chief-to-fintech-backer
+800
+
+Raisin, the marketplace for savings and investment products, acquires German banking provider MHB Bank {investment: 25.00%, banking: 25.00%, bank: 25.00%, fintech: 12.50%, regulatory: 12.50%}
+http://feedproxy.google.com/~r/Techcrunch/~3/mb3VxWEcPFc/
+1000
+
+Custos and Babb form partnership {fintech: 100.00%} 
+https://www.finextra.com/pressarticle/77564/custos-and-babb-form-partnership?utm_medium=rss&utm_source=finextrafeed
+200
+
+InsurTech – Putting on its Grown-Up Pants {fintech: 100.00%} 
+https://dailyfintech.com/2019/03/07/insurtech-putting-on-its-grown-up-pants/
+200
+
+US State of Colorado to Examine Blockchain Implementation in Water Rights Management {blockchain: 100.00%} 
+https://cointelegraph.com/news/us-state-of-colorado-to-examine-blockchain-implementation-in-water-rights-management
+200
+
+Alibaba Exec: E-Commerce Giant Considering Blockchain Use in Complex Supply Chains {blockchain: 100.00%} 
+https://cointelegraph.com/news/alibaba-exec-e-commerce-giant-considering-blockchain-use-in-complex-supply-chains
+200
+
+The missing $195m: Crypto accounts emptied months before CEO's mysterious death {crypto: 100.00%} 
+https://www.smh.com.au/business/markets/the-missing-195m-crypto-accounts-emptied-months-before-ceo-s-mysterious-death-20190307-p512b4.html?ref=rss&utm_medium=rss&utm_source=rss_business
+300
+
+Report: Canada Revenue Agency Auditing Crypto Investors {crypto: 100.00%} 
+https://cointelegraph.com/news/report-canada-revenue-agency-auditing-crypto-investors
+300
+
+Consumers see bitcoin as a 'get rich quick' investment {investment: 50.00%, cryptocurrencies: 50.00%} 
+https://www.finextra.com/newsarticle/33498/consumers-see-bitcoin-as-a-get-rich-quick-investment?utm_medium=rss&utm_source=finextrafeed
+400
+
+Nationwide invests £15 million in 10x Future Technologies {technologies: 66.67%, fintech: 33.33%} 
+https://www.finextra.com/newsarticle/33493/nationwide-invests-15-million-in-10x-future-technologies?utm_medium=rss&utm_source=finextrafeed
+400
+
+UK and Turkey push Islamic finance through fintech {finance: 50.00%, fintech: 50.00%} 
+https://www.bankingtech.com/2019/03/uk-and-turkey-push-islamic-finance-through-fintech/
+400
+
+German savings marketplace Raisin acquires MHB Bank {bank: 66.67%, fintech: 33.33%} 
+https://www.bankingtech.com/2019/03/german-savings-marketplace-raisin-acquires-mhb-bank/
+400
+
+California bank is working with fintech firm to help business clients {bank: 66.67%, fintech: 33.33%} 
+http://www.americanbanker.com/news/california-bank-is-working-with-fintech-firm-to-help-business-clients
+400
+
+The key to increasing production environments among diverse members {blockchain: 87.50%, 2019: 12.50%} 
+https://www.ibm.com/blogs/blockchain/2019/03/the-key-to-increasing-production-environments-among-diverse-members/
+400
+
+Commentary: Can China's superstar tech giants win over reluctant US customers? {wechat: 20.00%, alipay: 20.00%, trade: 20.00%, digital: 20.00%, financial: 20.00%} 
+https://www.channelnewsasia.com/news/commentary/china-tech-alibaba-wechat-tiktok-us-market-facebook-whatsapp-11316756
+800
+
+Motif and Goldman Sachs launch new, co-branded indexes for better performing ETFs {launch: 16.67%, machine learning: 16.67%, investment: 33.33%, banks: 16.67%, technology: 16.67%} 
+http://feedproxy.google.com/~r/Techcrunch/~3/JfNRcIKQvlg/
+1000
+
+Machine Learning Can Use Tweets To Automatically Spot Critical Security Flaws {machine learning: 33.33%, security: 33.33%, ai: 33.33%} 
+https://www.wired.com/story/machine-learning-tweets-critical-security-flaws
+1200
+
+Economic Historian Niall Ferguson: Crypto ‘Won't Turn Out to Be a Complete Delusion' {economic: 50.00%, crypto: 25.00%, cryptocurrencies: 25.00%} 
+https://cointelegraph.com/news/economic-historian-niall-ferguson-crypto-wont-turn-out-to-be-a-complete-delusion
+1300
+
+Russia: Financial Markets Committee Considers Requiring Identification From Crypto Users {financial: 40.00%, crypto: 20.00%, government: 20.00%, cryptocurrencies: 20.00%} 
+https://cointelegraph.com/news/russia-financial-markets-committee-considers-requiring-identification-from-crypto-users
+1700
+
+SIX selects R3 Corda for new digital asset exchange {r3: 25.00%, digital: 25.00%, digital asset: 25.00%, blockchain: 12.50%, technology: 12.50%} 
+https://www.finextra.com/newsarticle/33495/six-selects-r3-corda-for-new-digital-asset-exchange?utm_medium=rss&utm_source=finextrafeed
+2400
+
