@@ -75,14 +75,18 @@ def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
                 top_2 = lista_ejes_titulo_estadistica[-2:]
                 if top_2[1][0] == "Otro":
                     eje = top_2[0][0]
+                    print(eje, ejes_en_titulo, ejes_en_contenido)
                     return eje
                 else:
+                    print(top_2[1][0], ejes_en_titulo, ejes_en_contenido)
                     return top_2[1][0]
             else:
                 eje = lista_ejes_titulo_estadistica[-1][0]
+                print(eje, ejes_en_titulo, ejes_en_contenido)
                 return eje
         else:
             eje = lista_ejes_titulo_estadistica[-1][0]
+            print(eje, ejes_en_titulo, ejes_en_contenido)
             return eje
     elif len(ejes_en_contenido) > 0:
         lista_ejes_contenido_estadistica = list()
@@ -99,21 +103,27 @@ def determinar_tema(palabras_fintech_titulo, palabras_fintech_contenido):
                                                key=lambda k: int(k[1]))
         num_men_top_ej = lista_ejes_contenido_estadistica[-1][1]
         if len(lista_ejes_contenido_estadistica) >= 2:
-            if lista_ejes_contenido_estadistica[len(lista_ejes_contenido_estadistica) - 2][
-                1] == num_men_top_ej:
+            if lista_ejes_contenido_estadistica[len(
+                    lista_ejes_contenido_estadistica) - 2][1] == \
+                    num_men_top_ej:
                 top_2 = lista_ejes_contenido_estadistica[-2:]
                 if top_2[1][0] == "Otro":
                     eje = top_2[0][0]
+                    print(eje, ejes_en_titulo, ejes_en_contenido)
                     return eje
                 else:
+                    print(top_2[1][0], ejes_en_titulo, ejes_en_contenido)
                     return top_2[1][0]
             else:
                 eje = lista_ejes_contenido_estadistica[-1][0]
+                print(eje, ejes_en_titulo, ejes_en_contenido)
                 return eje
         else:
             eje = lista_ejes_contenido_estadistica[-1][0]
+            print(eje, ejes_en_titulo, ejes_en_contenido)
             return eje
     else:
+        print("Otro", ejes_en_titulo, ejes_en_contenido)
         return "Otro"
 
 """
