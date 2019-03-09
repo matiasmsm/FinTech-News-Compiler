@@ -143,7 +143,9 @@ def escribir_xml(diccionario_contenido_noticias):
         for noticia in value:
             mediaFeed.items.append(PyMediaRSS2Gen.MediaRSSItem(
                 title=noticia["titulo"],
-                link=noticia["link"]
+                link=noticia["link"],
+                description=noticia["summary"],
+                pubDate=noticia["pubDate"],
             ))
     mediaFeed.write_xml(open("feed_rss.xml", "w"))
 

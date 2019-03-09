@@ -1,18 +1,54 @@
 DLT
 
+US Leads in Blockchain-Related Job Offerings Globally, Data Shows {blockchain: 100.00%}
+https://cointelegraph.com/news/us-leads-in-blockchain-related-job-offerings-globally-report
+200
+
+Ethereum Has More Than Twice as Many Core Devs per Month as Bitcoin, Report Says {ethereum: 100.00%}
+https://cointelegraph.com/news/ethereum-has-more-than-twice-as-many-core-devs-per-month-as-bitcoin-report
+300
+
 Venezuela is the first country with a Fiat currency crisis at a time when Bitcoin is a real option {currency: 25.00%, government: 25.00%, blockchain: 25.00%, digital: 25.00%}
 https://dailyfintech.com/2019/03/09/venezuela-is-the-first-country-with-a-fiat-currency-crisis-at-a-time-when-bitcoin-is-a-real-option/
 800
 
 Criptoactivos
 
+Top Cryptos See Slight Growth as Bitcoin Approaches $4,000 {cryptocurrencies: 100.00%}
+https://cointelegraph.com/news/top-cryptos-see-slight-growth-as-bitcoin-approaches-4-000
+200
+
+CEO of Crypto City Project Bitcointopia Pleads Guilty to Selling Land He Didn’t Have {crypto: 100.00%}
+https://cointelegraph.com/news/ceo-of-crypto-city-project-bitcointopia-pleads-guilty-to-selling-land-he-didnt-have
+300
+
+'Let this be a warning': Watchdog suspends cryptocurrency exchanges {cryptocurrency: 50.00%, exchanges: 50.00%}
+https://www.smh.com.au/business/markets/let-this-be-a-warning-watchdog-suspends-cryptocurrency-exchanges-20190309-p512xf.html?ref=rss&utm_medium=rss&utm_source=rss_business
+500
+
+German Financial Regulator Issues Paper on Blockchain Securities Regulation {financial: 20.00%, blockchain: 20.00%, regulation: 20.00%, finance: 20.00%, crypto: 20.00%}
+https://cointelegraph.com/news/german-financial-regulator-issues-paper-on-blockchain-securities-regulation
+2000
+
 Ciberseguridad
 
+SLUB Backdoor leverages GitHub and Slack in targeted attacks {malware: 80.00%, security: 20.00%}
+https://securityaffairs.co/wordpress/82172/malware/slub-backdoor.html
+400
+
 Pagos Digitales
+
+Mark Zuckerberg Has WeChat Envy—and That’s Terrifying {wechat: 100.00%}
+http://fortune.com/2019/03/09/mark-zuckerberg-has-wechat-envy-and-thats-terrifying/
+100
 
 Monitoreo Tecnológico
 
 Big Data
+
+CCI scanner on big data sector to prevent anti-competitive activity {big data: 100.00%}
+https://www.business-standard.com/article/economy-policy/cci-scanner-on-big-data-sector-to-prevent-anti-competitive-activity-119030900058_1.html
+300
 
 CBDC
 
@@ -23,4 +59,12 @@ Otro
 Women in fintech? {fintech: 100.00%}
 https://www.finextra.com/blogposting/16781/women-in-fintech?utm_medium=rss&utm_source=finextrafeed
 200
+
+Commentary: Durians, blockchain and politics - inside the choppy world of Chinese investors in Malaysia {blockchain: 50.00%, government: 50.00%} 
+https://www.channelnewsasia.com/news/commentary/durians-blockchain-and-politics-inside-the-choppy-11320470
+400
+
+Zilliqa joins Student Organisation at King’s College London to Launch Blockchain A-Z Workshops {launch: 12.20%, blockchain: 51.22%, 2019: 34.15%, technology: 2.44%} 
+https://www.the-blockchain.com/2019/03/09/zilliqa-joins-student-organisation-at-kings-college-london-to-launch-blockchain-a-z-workshops/
+800
 

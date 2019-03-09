@@ -302,6 +302,7 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
         """La llave 'published' no siempre existe en el diccionario entregado por
          el RSS feed por lo que se debe tomar en cuenta la llave 'updated'"""
         if "published" in entry.keys():
+            pubdate = entry.published
             if "-" in entry.published:
                 lista1_elems_fecha_articulo = entry.published.split("T")
                 lista_elems_fecha_articulo = list()
@@ -328,9 +329,12 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
                                             puntaje, "conjunto_palabras":
                                             lista_conjunto_palabras,
                                             "tema": tema,
-                                            "estadisticas": estadisticas})
+                                            "estadisticas": estadisticas,
+                                                   "summary": contenido,
+                                                   "pubDate": pubdate})
                 continue
         elif "updated" in entry.keys():
+            pubdate = entry.updated
             if "-" in entry.updated:
                 lista1_elems_fecha_articulo = entry.updated.split("T")
                 lista_elems_fecha_articulo = list()
@@ -355,7 +359,9 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
                                                    "conjunto_palabras":
                                                    lista_conjunto_palabras,
                                                   "tema": tema,
-                                                   "estadisticas": estadisticas
+                                                   "estadisticas": estadisticas,
+                                                   "summary": contenido,
+                                                   "pubDate": pubdate
                                                    })
     return lista_diccionarios_entries
 
