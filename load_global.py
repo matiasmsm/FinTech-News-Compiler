@@ -46,13 +46,13 @@ def juntar_datos(diccionario_noticias):
         lista_contenido.append(eje)
         indice_lista_top = 0
         for noticia in top_noticias:
-            if noticia["tema"] == eje :
+            if noticia["tema"] == eje:
                 del top_noticias[indice_lista_top]
                 TEXTO += noticia["titulo"] + " {" + noticia["estadisticas"] + \
                          "}" + "\n" +noticia["link"] + "\n" + \
                          str(noticia["puntaje"]) + "\n" + "\n"
                 lista_contenido.append(noticia["titulo"] + " {" + noticia[
-                    "estadisticas"] + \
+                    "estadisticas"] +\
                          "}")
                 lista_contenido.append(noticia["link"])
             indice_lista_top += 1
@@ -111,6 +111,24 @@ def crear_txt(contenido):
     with open("Recopilaciones/{}.txt".format(datetime.datetime.now().date()),
               "w") as recopilacion_del_dia_file:
         recopilacion_del_dia_file.write(contenido)
+
+
+def escribir_html(lista_palabras):
+    head_html="""<html>
+<head></head>
+<body>\n"""
+    head_html += """</body>\n</html>"""
+    with open("resultado.html", "w") as html_file:
+        html_file.write(head_html)
+
+
+def escribir_xml(lista_palabras):
+    head_html="""<html>
+<head></head>
+<body>\n"""
+    head_html += """</body>\n</html>"""
+    with open("resultado.html", "w") as html_file:
+        html_file.write(head_html)
 
 
 def load_todo():
