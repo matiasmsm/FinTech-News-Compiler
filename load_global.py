@@ -1,6 +1,9 @@
 import datetime
 import smtplib
 import RSS.transform_rss
+import datetime
+import time
+import PyMediaRSS2Gen
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image
@@ -41,10 +44,12 @@ def juntar_datos(diccionario_noticias):
     temas_ejes = ["DLT", "Criptoactivos", "Ciberseguridad",
                   "Pagos Digitales", "Monitoreo Tecnológico", "Big Data"
         , "CBDC", "Banca Abierta", "Otro"]
+    diccionario_contenido_noticias = dict()
     for eje in temas_ejes:
         TEXTO += (str(eje) + "\n" + "\n")
         lista_contenido.append(eje)
         indice_lista_top = 0
+        diccionario_contenido_noticias[eje] = list()
         for noticia in top_noticias:
             if noticia["tema"] == eje:
                 del top_noticias[indice_lista_top]
@@ -55,6 +60,7 @@ def juntar_datos(diccionario_noticias):
                     "estadisticas"] +\
                          "}")
                 lista_contenido.append(noticia["link"])
+                diccionario_contenido_noticias[eje].append(noticia)
             indice_lista_top += 1
     if len(top_noticias) > 0:
         for noticia in top_noticias:
@@ -68,7 +74,8 @@ def juntar_datos(diccionario_noticias):
                                             noticia[
                                                 "estadisticas"] + "} ")
             lista_contenido.append(noticia["link"])
-    return TEXTO, lista_contenido
+            diccionario_contenido_noticias["Otro"].append(noticia)
+    return TEXTO, lista_contenido, diccionario_contenido_noticias
 
 
 def enviar_mail(contenido):
@@ -122,18 +129,30 @@ def escribir_html(lista_palabras):
         html_file.write(head_html)
 
 
-def escribir_xml(lista_palabras):
-    head_html="""<html>
-<head></head>
-<body>\n"""
-    head_html += """</body>\n</html>"""
-    with open("resultado.html", "w") as html_file:
-        html_file.write(head_html)
+def escribir_xml(diccionario_contenido_noticias):
+    mediaFeed = PyMediaRSS2Gen.MediaRSS2(
+        title="Noticias FinTech {}".format(
+        datetime.datetime.now().date()),
+        link="https://github.com/unknomads/Recopilador-de-Noticias",
+        description="Noticias FinTech recopiladas durante el día."
+    )
+    mediaFeed.copyright = "Copyright (c) 2019 Banco Central de Chile. All rights reserved."
+    mediaFeed.lastBuildDate = datetime.datetime.now()
+    mediaFeed.items = list()
+    for key, value in diccionario_contenido_noticias.items():
+        for noticia in value:
+            mediaFeed.items.append(PyMediaRSS2Gen.MediaRSSItem(
+                title=noticia["titulo"],
+                link=noticia["link"]
+            ))
+    mediaFeed.write_xml(open("feed_rss.xml", "w"))
+
 
 
 def load_todo():
     diccionario_fuentes_noticias_rss = RSS.transform_rss.transformar()
-    contenido, lista_contenido = juntar_datos(diccionario_fuentes_noticias_rss)
+    contenido, lista_contenido, diccionario_contenido_noticias = juntar_datos(diccionario_fuentes_noticias_rss)
     escribir_pdf(lista_contenido)
     crear_txt(contenido)
+    escribir_xml(diccionario_contenido_noticias)
 
