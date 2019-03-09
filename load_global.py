@@ -145,7 +145,7 @@ def escribir_xml(diccionario_contenido_noticias):
                 title=noticia["titulo"]+" - "+str(noticia["fuente"])+" Puntaje: "+str(noticia["puntaje"]),
                 link=noticia["link"],
                 description=noticia["summary"],
-                pubDate=noticia["pubDate"],
+                pubDate=noticia["pubDate"]
             ))
     mediaFeed.write_xml(open("feed_rss.xml", "w"))
 
