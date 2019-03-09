@@ -148,7 +148,6 @@ def escribir_xml(diccionario_contenido_noticias):
     mediaFeed.write_xml(open("feed_rss.xml", "w"))
 
 
-
 def load_todo():
     diccionario_fuentes_noticias_rss = RSS.transform_rss.transformar()
     contenido, lista_contenido, diccionario_contenido_noticias = juntar_datos(diccionario_fuentes_noticias_rss)
