@@ -60,10 +60,6 @@ Women in fintech? {fintech: 100.00%}
 https://www.finextra.com/blogposting/16781/women-in-fintech?utm_medium=rss&utm_source=finextrafeed
 200
 
-Commentary: Durians, blockchain and politics - inside the choppy world of Chinese investors in Malaysia {blockchain: 50.00%, government: 50.00%} 
-https://www.channelnewsasia.com/news/commentary/durians-blockchain-and-politics-inside-the-choppy-11320470
-400
-
 Zilliqa joins Student Organisation at King’s College London to Launch Blockchain A-Z Workshops {launch: 12.20%, blockchain: 51.22%, 2019: 34.15%, technology: 2.44%} 
 https://www.the-blockchain.com/2019/03/09/zilliqa-joins-student-organisation-at-kings-college-london-to-launch-blockchain-a-z-workshops/
 800

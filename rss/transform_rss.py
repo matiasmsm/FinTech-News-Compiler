@@ -331,7 +331,8 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
                                             "tema": tema,
                                             "estadisticas": estadisticas,
                                                    "summary": contenido,
-                                                   "pubDate": pubdate})
+                                                   "pubDate": pubdate,
+                                                   "fuente": nombre_fuente})
                 continue
         elif "updated" in entry.keys():
             pubdate = entry.updated
@@ -361,7 +362,8 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
                                                   "tema": tema,
                                                    "estadisticas": estadisticas,
                                                    "summary": contenido,
-                                                   "pubDate": pubdate
+                                                   "pubDate": pubdate,
+                                                   "fuente": nombre_fuente
                                                    })
     return lista_diccionarios_entries
 
