@@ -6,8 +6,12 @@ https://cointelegraph.com/news/fidelitys-digital-asset-platform-goes-live-with-s
 
 Criptoactivos
 
-Hodler’s Digest, March 4–10: Top Stories, Price Movements, Quotes and FUD of the Week {crypto: 100.00%}
-https://cointelegraph.com/news/hodlers-digest-march-410-top-stories-price-movements-quotes-and-fud-of-the-week
+Arcadia review – a beautifully bonkers montage of Britain's rural past {crypto: 100.00%}
+https://www.theguardian.com/tv-and-radio/2019/mar/10/arcadia-review-a-beautifully-bonkers-montage-of-britains-rural-past
+200
+
+Top Cryptos See Minor Losses as Bitcoin Falls Towards $3,900 {cryptocurrencies: 100.00%}
+https://cointelegraph.com/news/top-cryptos-see-minor-losses-as-bitcoin-falls-towards-3-900
 200
 
 Top 5 Crypto Performers Overview: Binance Coin, Litecoin, NEXO, EOS, Stellar, Monero {crypto: 100.00%}
@@ -24,9 +28,9 @@ https://cointelegraph.com/news/binance-ceo-cz-hints-at-creation-of-fiat-to-crypt
 
 Ciberseguridad
 
-Cyber Saturday—Cybersecurity Gets Googley, NSA Releases Toolkit, RSA Conference 2019 {cybersecurity: 50.00%, 2019: 50.00%}
+Cyber Saturday—Cybersecurity Gets Googley, NSA Releases Toolkit, RSA Conference 2019 {cybersecurity: 100.00%}
 http://fortune.com/2019/03/09/google-nsa-rsa-conference-chronicle-ghidra/
-500
+300
 
 Pagos Digitales
 
@@ -48,13 +52,9 @@ AI could help identify Civil War veterans in your family {ai: 50.00%, artificial
 https://www.foxnews.com/tech/ai-could-help-identify-civil-war-veterans-in-your-family
 800
 
-Top Cryptos See Minor Losses as Bitcoin Falls Towards $3,900 {cryptocurrencies: 100.00%} 
-https://cointelegraph.com/news/top-cryptos-see-minor-losses-as-bitcoin-falls-towards-3-900
+Hodler’s Digest, March 4–10: Top Stories, Price Movements, Quotes and FUD of the Week {crypto: 100.00%} 
+https://cointelegraph.com/news/hodlers-digest-march-410-top-stories-price-movements-quotes-and-fud-of-the-week
 200
-
-Arcadia review – a beautifully bonkers montage of Britain's rural past {crypto: 50.00%, 2019: 50.00%} 
-https://www.theguardian.com/tv-and-radio/2019/mar/10/arcadia-review-a-beautifully-bonkers-montage-of-britains-rural-past
-400
 
 Venezuelan Minister declares Venezuela’s Blackout may be caused by cyberattack carried by US {cyberattack: 80.00%, security: 20.00%} 
 https://securityaffairs.co/wordpress/82217/breaking-news/venezuelas-blackout-us-cyberattack.html
