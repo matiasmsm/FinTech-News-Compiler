@@ -4,6 +4,7 @@ import RSS.transform_rss
 import datetime
 import time
 import PyMediaRSS2Gen
+from git import Repo
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image
