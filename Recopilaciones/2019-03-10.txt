@@ -34,9 +34,9 @@ http://fortune.com/2019/03/09/google-nsa-rsa-conference-chronicle-ghidra/
 
 Pagos Digitales
 
-Neema CEO: Marshall Islands Digital Currency Needs Work to Satisfy US Regulatory Concerns {digital: 22.22%, digital currency: 22.22%, currency: 22.22%, regulatory: 11.11%, government: 11.11%, financial: 11.11%}
-https://cointelegraph.com/news/neema-ceo-marshall-islands-digital-currency-needs-work-to-satisfy-us-regulatory-concerns
-1300
+Appen acquires Figure Eight for up to $300M, bringing two data annotation companies together {companies: 40.00%, cash: 20.00%, payment: 20.00%, artificial intelligence: 20.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/-yByRPLKm70/
+1000
 
 Monitoreo Tecnológico
 
@@ -63,4 +63,8 @@ https://securityaffairs.co/wordpress/82217/breaking-news/venezuelas-blackout-us-
 Bitcoin Private Team Accuses Crypto Exchange HitBTC of Fraud After Delisting {crypto: 50.00%, cryptocurrency: 50.00%} 
 https://cointelegraph.com/news/bitcoin-private-team-accuses-crypto-exchange-hitbtc-of-fraud-after-delisting
 900
+
+Neema CEO: Marshall Islands Digital Currency Needs Work to Satisfy US Regulatory Concerns {digital: 22.22%, digital currency: 22.22%, currency: 22.22%, regulatory: 11.11%, government: 11.11%, financial: 11.11%} 
+https://cointelegraph.com/news/neema-ceo-marshall-islands-digital-currency-needs-work-to-satisfy-us-regulatory-concerns
+1300
 
