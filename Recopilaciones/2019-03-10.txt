@@ -44,10 +44,6 @@ Banca Abierta
 
 Otro
 
-India Fights Diabetic Blindness With Help From A.I. {artificial intelligence: 100.00%}
-https://www.nytimes.com/2019/03/10/technology/artificial-intelligence-eye-hospital-india.html?partner=rss&emc=rss
-250.0
-
 AI could help identify Civil War veterans in your family {ai: 50.00%, artificial intelligence: 50.00%}
 https://www.foxnews.com/tech/ai-could-help-identify-civil-war-veterans-in-your-family
 800
@@ -55,6 +51,10 @@ https://www.foxnews.com/tech/ai-could-help-identify-civil-war-veterans-in-your-f
 Top Cryptos See Minor Losses as Bitcoin Falls Towards $3,900 {cryptocurrencies: 100.00%} 
 https://cointelegraph.com/news/top-cryptos-see-minor-losses-as-bitcoin-falls-towards-3-900
 200
+
+Arcadia review – a beautifully bonkers montage of Britain's rural past {crypto: 50.00%, 2019: 50.00%} 
+https://www.theguardian.com/tv-and-radio/2019/mar/10/arcadia-review-a-beautifully-bonkers-montage-of-britains-rural-past
+400
 
 Venezuelan Minister declares Venezuela’s Blackout may be caused by cyberattack carried by US {cyberattack: 80.00%, security: 20.00%} 
 https://securityaffairs.co/wordpress/82217/breaking-news/venezuelas-blackout-us-cyberattack.html
