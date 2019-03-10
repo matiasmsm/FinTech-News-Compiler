@@ -130,7 +130,7 @@ def escribir_html(lista_palabras):
         html_file.write(head_html)
 
 
-def escribir_xml(diccionario_contenido_noticias):
+def escribir_rss_xml(diccionario_contenido_noticias):
     mediaFeed = PyMediaRSS2Gen.MediaRSS2(
         title="Noticias FinTech {}".format(
         datetime.datetime.now().date()),
@@ -143,7 +143,7 @@ def escribir_xml(diccionario_contenido_noticias):
     for key, value in diccionario_contenido_noticias.items():
         for noticia in value:
             mediaFeed.items.append(PyMediaRSS2Gen.MediaRSSItem(
-                title=noticia["titulo"]+" - "+str(noticia["fuente"])+" Puntaje: "+str(noticia["puntaje"]),
+                title=str(noticia["fuente"])+": "+noticia["titulo"]+" - "+" Puntaje: "+str(noticia["puntaje"]),
                 link=noticia["link"],
                 description=noticia["summary"],
                 pubDate=noticia["pubDate"]
@@ -156,5 +156,4 @@ def load_todo():
     contenido, lista_contenido, diccionario_contenido_noticias = juntar_datos(diccionario_fuentes_noticias_rss)
     escribir_pdf(lista_contenido)
     crear_txt(contenido)
-    escribir_xml(diccionario_contenido_noticias)
-
+    escribir_rss_xml(diccionario_contenido_noticias)
