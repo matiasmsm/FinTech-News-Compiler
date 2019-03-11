@@ -132,8 +132,7 @@ def escribir_html(lista_palabras):
 
 def escribir_rss_xml(diccionario_contenido_noticias):
     mediaFeed = PyMediaRSS2Gen.MediaRSS2(
-        title="Noticias FinTech {}".format(
-        datetime.datetime.now().date()),
+        title="Noticias FinTech",
         link="https://github.com/unknomads/Recopilador-de-Noticias",
         description="Noticias FinTech recopiladas durante el día."
     )
