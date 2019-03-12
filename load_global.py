@@ -1,16 +1,13 @@
-import datetime
 import smtplib
 import RSS.transform_rss
 import datetime
-import time
 import PyMediaRSS2Gen
-from git import Repo
-from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_JUSTIFY
+from control_versiones_automatico_gitpython import subir_version
 
 
 def juntar_datos(diccionario_noticias):
@@ -156,3 +153,4 @@ def load_todo():
     escribir_pdf(lista_contenido)
     crear_txt(contenido)
     escribir_rss_xml(diccionario_contenido_noticias)
+    subir_version()

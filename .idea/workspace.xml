@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e7f391d-55c0-4c1a-84bd-588ae910915e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Procfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runtime.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/load_global.py" afterPath="$PROJECT_DIR$/load_global.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,66 +18,26 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="load_global.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="load_global.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/load_global.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1485">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-03-11.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recopilaciones/2019-03-11.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-1998">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="control_versiones_automatico_gitpython.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/control_versiones_automatico_gitpython.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#0#14#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
+      <file leaf-file-name="main.pyw" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.pyw">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="transform_rss.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RSS/transform_rss.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5130">
-              <caret line="346" column="57" lean-forward="true" selection-start-line="346" selection-start-column="57" selection-end-line="346" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="feed_rss.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feed_rss.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="420" lean-forward="false" selection-start-line="1" selection-start-column="420" selection-end-line="1" selection-end-column="420" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -124,8 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/busqueda_recopilaciones.py" />
-        <option value="$PROJECT_DIR$/transform_rz.py" />
         <option value="$PROJECT_DIR$/rss_feeds.py" />
         <option value="$PROJECT_DIR$/load_rss.py" />
         <option value="$PROJECT_DIR$/extract_rss.py" />
@@ -156,7 +111,6 @@
         <option value="$PROJECT_DIR$/Crear combinaciones de palabras inteligentes/obtener_combinaciones.py" />
         <option value="$PROJECT_DIR$/Bases de Datos y Consultas Recopilaciones/manejar_BD.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/RSS/extract_rss.py" />
         <option value="$PROJECT_DIR$/Recopilaciones/2019-03-08.txt" />
         <option value="$PROJECT_DIR$/rss2.xml" />
         <option value="$PROJECT_DIR$/Archivos Json/fuentes_rss.json" />
@@ -173,14 +127,18 @@
         <option value="$PROJECT_DIR$/Data Analytics/Crear combinaciones de palabras inteligentes/combinaciones_palabras.json" />
         <option value="$PROJECT_DIR$/control_versiones_automatico_gitpython.py" />
         <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/load_global.py" />
         <option value="$PROJECT_DIR$/Recopilaciones/2019-03-11.txt" />
+        <option value="$PROJECT_DIR$/RSS/extract_rss.py" />
+        <option value="$PROJECT_DIR$/nohup.out" />
+        <option value="$PROJECT_DIR$/main.pyw" />
+        <option value="$PROJECT_DIR$/load_global.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="736" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -224,20 +182,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Archivos Json" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -246,7 +190,6 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="git&#9;ACTION&#9;Git.Log&#10;html&#9;null&#9;null" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -274,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main.pyw">
     <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,23 +231,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Recopilador-de-Noticias-" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="lower_palabras" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Crear combinaciones de palabras inteligentes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Recopilador-de-Noticias-" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Crear combinaciones de palabras inteligentes/lower_palabras.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -356,6 +282,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Recopilador-de-Noticias-" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/obtener_combinaciones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Recopilador-de-Noticias-" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -496,18 +439,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.main" />
-      <item index="1" class="java.lang.String" itemvalue="Python.lower_palabras" />
-      <item index="2" class="java.lang.String" itemvalue="Python.extract_api" />
-      <item index="3" class="java.lang.String" itemvalue="Python.obtener_combinaciones" />
-      <item index="4" class="java.lang.String" itemvalue="Python.obtener_combinaciones (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.extract_api" />
+      <item index="2" class="java.lang.String" itemvalue="Python.obtener_combinaciones" />
+      <item index="3" class="java.lang.String" itemvalue="Python.obtener_combinaciones (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main.pyw" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.obtener_combinaciones (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.obtener_combinaciones" />
-        <item index="3" class="java.lang.String" itemvalue="Python.extract_api" />
-        <item index="4" class="java.lang.String" itemvalue="Python.lower_palabras" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main.pyw" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.obtener_combinaciones (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.obtener_combinaciones" />
+        <item index="4" class="java.lang.String" itemvalue="Python.extract_api" />
       </list>
     </recent_temporary>
   </component>
@@ -528,17 +471,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="736" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19142176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19142176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9547945" sideWeight="0.3717236" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17534247" sideWeight="0.6282764" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3090062" sideWeight="0.6282764" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24261275" sideWeight="0.4940429" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24223602" sideWeight="0.4940429" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -579,20 +522,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data Analytics/Crear combinaciones de palabras inteligentes/malas_noticias">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="101" lean-forward="false" selection-start-line="3" selection-start-column="101" selection-end-line="3" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recopilaciones/2019-02-15.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="190" column="0" lean-forward="true" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/API/extract_api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -787,13 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RSS/extract_rss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Archivos Json/fuentes_rss.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1545">
@@ -860,9 +782,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clock.py" />
+    <entry file="file://$PROJECT_DIR$/nohup.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feed_rss.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="1" column="420" lean-forward="false" selection-start-line="1" selection-start-column="420" selection-end-line="1" selection-end-column="420" />
+          <folding>
+            <element signature="e#713#718#0" expanded="true" />
+            <element signature="e#1207#1211#0" expanded="true" />
+            <element signature="e#1385#1389#0" expanded="true" />
+            <element signature="e#1389#1393#0" expanded="true" />
+            <element signature="e#1394#1398#0" expanded="true" />
+            <element signature="e#1572#1576#0" expanded="true" />
+            <element signature="e#1578#1582#0" expanded="true" />
+            <element signature="e#1843#1848#0" expanded="true" />
+            <element signature="e#2174#2179#0" expanded="true" />
+            <element signature="e#2825#2829#0" expanded="true" />
+            <element signature="e#3003#3007#0" expanded="true" />
+            <element signature="e#3007#3011#0" expanded="true" />
+            <element signature="e#3012#3016#0" expanded="true" />
+            <element signature="e#3125#3129#0" expanded="true" />
+            <element signature="e#3131#3135#0" expanded="true" />
+            <element signature="e#3459#3463#0" expanded="true" />
+            <element signature="e#3637#3641#0" expanded="true" />
+            <element signature="e#3641#3645#0" expanded="true" />
+            <element signature="e#3646#3650#0" expanded="true" />
+            <element signature="e#3782#3786#0" expanded="true" />
+            <element signature="e#3788#3792#0" expanded="true" />
+            <element signature="e#4130#4134#0" expanded="true" />
+            <element signature="e#4308#4312#0" expanded="true" />
+            <element signature="e#4312#4316#0" expanded="true" />
+            <element signature="e#4317#4321#0" expanded="true" />
+            <element signature="e#4430#4434#0" expanded="true" />
+            <element signature="e#4436#4440#0" expanded="true" />
+            <element signature="e#4785#4789#0" expanded="true" />
+            <element signature="e#4790#4794#0" expanded="true" />
+            <element signature="e#5179#5184#0" expanded="true" />
+            <element signature="e#5191#5195#0" expanded="true" />
+            <element signature="e#5197#5201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RSS/transform_rss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3195">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/control_versiones_automatico_gitpython.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="150">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -870,12 +858,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/RSS/extract_rss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -888,28 +876,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clock.py" />
+    <entry file="file://$PROJECT_DIR$/main.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/load_global.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1485">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feed_rss.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="420" lean-forward="false" selection-start-line="1" selection-start-column="420" selection-end-line="1" selection-end-column="420" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RSS/transform_rss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5130">
-          <caret line="346" column="57" lean-forward="true" selection-start-line="346" selection-start-column="57" selection-end-line="346" selection-end-column="57" />
-          <folding />
+        <state relative-caret-position="-1998">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
