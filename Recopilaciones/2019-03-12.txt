@@ -96,6 +96,10 @@ You Rang? New Voice Phishing Attack Tricks Unsuspecting Users {phishing: 42.86%,
 https://securingtomorrow.mcafee.com/consumer/mobile-and-iot-security/voice-phishing-tricks-unsuspecting-users/
 1100
 
+The Cloud is growing but it could rain on your business party {security: 10.00%, billion: 50.00%, financial: 10.00%, cybersecurity: 10.00%, largest: 10.00%, companies: 10.00%}
+https://ameinfo.com/it-2/the-cloud-is-growing-but-it-could-rain-on-your-business-party/
+1200
+
 Pagos Digitales
 
 Client Demand for Crypto Payments Needs Cautious Response From Lawyers, Expert Says {crypto: 33.33%, payments: 66.67%}
@@ -156,6 +160,10 @@ Why real-time intelligence matters for managing third-party risk {security: 40.0
 https://www.grahamcluley.com/feed-sponsor-recorded-future-2/
 1400
 
+The explosion of fintech – how can it help your business? {fintech: 26.97%, ripple: 1.12%, financial: 11.24%, banking: 17.98%, cryptocurrency: 1.12%, finance: 4.49%, technology: 4.49%, institutions: 2.25%, banks: 4.49%, investment: 3.37%, artificial intelligence: 2.25%, mobile: 1.12%, faster: 1.12%, bank: 5.62%, trade: 1.12%, currencies: 1.12%, digital: 1.12%, billion: 1.12%, security: 1.12%, hacks: 1.12%, regulation: 1.12%, largest: 1.12%, companies: 1.12%, launch: 2.25%}
+https://ameinfo.com/money/banking-finance/the-explosion-of-fintech-how-can-it-help-your-business/
+18400
+
 Nationwide deploys SAS analytics to improve customer interactions {ai: 100.00%} 
 https://www.finextra.com/newsarticle/33514/nationwide-deploys-sas-analytics-to-improve-customer-interactions?utm_medium=rss&utm_source=finextrafeed
 200
@@ -212,9 +220,9 @@ MyEtherWallet Launches New Open Source Ethereum Blockchain Explorer {ethereum: 6
 https://cointelegraph.com/news/myetherwallet-launches-new-open-source-ethereum-blockchain-explorer
 900
 
-Stash Launches Mobile Bank With Stock-Based Rewards {mobile: 22.22%, bank: 11.11%, stock: 22.22%, fintech: 22.22%, launch: 11.11%, banking: 11.11%} 
-https://www.pymnts.com/news/digital-banking/2019/stash-mobile-bank-stock-based-rewards/
-1200
+Dubai-based education-tech disruptor closes funding round {technology: 44.44%, financial: 11.11%, investment: 22.22%, investing: 11.11%, artificial intelligence: 11.11%} 
+https://ameinfo.com/money/economy/dubai-based-education-tech-disruptor-closes-funding-round/
+1000
 
 Investing app Stash raises $65M, launches banking and ‘stock-back’ rewards with Green Dot {investing: 25.00%, banking: 25.00%, stock: 12.50%, fintech: 12.50%, mobile: 12.50%, bank: 12.50%} 
 http://feedproxy.google.com/~r/Techcrunch/~3/Qc-R8BU7n2g/
