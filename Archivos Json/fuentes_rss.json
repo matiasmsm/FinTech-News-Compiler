@@ -8,7 +8,7 @@
   {"nombre":"Finovate", "url" : "http://finovate.com/blog/feed", "peso": 1},
   {"nombre":"Reddit fintech", "url": "https://www.reddit.com/r/fintech/.rss?format=xml", "peso": 1},
   {"nombre":"Reddit blockchain", "url":"https://www.reddit.com/r/BlockChain/.rss", "peso": 1},
-  {"nombre":"tech crunch", "url": "http://feeds.feedburner.com/TechCrunch/", "peso": 1},
+  {"nombre":"Tech Crunch", "url": "http://feeds.feedburner.com/TechCrunch/", "peso": 1},
   {"nombre":"Reuters technology", "url":"http://feeds.reuters.com/reuters/technologyNews", "peso": 1.25},
   {"nombre":"Reuters business", "url":"http://feeds.reuters.com/reuters/businessNews", "peso": 1.25},
   {"nombre":"NBC business", "url":"https://www.cnbc.com/id/10001147/device/rss/rss.html", "peso": 1.25},
