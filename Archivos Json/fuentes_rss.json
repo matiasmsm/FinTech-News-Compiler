@@ -148,7 +148,9 @@
   {"nombre": "BankInfoSecurity.com", "url":"http://feeds.feedburner.com/bankinfosecurity/com", "peso": 1},
   {"nombre": "Mckinsey", "url":"https://www.mckinsey.com/Insights/rss.aspx", "peso": 1.5},
   {"nombre": "NCSC", "url":"https://www.ncsc.gov.uk/blogs-feed.xml", "peso": 1.5},
-  {"nombre": "AMEinfo", "url":"https://ameinfo.com/feed/", "peso": 1}
+  {"nombre": "AMEinfo", "url":"https://ameinfo.com/feed/", "peso": 1},
+  {"nombre": "US Government", "url":"https://www.usa.gov/rss/updates.xml", "peso": 1.5},
+  {"nombre": "AMEinfo", "url":"http://feeds.feedburner.com/CoinDesk", "peso": 1}
   ]
 }
 
