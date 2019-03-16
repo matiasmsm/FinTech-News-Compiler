@@ -9,7 +9,6 @@ def subir_version():
     repo.git.commit('-m', 'Nueva recopilación {}'.format(datetime.datetime.now()), author='mamingo@uc.cl')
     #repo.git.commit('-m', 'Nueva recopilación {}'.format(datetime.datetime.now()), author='leonsanz@gmail.com')
     origin = repo.remote(name='origin')
-    print("hola")
     origin.push()
 
 def crearRepoGit():

@@ -1,0 +1,242 @@
+DLT
+
+Blockchain ID Startup Metadium Reveals Partnership With Game Engine Giant Unity {blockchain: 100.00%}
+https://cointelegraph.com/news/blockchain-id-startup-metadium-reveals-partnership-with-game-engine-giant-unity
+200
+
+Paradigm Leads $9 Million Round for Cosmos Creator Tendermint {blockchain: 100.00%}
+https://www.coindesk.com/paradigm-leads-9-million-round-for-cosmos-creator-tendermint
+200
+
+Ethereum’s ProgPow Mining Change Approved Again, But Timeline Unclear {ethereum: 100.00%}
+https://www.coindesk.com/ethereums-progpow-mining-change-approved-again-but-timeline-unclear
+300
+
+Credit union blockchain consortium enlists IBM to plot expansion {blockchain: 66.67%, technologies: 33.33%}
+http://www.americanbanker.com/news/credit-union-blockchain-consortium-enlists-ibm-to-plot-expansion
+400
+
+SEC’s Finhub to Host Public Forum on Blockchain, Digital Assets in May {blockchain: 50.00%, digital: 50.00%}
+https://cointelegraph.com/news/secs-finhub-to-host-public-forum-on-blockchain-digital-assets-in-may
+400
+
+TradeIX to hire 70 more staff for Dublin HQ {trade: 25.00%, finance: 25.00%, blockchain: 25.00%, network: 25.00%}
+https://www.finextra.com/newsarticle/33540/tradeix-to-hire-70-more-staff-for-dublin-hq?utm_medium=rss&utm_source=finextrafeed
+800
+
+French NCC Deploy IBM Blockchain For Commercial and Corporate Registries {blockchain: 76.92%, fintech: 19.23%, security: 3.85%}
+https://www.the-blockchain.com/2019/03/15/french-ncc-deploy-ibm-blockchain-for-commercial-and-corporate-registries/
+1200
+
+New Research Argues That ICOs Aren’t as Scammy as Implied. Here’s the Problem, Though. {blockchain: 40.00%, ico: 20.00%, scam: 20.00%, fintech: 20.00%}
+http://fintechnews.sg/29526/blockchain/ico-scam-research-debunk-failure/
+1600
+
+Blockmason and Bitsonic Announce Token Generation Event for BLINK, Link’s Utility Token {blockchain: 82.61%, digital: 4.35%, digital asset: 8.70%, security: 4.35%}
+https://www.the-blockchain.com/2019/03/15/blockmason-and-bitsonic-announce-token-generation-event-for-blink-links-utility-token/
+1800
+
+FCA pioneers digitising regulatory reporting using DLT and NLP {regulatory: 33.33%, dlt: 22.22%, financial: 11.11%, digital: 11.11%, distributed ledger: 11.11%, technology: 11.11%}
+https://dailyfintech.com/2019/03/15/fca-pioneers-digitising-regulatory-reporting-using-dlt-and-nlp/
+2500
+
+Criptoactivos
+
+The inevitability of tokenized data {crypto: 100.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/VeFtuj6rTr0/
+200
+
+Ripple effect feared as Fed mulls lifetime bans for two bankers {ripple: 100.00%}
+http://www.americanbanker.com/news/ripple-effect-feared-as-fed-mulls-lifetime-bans-for-two-bankers
+300
+
+How to Predict Crypto Price Trends, Explained {crypto: 100.00%}
+https://cointelegraph.com/explained/how-to-predict-crypto-price-trends-explained
+300
+
+Bitcoin Approaches $4,000 as the Stock Market Sees Gains {stock: 66.67%, cryptocurrencies: 33.33%}
+https://cointelegraph.com/news/bitcoin-approaches-4-000-as-the-stock-market-sees-gains
+400
+
+Bittrex Exchange Nixes RAID Token Sale at 11th Hour {crypto: 50.00%, launch: 50.00%}
+https://www.coindesk.com/bittrex-exchange-nixes-raid-token-sale-at-11th-hour
+400
+
+Intercontinental Stock Exchange Seemingly to Expand Cryptocurrency Data Feed {stock: 33.33%, cryptocurrency: 66.67%}
+https://cointelegraph.com/news/intercontinental-stock-exchange-seemingly-to-expand-cryptocurrency-data-feed
+500
+
+Yacht Owners Offered Crypto for Geo-Data as Company Tries to Improve Navigation Systems {crypto: 50.00%, cryptocurrency: 50.00%}
+https://cointelegraph.com/news/yacht-owners-offered-crypto-for-geo-data-as-company-tries-to-improve-navigation-systems
+900
+
+Canada Proposes Regulatory Framework for Cryptocurrency Exchanges {regulatory: 28.57%, cryptocurrency: 28.57%, exchanges: 28.57%, financial: 14.29%}
+https://www.coindesk.com/canada-proposes-regulatory-framework-for-cryptocurrency-exchanges
+900
+
+Japan to Hold First Ever Trial Over Crypto Hacking Losses {crypto: 33.33%, cryptocurrency: 33.33%, theft: 33.33%}
+https://www.coindesk.com/japan-to-hold-first-ever-trial-over-crypto-hacking-losses
+1300
+
+Canadian regulators consult on framework for crypto-asset trading platforms {crypto: 20.00%, crypto asset: 20.00%, trading: 20.00%, investment: 20.00%, regulatory: 20.00%}
+https://www.finextra.com/pressarticle/77674/canadian-regulators-consult-on-framework-for-crypto-asset-trading-platforms?utm_medium=rss&utm_source=finextrafeed
+2200
+
+What crash? The hottest crypto on the market has tripled in value {crypto: 14.29%, cryptocurrency: 14.29%, largest: 14.29%, digital: 14.29%, digital asset: 28.57%, trading: 14.29%}
+https://www.smh.com.au/business/markets/what-crash-this-crypto-has-tripled-in-value-in-three-months-20190315-p514it.html?ref=rss&utm_medium=rss&utm_source=rss_business
+3900
+
+Ciberseguridad
+
+Proof-of-Concept Tracking System Finds RATs Worldwide {malware: 100.00%}
+https://www.darkreading.com/proof-of-concept-tracking-system-finds-rats-worldwide/d/d-id/1334175?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+200
+
+Darktrace CEO: The Future of Cybersecurity is A.I. vs. A.I. {cybersecurity: 100.00%}
+http://fortune.com/2019/03/15/cybersecurity-ai-darktrace-ceo/
+300
+
+DMSniff POS Malware Uses DGA to Stay Active {malware: 100.00%}
+https://www.infosecurity-magazine.com:443/news/dmsniff-pos-malware-uses-dga-to-1/
+300
+
+GlitchPOS PoS Malware appears in the cybercrime underground {malware: 85.71%, security: 14.29%}
+https://securityaffairs.co/wordpress/82412/malware/glitchpos-pos-malware.html
+500
+
+Week in security with Tony Anscombe {security: 60.00%, malware: 20.00%, billion: 20.00%}
+http://feedproxy.google.com/~r/eset/blog/~3/IHqR0jP1rEY/
+600
+
+Exiger names Alex Ceponkus global head, software engineering {technology: 25.00%, regulatory: 25.00%, financial: 25.00%, financial crime: 25.00%}
+https://www.finextra.com/pressarticle/77680/exiger-names-alex-ceponkus-global-head-software-engineering?utm_medium=rss&utm_source=finextrafeed
+800
+
+Pagos Digitales
+
+The platform ecology model: A deep dive {alipay: 100.00%}
+https://www.finextra.com/newsarticle/33539/the-platform-ecology-model-a-deep-dive?utm_medium=rss&utm_source=finextrafeed
+200
+
+IBM Hints at Stablecoin Cross-Border Payments Solution for Financial Institutions {payments: 50.00%, financial: 12.50%, institutions: 12.50%, bank: 12.50%, blockchain: 12.50%}
+https://cointelegraph.com/news/ibm-hints-at-stablecoin-cross-border-payments-solution-for-financial-institutions
+1200
+
+Monitoreo Tecnológico
+
+Esma issues favourable report on RegTech developments {regtech: 50.00%, regulatory: 50.00%}
+https://www.finextra.com/pressarticle/77679/esma-issues-favourable-report-on-regtech-developments?utm_medium=rss&utm_source=finextrafeed
+500
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Otro
+
+Last day to save $100 on TC Sessions: Robotics + AI 2019 {ai: 100.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/QcuhqUdhm0E/
+200
+
+AI and spices: Would you put cumin on a pizza? {ai: 100.00%}
+https://www.bbc.co.uk/news/business-47403689
+250.0
+
+AR and VR in Fintech: Benefits and Pitfalls {fintech: 50.00%, banking: 50.00%}
+https://www.finextra.com/blogposting/16814/ar-and-vr-in-fintech-benefits-and-pitfalls?utm_medium=rss&utm_source=finextrafeed
+400
+
+Finovate Alumni News {technologies: 50.00%, ai: 50.00%}
+https://finovate.com/finovate-alumni-news-958/
+400
+
+Fintech sector can't deliver if data is kept personal: Finance Secy Garg {fintech: 66.67%, finance: 33.33%}
+https://www.business-standard.com/article/economy-policy/fintech-sector-can-t-deliver-if-data-is-kept-personal-finance-secy-garg-119031500604_1.html
+400
+
+Bits: The Week in Tech: How Much Regulation Is Too Much? {regulation: 50.00%, artificial intelligence: 50.00%}
+https://www.nytimes.com/2019/03/15/technology/tech-regulation-antitrust.html?partner=rss&emc=rss
+500.0
+
+9 Startups Inducted Into Inaugural Apollo Munich InspireNext Program {technology: 50.00%, banking: 25.00%, fintech: 25.00%}
+https://gomedici.com/9-startups-inducted-into-inaugural-apollo-munich-inspirenext-program/
+600
+
+Fintech Set to Enter a New Phase in the Philippines {fintech: 66.67%, digital: 16.67%, financial: 16.67%}
+http://fintechnews.sg/29514/philippines/fintech-philippines-overview-2019/
+600
+
+Big data AI startup Noble.AI raises a second seed round from a chemical giant {big data: 20.00%, ai: 80.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/QvtTDW0-NDY/
+900
+
+When a Dragon Births Unicorns – 5 In 2018 {trade: 8.33%, economic: 8.33%, companies: 16.67%, billion: 25.00%, fintech: 8.33%, financial: 16.67%, finance: 8.33%, mobile: 8.33%}
+https://gomedici.com/when-dragon-births-unicorns-5-in-2018/
+1600
+
+Top fintech stories this week – 15 March 2019 {fintech: 100.00%} 
+https://www.bankingtech.com/2019/03/top-fintech-stories-this-week-15-march-2019/
+200
+
+Decentralized or Nothing: Song Duels IBM Over Blockchain Hype at SXSW {blockchain: 100.00%} 
+https://www.coindesk.com/decentralized-or-nothing-song-slams-ibm-over-blockchain-hype-at-sxsw
+200
+
+Businesses Increasingly See Crypto Mining Attacks in Cloud Infrastructures {crypto: 100.00%} 
+https://cointelegraph.com/news/businesses-increasingly-see-crypto-mining-attacks-in-cloud-infrastructures
+300
+
+Crypto Exchange Bittrex Cancels Its First ‘Initial Exchange Offering’ {crypto: 100.00%} 
+https://cointelegraph.com/news/crypto-exchange-bittrex-cancels-its-first-initial-exchange-offering
+300
+
+Danske Bank joins Lighthouse fintech engagement programme {bank: 50.00%, fintech: 50.00%} 
+https://www.finextra.com/newsarticle/33541/danske-bank-joins-lighthouse-fintech-engagement-programme?utm_medium=rss&utm_source=finextrafeed
+400
+
+CoParenter helps divorced parents settle disputes using AI and human mediation {ai: 50.00%, launch: 50.00%} 
+http://feedproxy.google.com/~r/Techcrunch/~3/oN4ydd1WNwM/
+400
+
+Consensus Algorithm Tendermint Raises $9 Mln in Series A Investment Round {investment: 75.00%, cryptocurrency: 25.00%} 
+https://cointelegraph.com/news/consensus-algorithm-tendermint-raises-9-mln-in-series-a-investment-round
+400
+
+Japan: Hacker Involved in 15 Mln Yen Crypto Theft Referred to Prosecutors {crypto: 66.67%, theft: 33.33%} 
+https://cointelegraph.com/news/japan-hacker-involved-in-15-mln-yen-crypto-theft-referred-to-prosecutors
+500
+
+Fears of a Fintech Slowdown? How to Pivot Your Brand for a New Era {fintech: 50.00%, stock: 25.00%, banks: 25.00%} 
+https://bankinnovation.net/2019/03/fears-of-a-fintech-slowdown-how-to-pivot-your-brand-for-a-new-era/
+600
+
+LendingFront, Veridium, Voca.ai Join Mastercard’s Start Path {ai: 55.56%, companies: 22.22%, banking: 11.11%, security: 11.11%} 
+https://finovate.com/lendingfront-veridium-voca-ai-join-mastercards-start-path/
+800
+
+SEC’s Valerie Szczepanik at SXSW: Crypto ‘Spring’ Is Going to Come {crypto: 66.67%, blockchain: 33.33%} 
+https://www.coindesk.com/secs-valerie-szczepanik-at-sxsw-crypto-spring-is-going-to-come
+900
+
+Gatecoin Crypto Exchange to Shut Down on Court’s Orders {crypto: 50.00%, cryptocurrency: 50.00%} 
+https://www.coindesk.com/gatecoin-crypto-exchange-to-shut-down-on-courts-orders
+900
+
+Bitcoin, Ethereum, Ripple, Litecoin, EOS, Bitcoin Cash, Binance Coin, Stellar, Tron, Cardano: Price Analysis, March 15 {ethereum: 33.33%, ripple: 33.33%, cash: 33.33%} 
+https://cointelegraph.com/news/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-tron-cardano-price-analysis-march-15
+1400
+
+SEC to hold DLT and digital asset-focused public forum {dlt: 25.00%, digital: 25.00%, digital asset: 50.00%} 
+https://www.finextra.com/pressarticle/77681/sec-to-hold-dlt-and-digital-asset-focused-public-forum?utm_medium=rss&utm_source=finextrafeed
+1700
+
+DX Exchange and Perlin Network Bring Tokenized Apple and Facebook Stocks to Empower a vast new Population of Retail Investors on the Blockchain {network: 20.00%, blockchain: 64.00%, cryptocurrency: 4.00%, trade: 8.00%, security: 4.00%} 
+https://www.the-blockchain.com/2019/03/15/dx-exchange-and-perlin-network-bring-tokenized-apple-and-facebook-stocks-to-empower-a-vast-new-population-of-retail-investors-on-the-blockchain/
+2000
+
+Google Deletes Crypto Malware Targeting Blockchain.com, MyEtherWallet Users {crypto: 25.00%, malware: 25.00%, blockchain: 25.00%, security: 25.00%} 
+https://cointelegraph.com/news/google-deletes-crypto-malware-targeting-blockchaincom-myetherwallet-users
+2600
+

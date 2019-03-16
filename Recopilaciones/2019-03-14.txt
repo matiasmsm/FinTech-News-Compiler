@@ -1,0 +1,222 @@
+DLT
+
+Azure Integration Opens Blockchain Firm Kaleido to 80% of Cloud Market {blockchain: 100.00%}
+https://www.coindesk.com/azure-integration-opens-blockchain-firm-kaleido-to-80-of-cloud-market
+200
+
+BME tests blockchain for collateral pledges {blockchain: 66.67%, technology: 33.33%}
+https://www.finextra.com/newsarticle/33536/bme-tests-blockchain-for-collateral-pledges?utm_medium=rss&utm_source=finextrafeed
+400
+
+Cosimo Ventures invests in blockchain and digital assets firms {blockchain: 50.00%, digital: 50.00%}
+https://www.bankingtech.com/2019/03/cosimo-ventures-invests-in-blockchain-and-digital-assets-firms/
+400
+
+Enterprise Blockchain on the Rise Despite Criticisms {blockchain: 50.00%, network: 50.00%}
+https://cointelegraph.com/news/headline-enterprise-blockchain-on-the-rise-despite-criticisms
+400
+
+As ProgPoW Aimed at Stopping ASIC Mining Gets Supporting Votes, New Conspiracies and Debates Appear {ethereum: 50.00%, network: 50.00%}
+https://cointelegraph.com/news/as-progpow-aimed-at-stopping-asic-mining-gets-supporting-votes-new-conspiracies-and-debates-appear
+400
+
+Republican Leader McCarthy Proposes Blockchain Transparency in Government {blockchain: 50.00%, government: 50.00%}
+https://www.coindesk.com/republican-leader-mccarthy-proposes-blockchain-transparency-in-government
+400
+
+Spanish stock market operator BME tests blockchain for collateral pledge {stock: 33.33%, blockchain: 33.33%, banco: 33.33%}
+https://www.bankingtech.com/2019/03/spanish-stock-market-operator-bme-tests-blockchain-for-collateral-pledge/
+600
+
+Spanish Stock Exchange to Go Live With Blockchain Collateral Pledge Certificates {stock: 40.00%, blockchain: 40.00%, largest: 20.00%}
+https://www.coindesk.com/spanish-stock-exchange-to-go-live-with-blockchain-collateral-pledge-certificates
+600
+
+Cross-Platform Blockchain Project Cosmos Launches First Hub After $17 Million ICO {blockchain: 50.00%, ico: 25.00%, network: 25.00%}
+https://cointelegraph.com/news/cross-platform-blockchain-project-cosmos-launches-first-hub-after-17-million-ico
+700
+
+German Bank Association: New Regulation for DLT-Based Securities May Be Necessary {bank: 16.67%, regulation: 33.33%, dlt: 33.33%, banking: 16.67%}
+https://cointelegraph.com/news/german-bank-association-new-regulation-for-dlt-based-securities-may-be-necessary
+900
+
+Crypto Mogul Moshe Hogeg’s ICOs Have Unusual Patterns, Analysis Finds {crypto: 50.00%, blockchain: 50.00%}
+https://www.coindesk.com/crypto-mogul-moshe-hogegs-icos-blockchain
+900
+
+Thailand’s Stock Exchange Plans to Roll Out Digital Asset Platform in 2020 {stock: 25.00%, digital: 25.00%, digital asset: 50.00%}
+https://cointelegraph.com/news/thailands-stock-exchange-plans-to-roll-out-digital-asset-platform-in-2020
+1000
+
+Token 2049: Vitalik Buterin Says Non-Financial Blockchain Use Cases Are a 'Harder Pitch' {financial: 20.00%, blockchain: 40.00%, ethereum: 20.00%, finance: 20.00%}
+https://cointelegraph.com/news/token-2049-vitalik-buterin-says-non-financial-blockchain-use-cases-are-a-harder-pitch
+1600
+
+Launch a Crypto Exchange in 30 Days: German Firm Offers White-Label Products for Startups {launch: 25.00%, crypto: 25.00%, blockchain: 25.00%, technologies: 25.00%}
+https://cointelegraph.com/news/launch-a-crypto-exchange-in-30-days-german-firm-offers-white-label-products-for-startups
+1700
+
+Criptoactivos
+
+Bitcoin Trades Flat While Altcoins Tease Bull Breakout {cryptocurrencies: 100.00%}
+https://www.coindesk.com/bitcoin-trades-flat-while-altcoins-tease-bull-breakout
+200
+
+Cryptocurrency Community Eyes Tether After Website Dilutes USD Backing Claims {cryptocurrency: 100.00%}
+https://cointelegraph.com/news/cryptocurrency-community-eyes-tether-after-website-dilutes-usd-backing-claims
+300
+
+Elasticsearch Crypto-Miner Sinkholes the Competition {crypto: 100.00%}
+https://www.infosecurity-magazine.com:443/news/elasticsearch-cryptominer-1/
+300
+
+Cryptocurrencies Pose Risks to Banks, Warns Basel Committee {cryptocurrencies: 40.00%, banks: 40.00%, banking: 20.00%}
+https://www.coindesk.com/https-www-coindesk-com-cryptocurrencies-pose-risks-to-banks-and-financial-stability-warns-basel-committee
+700
+
+CIT Group hires TIAA's Hubbard as top lawyer {fintech: 50.00%, ripple: 50.00%}
+http://www.americanbanker.com/news/cit-group-hires-tiaas-hubbard-as-top-lawyer
+800
+
+Canada: Regulatory Bodies Call on Crypto Industry to Participate in Securities Law Review {regulatory: 33.33%, crypto: 33.33%, cryptocurrency: 33.33%}
+https://cointelegraph.com/news/canada-regulatory-bodies-call-on-crypto-industry-to-participate-in-securities-law-review
+1300
+
+US CFTC Chair: Blockchain and Crypto Are Two Key Phenomena Transforming Today’s Markets {blockchain: 25.00%, crypto: 25.00%, fintech: 25.00%, innovation hub: 25.00%}
+https://cointelegraph.com/news/us-cftc-chair-blockchain-and-crypto-are-two-key-phenomena-transforming-todays-markets
+2500
+
+Ciberseguridad
+
+GlitchPOS Malware Appears to Steal Credit-Card Numbers {malware: 100.00%}
+https://threatpost.com/glitchpos-malware-credit-card/142804/
+300
+
+Serious Security: What we can all learn from #PiDay {security: 50.00%, cybersecurity: 50.00%}
+https://nakedsecurity.sophos.com/2019/03/14/serious-security-what-we-can-all-learn-from-piday/
+400
+
+Thai government says cybersecurity bill not used to 'tap' phones {government: 33.33%, cybersecurity: 66.67%}
+https://www.channelnewsasia.com/news/asia/thai-government-says-cybersecurity-bill-not-used-to-tap-phones-11345048
+500
+
+Need a Way to Educate Your Customers About Phishing? {phishing: 60.00%, trade: 20.00%, scams: 20.00%}
+https://www.banknews.com/blog/need-a-way-to-educate-your-customers-about-phishing/
+700
+
+Pagos Digitales
+
+Barclaycard opens up  to Alipay {alipay: 50.00%, transactions: 50.00%}
+https://www.finextra.com/newsarticle/33534/barclaycard-opens-up--to-alipay?utm_medium=rss&utm_source=finextrafeed
+500
+
+Barclaycard brings Alipay payments to UK retailers {alipay: 50.00%, payments: 50.00%}
+https://www.bankingtech.com/2019/03/barclaycard-brings-alipay-payments-to-uk-retailers/
+700
+
+Monitoreo Tecnológico
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Otro
+
+ICO Raids Nuisance Call Firms {ico: 100.00%}
+https://www.infosecurity-magazine.com:443/news/ico-raids-nuisance-call-firms-1/
+100
+
+Only 1 more day to save on tickets to TC Sessions: Robotics + AI 2019 {ai: 100.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/6bd9hzL3GJk/
+200
+
+Feeding the machine: Optus partners with AI startup Metigy {ai: 100.00%}
+https://www.smh.com.au/business/small-business/feeding-the-machine-optus-partners-with-ai-startup-metigy-20190313-p513qg.html?ref=rss&utm_medium=rss&utm_source=rss_business
+200
+
+China is overtaking US in artificial intelligence: Researchers {artificial intelligence: 75.00%, technology: 25.00%}
+https://www.channelnewsasia.com/news/asia/china-is-overtaking-us-in-artificial-intelligence-researchers-11341770
+400
+
+Orgs Say Yes to AI Use But Ask 'What Is It?' {ai: 66.67%, security: 33.33%}
+https://www.infosecurity-magazine.com:443/news/orgs-say-yes-to-ai-use-but-ask-1/
+400
+
+Naspers Said to Eye Fintech Deals in $1 Billion India Push {fintech: 25.00%, billion: 50.00%, largest: 25.00%}
+https://bankinnovation.net/2019/03/naspers-said-to-eye-fintech-deals-in-1-billion-india-push/
+600
+
+McAfee CTO @ RSA: Catching Lightning in a Bottle or Burning Bridges to the Future? {ai: 66.67%, cybersecurity: 33.33%}
+https://securingtomorrow.mcafee.com/other-blogs/executive-perspectives/mcafee-cto-rsa-catching-lightning-in-a-bottle-or-burning-bridges-to-the-future/
+800
+
+BI Ignite 2019: HSBC Bank USA’s Innovation Head Prefers Fintech Partners to Building In-house {bank: 25.00%, fintech: 25.00%, banks: 25.00%, investment: 12.50%, companies: 12.50%}
+https://bankinnovation.net/2019/03/bi-ignite-2019-hsbc-bank-usas-innovation-head-prefers-fintech-partners-to-building-in-house/
+1000
+
+Former HSBC chief information security officer Alison Vincent joins Cybertonica as technical advisor {security: 33.33%, ai: 33.33%, fintech: 33.33%}
+https://www.finextra.com/pressarticle/77672/former-hsbc-chief-information-security-officer-alison-vincent-joins-cybertonica-as-technical-advisor?utm_medium=rss&utm_source=finextrafeed
+1200
+
+Deutsche Bourse FinTech Hub enters the second round {fintech: 100.00%} 
+https://www.finextra.com/pressarticle/77665/deutsche-bourse-fintech-hub-enters-the-second-round?utm_medium=rss&utm_source=finextrafeed
+200
+
+Con inteligencia artificial, canción póstuma de Katy Winter {inteligencia artificial: 100.00%} 
+https://www.cooperativa.cl/noticias/tecnologia/redes-sociales/con-inteligencia-artificial-cancion-postuma-de-katy-winter/2019-03-14/161250.html
+200
+
+Fintechs look to Mexico for growth; Amex’s next hurdle {fintech: 100.00%} 
+http://www.americanbanker.com/morning-scan/fintechs-look-to-mexico-for-growth-amexs-next-hurdle
+200
+
+Court Rules Quoine Exchange Liable for Reversing Bitcoin Trades Worth Millions {crypto: 100.00%} 
+https://www.coindesk.com/court-rules-quoine-exchange-liable-for-reversing-bitcoin-trades-worth-millions
+200
+
+Privacy Cryptocurrency Grin Votes to Fund Third Full-Time Developer {cryptocurrency: 100.00%} 
+https://www.coindesk.com/privacy-cryptocurrency-grin-votes-to-fund-third-full-time-developer
+300
+
+‘Report of committee on fintech related issues will be out soon’ {fintech: 66.67%, finance: 33.33%} 
+https://www.thehindubusinessline.com/money-and-banking/report-of-committee-on-fintech-related-issues-will-be-out-soon/article26535828.ece
+400
+
+Spain: Stock Exchange Operator Pilots Collateral Pledges Digitization on Blockchain {stock: 50.00%, blockchain: 50.00%} 
+https://cointelegraph.com/news/spain-stock-exchange-operator-pilots-collateral-pledges-digitization-on-blockchain
+400
+
+IBM Publishes Patent for Resisting Replay Attacks in Permissioned Blockchains {blockchain: 66.67%, security: 33.33%} 
+https://cointelegraph.com/news/ibm-publishes-patent-for-resisting-replay-attacks-in-permissioned-blockchains
+400
+
+DMSniff POS Malware has flown under the radar for at least four years {malware: 87.50%, security: 12.50%} 
+https://securityaffairs.co/wordpress/82358/uncategorized/dmsniff-pos-malware.html
+500
+
+Crypto Platform DX.Exchange Adds Secondary Trading of Security Tokens {crypto: 33.33%, trading: 33.33%, security: 33.33%} 
+https://www.coindesk.com/crypto-platform-dx-exchange-adds-secondary-trading-of-security-tokens
+700
+
+Businesses Increase Investments in AI and Machine Learning {ai: 50.00%, machine learning: 50.00%} 
+https://www.darkreading.com/threat-intelligence/businesses-increase-investments-in-ai-and-machine-learning/d/d-id/1334156?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+800
+
+Ethereum Co-Founder Joseph Lubin: Blockchain Can Benefit Artists, Journalists {ethereum: 50.00%, blockchain: 50.00%} 
+https://cointelegraph.com/news/ethereum-co-founder-joseph-lubin-blockchain-can-benefit-artists-journalists
+900
+
+Naspers eyes $1 bn fintech deals in India; seeks to replicate China success {fintech: 20.00%, largest: 20.00%, payments: 40.00%, security: 20.00%} 
+https://www.business-standard.com/article/international/naspers-eyes-1-bn-fintech-deals-in-india-seeks-to-replicate-china-success-119031400647_1.html
+1000
+
+BI Ignite 19: People Want People, and AI-enabled Functionality {ai: 14.29%, banks: 14.29%, financial: 14.29%, institutions: 14.29%, bank: 28.57%, banking: 14.29%} 
+https://bankinnovation.net/2019/03/bi-ignite-19-people-want-people-and-ai-enabled-functionality/
+1200
+
+CULedger brings DLT security to voice banking {dlt: 25.00%, security: 25.00%, banking: 25.00%, blockchain: 25.00%} 
+https://www.finextra.com/newsarticle/33531/culedger-brings-dlt-security-to-voice-banking?utm_medium=rss&utm_source=finextrafeed
+1700
+
