@@ -6,8 +6,8 @@ def subir_version():
     rw_dir = ''
     repo = Repo(rw_dir)
     repo.git.add(update=True)
-    #repo.git.commit('-m', 'Nueva recopilación {}'.format(datetime.datetime.now()), author='mamingo@uc.cl')
-    repo.git.commit('-m', 'Nueva recopilación {}'.format(datetime.datetime.now()), author='leonsanz@gmail.com')
+    repo.git.commit('-m', 'Nueva recopilación {}'.format(datetime.datetime.now()), author='mamingo@uc.cl')
+    #repo.git.commit('-m', 'Nueva recopilación {}'.format(datetime.datetime.now()), author='leonsanz@gmail.com')
     origin = repo.remote(name='origin')
     print("hola")
     origin.push()

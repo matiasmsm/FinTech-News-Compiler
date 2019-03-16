@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e7f391d-55c0-4c1a-84bd-588ae910915e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Recopilador-de-Noticias-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Recopilador-de-Noticias-.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control_versiones_automatico_gitpython.py" beforeDir="false" afterPath="$PROJECT_DIR$/control_versiones_automatico_gitpython.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed_rss.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feed_rss.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/load_global.py" beforeDir="false" afterPath="$PROJECT_DIR$/load_global.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/main.pyw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/pinboardOT.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/control_versiones_automatico_gitpython.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="120">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -661,8 +653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/control_versiones_automatico_gitpython.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
