@@ -100,6 +100,7 @@
     {"palabra": "project ubin", "eje": "CBDC", "peso": 10},
     {"palabra": "project khokha", "eje": "CBDC", "peso": 10},
     {"palabra": "e-peso", "eje": "CBDC", "peso": 10},
+    {"palabra": "m-pesa", "eje": "Pagos Digitales", "peso": 10},
     {"palabra": "alipay", "eje": "Pagos Digitales", "peso": 10},
     {"palabra": "google pay", "eje": "Pagos Digitales", "peso": 10},
     {"palabra": "apple pay", "eje": "Pagos Digitales", "peso": 10},
