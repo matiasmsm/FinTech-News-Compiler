@@ -1,0 +1,74 @@
+DLT
+
+Ethereum Devs Once Again Approve ASIC-Resistant Algorithm ProgPoW {ethereum: 100.00%}
+https://cointelegraph.com/news/ethereum-devs-once-again-approve-asic-resistant-algorithm-progpow
+300
+
+How Ethereum Applications Earn A+ Security Ratings {ethereum: 50.00%, security: 50.00%}
+https://www.coindesk.com/how-ethereum-applications-earn-a-security-ratings
+500
+
+Criptoactivos
+
+Top Cryptos Look Stable as Bitcoin Hovers Over $4,000 {cryptocurrencies: 100.00%}
+https://cointelegraph.com/news/top-cryptos-look-stable-as-bitcoin-hovers-over-4-000
+200
+
+Coinbase Pro Increases Fees, Updates Market Structure ‘to Increase Liquidity’ {crypto: 50.00%, trading: 50.00%}
+https://cointelegraph.com/news/coinbase-pro-increases-fees-updates-market-structure-to-increase-liquidity
+400
+
+Top 5 Crypto Performers Overview: Stellar, Bitcoin Cash, Cardano, Dash, Monero {crypto: 66.67%, cash: 33.33%}
+https://cointelegraph.com/news/top-5-crypto-performers-overview-stellar-bitcoin-cash-cardano-dash-monero
+500
+
+United Arab Emirates’ Financial Authorities Host Crypto Asset and Fintech Forum {financial: 14.29%, crypto: 28.57%, crypto asset: 14.29%, fintech: 28.57%, banks: 14.29%}
+https://cointelegraph.com/news/united-arab-emirates-financial-authorities-host-crypto-asset-and-fintech-forum
+3200
+
+Ciberseguridad
+
+Google responds after Trump, Joint Chiefs chairman accuse tech giant of aiding Chinese military {cybersecurity: 100.00%}
+https://www.foxnews.com/tech/google-says-it-works-in-recruiting-cybersecurity-and-healthcare-in-response-to-trump-claim-its-work-benefits-chinese-military
+200
+
+Security Affairs newsletter Round 205 – News of the week {security: 83.33%, cyberattack: 16.67%}
+https://securityaffairs.co/wordpress/82513/breaking-news/security-affairs-newsletter-round-205.html
+400
+
+Pagos Digitales
+
+Monitoreo Tecnológico
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Otro
+
+Courts and police are turning to AI to reduce bias, but some argue it'll make the problem worse {ai: 50.00%, machine learning: 50.00%}
+https://www.cnbc.com/2019/03/16/artificial-intelligence-algorithms-in-the-criminal-justice-system.html
+1000.0
+
+Hodler’s Digest, March 11–17: Top Stories, Price Movements, Quotes and FUD of the Week {crypto: 100.00%} 
+https://cointelegraph.com/news/hodlers-digest-march-1117-top-stories-price-movements-quotes-and-fud-of-the-week
+200
+
+Welcome to the hub of all hubs: Cosmos has launched {network: 50.00%, blockchain: 50.00%} 
+http://feedproxy.google.com/~r/Techcrunch/~3/n-O8vDQS1ok/
+400
+
+Experts uncovered a malspam campaign using Boeing 737 Max crashes {malware: 50.00%, security: 50.00%} 
+https://securityaffairs.co/wordpress/82500/cyber-crime/spam-boeing-737-max.html
+400
+
+Crypto Investment App Donut Raises $1.8 Million in Seed Funding {crypto: 50.00%, investment: 50.00%} 
+https://www.coindesk.com/crypto-investment-app-donut-raises-1-8-million-in-seed-funding
+500
+
+Will 3D printing disrupt the GCC construction sector? {billion: 33.33%, faster: 11.11%, technology: 22.22%, largest: 11.11%, economic: 11.11%, ai: 11.11%} 
+https://ameinfo.com/real-estate-and-construction/construction/will-3d-printing-disrupt-the-gcc-construction-sector/
+1200
+

@@ -1,0 +1,238 @@
+DLT
+
+Can we have digital identity and privacy? Blockchain and Centralised PKI {digital: 66.67%, blockchain: 33.33%}
+https://www.finextra.com/blogposting/16838/can-we-have-digital-identity-and-privacy-blockchain-and-centralised-pki?utm_medium=rss&utm_source=finextrafeed
+400
+
+Finovate Alumni News {security: 33.33%, trading: 33.33%, ethereum: 33.33%}
+https://finovate.com/finovate-alumni-news-961/
+600
+
+US National Pork Board and RIPE.IO Partner to Improve Sustainability, Quality, Traceability, Waste and Fraud in the Industry {blockchain: 77.78%, security: 11.11%, technology: 11.11%}
+https://www.the-blockchain.com/2019/03/20/us-national-pork-board-and-ripe-io-partner-to-improve-sustainability-quality-traceability-waste-and-fraud-in-the-industry/
+600
+
+Blockstream Revamps ‘Green’ Wallet, Adding Security Features and Sidechain Support {security: 33.33%, blockchain: 33.33%, technology: 33.33%}
+https://www.coindesk.com/blockstream-revamps-green-wallet-adding-security-features-and-sidechain-support
+600
+
+Digital Asset Holdings Gets Permanent CEO 3 Months After Blythe Masters Leaves {digital: 33.33%, digital asset: 66.67%}
+https://cointelegraph.com/news/digital-asset-holdings-gets-permanent-ceo-3-months-after-blythe-masters-leaves
+800
+
+PUBLIQ Named Finalist by UK Parliamentary Group for Blockchain Application in Media Category {blockchain: 81.48%, security: 7.41%, network: 3.70%, companies: 3.70%, technology: 3.70%}
+https://www.the-blockchain.com/2019/03/20/publiq-named-finalist-by-uk-parliamentary-group-for-blockchain-application-in-media-category/
+1000
+
+Kudelski Partners With Smart Contracts Auditor Hosho on Blockchain Security Solutions {blockchain: 33.33%, security: 50.00%, cybersecurity: 16.67%}
+https://cointelegraph.com/news/kudelski-partners-with-smart-contracts-auditor-hosho-on-blockchain-security-solutions
+1200
+
+Criptoactivos
+
+Major Coins See Mixed Signals, Gold Reacts Positively to US Federal Reserve Decision {crypto: 100.00%}
+https://cointelegraph.com/news/major-coins-see-mixed-signals-gold-reacts-positively-to-us-federal-reserve-decision
+200
+
+$25 Million in 2 Weeks: BlockFi Booms as Bitcoin and Ether Investors Seek Interest {crypto: 100.00%}
+https://www.coindesk.com/25-million-in-2-weeks-blockfi-booms-as-bitcoin-ether-investors-seek-interest
+200
+
+Nvidia Expects to Finish Selling Leftover Inventory From Crypto Bear Market by Q1 2019 {crypto: 100.00%}
+https://cointelegraph.com/news/nvidia-expects-to-finish-selling-leftover-inventory-from-crypto-bear-market-by-q1-2019
+300
+
+Lock Up Ether, Get Free Crypto: Twist on Airdrops Attracts Top VCs {crypto: 100.00%}
+https://www.coindesk.com/1confirmation-canaan-partners-back-startup-pushing-new-spin-on-airdrops
+300
+
+Huobi Launches Token Sale Platform to Let Investors Sample Pre-Release Altcoins {launch: 50.00%, crypto: 50.00%}
+https://cointelegraph.com/news/huobi-launches-token-sale-platform-to-let-investors-sample-pre-release-altcoins
+400
+
+CoinMarketCap Crypto Indices Launch on Nasdaq, Bloomberg, Reuters {crypto: 50.00%, launch: 50.00%}
+https://www.coindesk.com/coinmarketcap-crypto-indices-launch-on-nasdaq-bloomberg-reuters
+500
+
+Proof-of-Stake Cryptocurrencies Have $4 Billion in Staked Funds: Diar {cryptocurrencies: 50.00%, billion: 25.00%, launch: 25.00%}
+https://cointelegraph.com/news/proof-of-stake-cryptocurrencies-have-4-billion-in-staked-funds-diar
+700
+
+Welcome to Athens: Tezos Completes ‘Historic’ First Blockchain Vote {blockchain: 50.00%, cryptocurrencies: 50.00%}
+https://www.coindesk.com/welcome-to-athens-tezos-completes-historic-first-blockchain-vote
+800
+
+Silvergate Bank Onboarded 59 New Crypto Customers in Q4 2018 {bank: 50.00%, crypto: 25.00%, cryptocurrency: 25.00%}
+https://cointelegraph.com/news/silvergate-bank-onboarded-59-new-crypto-customers-in-q4-2018
+1300
+
+Crypto Exchange Aggregator Caspian to Offer Crypto Options and Futures Trading {crypto: 40.00%, trading: 40.00%, cryptocurrency: 20.00%}
+https://cointelegraph.com/news/crypto-exchange-aggregator-caspian-to-offer-crypto-options-and-futures-trading
+1400
+
+Cryptopia Exchange Resumes Crypto Trading Amid Banking Issues {crypto: 16.67%, trading: 33.33%, banking: 16.67%, cryptocurrency: 16.67%, hack: 16.67%}
+https://www.coindesk.com/cryptopia-exchange-resumes-crypto-trading-amid-banking-issues
+2500
+
+Ciberseguridad
+
+FIN7 Still Active Despite Arrests {malware: 100.00%}
+https://www.infosecurity-magazine.com:443/news/fin7-still-active-despite-arrests-1/
+200
+
+Years-Long Phishing Campaign Targets Saudi Gov Agencies {phishing: 100.00%}
+https://threatpost.com/phishing-campaign-saudi-gov/142998/
+300
+
+Jumio integrates with ComplyAdvantage for new AML solution {financial: 50.00%, financial crime: 50.00%}
+https://www.bankingtech.com/2019/03/jumio-integrates-with-complyadvantage-for-new-aml-solution/
+400
+
+Attacks Target AmEx, NetFlix Users with Phishing {phishing: 50.00%, attackers: 50.00%}
+https://www.infosecurity-magazine.com:443/news/attacks-target-amex-netflix-users-1/
+500
+
+The Insider Threat: It's More Common Than You Think {security: 33.33%, cybersecurity: 33.33%, technology: 33.33%}
+https://www.darkreading.com/vulnerabilities---threats/the-insider-threat-its-more-common-than-you-think--/a/d-id/1334186?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+600
+
+New MageCart Attacks Target Bedding Retailers My Pillow and Amerisleep {cybersecurity: 33.33%, malware: 33.33%, payment: 33.33%}
+http://feedproxy.google.com/~r/TheHackersNews/~3/2_ZAxQGP2tU/magecart-ecommerce-hackers.html
+1600
+
+Pagos Digitales
+
+JPMorgan Chase Exec: Crypto Innovators Will 'Ultimately Have to Use a Bank to Move Funds’ {crypto: 40.00%, bank: 20.00%, payments: 40.00%}
+https://cointelegraph.com/news/jpmorgan-chase-exec-crypto-innovators-will-ultimately-have-to-use-a-bank-to-move-funds
+900
+
+APEXX Payments Marketplace Debuts In Russia; Citcon Connects With ACCEO For Mobile Payments {payments: 54.55%, mobile: 9.09%, payment: 18.18%, wechat: 9.09%, alipay: 9.09%}
+https://www.pymnts.com/news/international/global-payments/2019/apexx-russia-citcon-acceo-mobile/
+1200
+
+Future of Payments Will Be Largely Invisible With Connected Devices {payments: 46.15%, technology: 7.69%, digital: 15.38%, mobile: 15.38%, apple pay: 7.69%, transaction: 7.69%}
+https://gomedici.com/future-of-payments-will-be-largely-invisible-with-connected-devices/
+1400
+
+2018 Travel Report finds 110% increase in mobile bookings in GCC {mobile: 50.00%, transactions: 17.65%, payment: 8.82%, launch: 2.94%, technology: 2.94%, technologies: 2.94%, machine learning: 2.94%, blockchain: 2.94%, central bank: 2.94%, bank: 2.94%, digital: 2.94%}
+https://ameinfo.com/travel/2018-travel-report-gcc/
+4800
+
+Monitoreo Tecnológico
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+FDATA sets out Canadian Open Banking benefits {open banking: 25.00%, banking: 50.00%, trade: 25.00%}
+https://www.finextra.com/pressarticle/77740/fdata-sets-out-canadian-open-banking-benefits?utm_medium=rss&utm_source=finextrafeed
+700
+
+Otro
+
+Skymind raises $11.5M to bring deep learning to more enterprises {ai: 100.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/7GlT0S6cq1s/
+200
+
+Citizens' AI drive hits a wall — commercial loan processing {ai: 100.00%}
+http://www.americanbanker.com/news/citizens-ai-drive-hits-a-wall-commercial-loan-processing
+200
+
+And now, AI to predict Cricket matches, assess the luck of the players {ai: 100.00%}
+https://www.business-standard.com/article/technology/and-now-ai-to-predict-cricket-matches-assess-the-luck-of-the-players-119032000799_1.html
+200
+
+Women in FinTech: It’s Time to Jump Right In {fintech: 83.33%, banking: 16.67%}
+https://finovate.com/women-in-fintech-its-time-to-jump-right-in/
+400
+
+Attend TC Sessions: Mobility, a one-day event on the future of transportation {ai: 50.00%, digital: 50.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/lPekUI5R2_w/
+400
+
+New voice-powered Finley AI offers financial and pension advice {ai: 66.67%, financial: 33.33%}
+https://www.bankingtech.com/2019/03/new-voice-powered-finley-ai-offers-financial-and-pension-advice/
+400
+
+In AI era, CEOs must put people first {ai: 25.00%, investing: 25.00%, technology: 25.00%, financial: 25.00%}
+http://www.americanbanker.com/opinion/in-ai-era-ceos-must-put-people-first
+800
+
+6 ways conversational AI supercharges the bank customer experience {ai: 20.00%, bank: 20.00%, banking: 20.00%, financial: 20.00%, banks: 20.00%}
+https://www.finextra.com/blogposting/16836/6-ways-conversational-ai-supercharges-the-bank-customer-experience?utm_medium=rss&utm_source=finextrafeed
+1000
+
+Bots, A.I, VR to create billion-dollar savings in tourism: report {billion: 31.58%, technologies: 5.26%, artificial intelligence: 5.26%, technology: 31.58%, trade: 5.26%, ai: 5.26%, companies: 5.26%, investing: 5.26%, investment: 5.26%}
+https://ameinfo.com/technology/innovation/bots-a-i-vr-to-create-billion-dollar-savings-in-tourism-report/
+3600
+
+European Commission to fund artificial intelligence | Raw Politics {artificial intelligence: 100.00%} 
+http://feedproxy.google.com/~r/euronews/en/home/~3/oBsuIRLtK0I/european-commission-to-fund-artificial-intelligence-raw-politics
+200
+
+From 1950 to 2018: How Artificial Intelligence has evolved over the years {artificial intelligence: 100.00%} 
+https://www.business-standard.com/article/technology/from-1950-to-2018-how-artificial-intelligence-has-evolved-over-the-years-119032001149_1.html
+200
+
+Solactive and CoinMarketCap create cryptocurrency benchmark indices {cryptocurrency: 100.00%} 
+https://www.finextra.com/pressarticle/77742/solactive-and-coinmarketcap-create-cryptocurrency-benchmark-indices?utm_medium=rss&utm_source=finextrafeed
+300
+
+Fin7 Ramps Up Campaigns With Two Fresh Malware Samples {malware: 100.00%} 
+https://threatpost.com/fin7-ramps-up-campaigns-with-two-fresh-malware-samples/142975/
+300
+
+Next Generation Fintech {fintech: 75.00%, technology: 25.00%} 
+https://finovate.com/next-generation-fintech/
+400
+
+Artificial intelligence: Algorithms face scrutiny over potential bias {artificial intelligence: 66.67%, financial: 33.33%} 
+https://www.bbc.co.uk/news/technology-47638916
+400
+
+The Document that Microsoft Eluded AppLocker and AMSI {malware: 33.33%, security: 66.67%} 
+https://securityaffairs.co/wordpress/82634/hacking/applocker-amsi-evasion.html
+400
+
+SimBad malware infected million Android users through Play Store {malware: 75.00%, security: 25.00%} 
+https://securityaffairs.co/wordpress/82654/malware/simbad-malware-google-play.html
+500
+
+Former Prime Minister of Denmark Joins Blockchain Identity Project Concordium as Strategic Advisor {blockchain: 83.33%, security: 8.33%, network: 8.33%} 
+https://www.the-blockchain.com/2019/03/20/former-prime-minister-of-denmark-joins-blockchain-identity-project-concordium-as-strategic-advisor/
+600
+
+Sumner Global Launches $100M Securitized Token Offering (STO) in Middle East {blockchain: 81.25%, security: 12.50%, largest: 6.25%} 
+https://www.the-blockchain.com/2019/03/20/sumner-global-launches-100m-securitized-token-offering-sto-in-middle-east/
+600
+
+Money 20/20 Asia: Confronting the open banking monster {open banking: 40.00%, banking: 40.00%, regulatory: 20.00%} 
+https://www.finextra.com/newsarticle/33562/money-2020-asia-confronting-the-open-banking-monster?utm_medium=rss&utm_source=finextrafeed
+700
+
+North Korea using bank cyberattacks to evade sanctions - UN report {bank: 25.00%, banks: 25.00%, cryptocurrency: 25.00%, exchanges: 25.00%} 
+https://www.finextra.com/newsarticle/33554/north-korea-using-bank-cyberattacks-to-evade-sanctions---un-report?utm_medium=rss&utm_source=finextrafeed
+800
+
+FashionTV Leaps into the World of Blockchain by Partnering up with Decentralized E-commerce Platform WAAM {blockchain: 82.61%, security: 8.70%, currency: 4.35%, billion: 4.35%} 
+https://www.the-blockchain.com/2019/03/20/fashiontv-leaps-into-the-world-of-blockchain-by-partnering-up-with-decentralized-e-commerce-platform-waam/
+800
+
+CoinMarketCap Launches Crypto Indices on Nasdaq, Bloomberg, Others {crypto: 50.00%, cryptocurrency: 50.00%} 
+https://cointelegraph.com/news/coinmarketcap-launches-crypto-indices-on-nasdaq-bloomberg-others
+900
+
+Next Stop: Derivatives {blockchain: 73.68%, security: 10.53%, largest: 5.26%, trading: 5.26%, billion: 5.26%} 
+https://www.the-blockchain.com/2019/03/20/next-stop-derivatives/
+1000
+
+Galaxy Capital-Backed Caspian to Offer Crypto Derivatives Trading {crypto: 20.00%, trading: 60.00%, cryptocurrency: 20.00%} 
+https://www.coindesk.com/galaxy-capital-backed-caspian-to-offer-crypto-derivatives-trading
+1300
+
+AI Exclusive: Smart, cunning, emotional and scary, all wrapped up in one {ai: 64.15%, technology: 9.43%, faster: 3.77%, technologies: 1.89%, artificial intelligence: 5.66%, investing: 1.89%, investment: 3.77%, trade: 1.89%, blockchain: 1.89%, mobile: 1.89%, digital: 1.89%, government: 1.89%} 
+https://ameinfo.com/it-2/ai-exclusive-smart-cunning-emotional-and-scary-all-wrapped-up-in-one/
+7200
+
