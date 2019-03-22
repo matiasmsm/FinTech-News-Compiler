@@ -372,5 +372,6 @@ def transformar():
     diccionario_noticias_fuentes = consultas_feed()
     for tupla in diccionario_noticias_fuentes.values():
         lista_entries = filtrar_contenido(tupla[0], tupla[1], tupla[2])
+        print(lista_entries)
         diccionario_noticias_fuentes[tupla[0]] = lista_entries
     return diccionario_noticias_fuentes
