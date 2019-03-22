@@ -1,54 +1,114 @@
 DLT
 
-Bitcoin Daily: Facebook Posts New Blockchain Job; Mt. Gox Nears Creditor Account Settlement {blockchain: 75.00%, launch: 25.00%}
-https://www.pymnts.com/blockchain/bitcoin/2019/facebook-blockchain-job-mt-gox-creditor-account-settlement/
-400
+Blockchain Art Registry Acquires Database With Info From 4K Auction Houses {blockchain: 100.00%}
+https://cointelegraph.com/news/blockchain-art-registry-acquires-database-with-info-from-4k-auction-houses
+200
 
-Invoice Financing Via Blockchain Targets SMB Cash Flow Problems {blockchain: 33.33%, cash: 33.33%, launch: 33.33%}
-https://www.pymnts.com/news/b2b-payments/2019/invoice-financing-blockchain-ai/
+Duke University Partners for Blockchain Lab, Education Program {blockchain: 100.00%}
+https://www.coindesk.com/duke-university-partners-for-blockchain-lab-education-program
+200
+
+Blockchain in Biometrics Could be Used in Travel Security, US Customs Rep Says {blockchain: 40.00%, security: 40.00%, technology: 20.00%}
+https://cointelegraph.com/news/blockchain-in-biometrics-could-be-used-in-travel-security-us-customs-rep-says
 600
 
 The UAE is the happiest Arab country in the world, for the 5th year in a row {investing: 33.33%, blockchain: 16.67%, technologies: 16.67%, network: 16.67%, trade: 16.67%}
 https://ameinfo.com/trending/uae-happiest-country-2018/
 1000
 
+Market Networks: A Four Year Perspective {network: 62.86%, blockchain: 5.71%, companies: 2.86%, transactions: 5.71%, transaction: 5.71%, digital: 17.14%}
+https://hackernoon.com/market-networks-a-four-year-perspective-2193f16d6e5e?source=rss----3a8144eabfe3---4
+1200
+
 Crypto Lawyer Drew Hinkes Joins Firm to Help ICO Issuers Fight Back {crypto: 33.33%, ico: 33.33%, blockchain: 33.33%}
 https://www.coindesk.com/blockchain-lawyer-drew-hinkes-joins-new-firm-to-help-ico-issuers-fight-back
 1400
 
-Beating Amazon with Blockchain {blockchain: 46.45%, network: 8.39%, largest: 1.29%, digital: 1.94%, technology: 5.16%, banks: 0.65%, cryptocurrency: 5.81%, technologies: 0.65%, transactions: 1.94%, crypto: 0.65%, payments: 6.45%, transaction: 1.29%, fintech: 0.65%, payment: 0.65%, security: 0.65%, theft: 0.65%, ethereum: 1.29%, hyperledger: 1.29%, companies: 2.58%, launch: 1.29%, faster: 1.94%, investment: 1.94%, digital asset: 1.29%, big data: 0.65%, ai: 0.65%, billion: 1.29%, cash: 1.94%, cryptocurrencies: 0.65%}
-https://hackernoon.com/beating-amazon-with-blockchain-f46fa240c3e8?source=rss----3a8144eabfe3---4
-60200
+Is Blockchain Really Immutable? {blockchain: 52.94%, technology: 9.80%, faster: 1.96%, transaction: 3.92%, digital: 3.92%, transactions: 5.88%, cryptocurrency: 3.92%, network: 5.88%, cash: 1.96%, attackers: 3.92%, launch: 1.96%, currencies: 1.96%, hacks: 1.96%}
+https://hackernoon.com/is-blockchain-really-immutable-a527d10f4977?source=rss----3a8144eabfe3---4
+4800
 
 Criptoactivos
+
+Crypto Markets Report Slight Gains While Gold Rises {crypto: 100.00%}
+https://cointelegraph.com/news/crypto-markets-report-slight-gains-while-gold-rises
+300
 
 SBI Holdings Latest Crypto Venture Will See It Make Mining Chips {crypto: 100.00%}
 https://www.coindesk.com/sbi-holdings-latest-crypto-venture-will-see-it-make-mining-chips
 300
 
-Japan: SBI Group Sets Up Spin-Off to Manufacture Crypto Mining Chips {crypto: 33.33%, financial: 33.33%, cash: 33.33%}
-https://cointelegraph.com/news/japan-sbi-group-sets-up-spin-off-to-manufacture-crypto-mining-chips
+FIS-Worldpay's impact, OCC's Wells Fargo rebuke, lifetime banker bans: Top stories of the week {banks: 50.00%, ripple: 50.00%}
+http://www.americanbanker.com/list/fis-worldpays-impact-occs-wells-fargo-rebuke-lifetime-banker-bans-top-stories-of-the-week
+400
+
+CFTC: We’re ‘Diligently’ Working on All Crypto-Related Applications, Including Bakkt’s {crypto: 50.00%, launch: 50.00%}
+https://cointelegraph.com/news/cftc-were-diligently-working-on-all-crypto-related-applications-including-bakkts
+500
+
+Crypto Lender BlockFi Cuts Interest Rates Paid to Largest Account Holders {crypto: 66.67%, largest: 33.33%}
+https://www.coindesk.com/crypto-lender-blockfi-cuts-interest-rates-paid-to-largest-account-holders
+500
+
+NBA Bankers Association Establishes Disaster Relief Fund {ripple: 33.33%, banks: 33.33%, bank: 33.33%}
+https://www.banknews.com/blog/nba-bankers-association-establishes-disaster-relief-fund/
+600
+
+Bitwise Tells US SEC That 95% of Volume on Unregulated Crypto Exchanges is Suspect {crypto: 25.00%, exchanges: 50.00%, economic: 25.00%}
+https://cointelegraph.com/news/bitwise-tells-us-sec-that-95-of-volume-on-unregulated-crypto-exchanges-is-suspect
 700
 
+Major Crypto Exchanges Huobi Global and OKEx Launch Support for Tron-Based USDT {crypto: 40.00%, exchanges: 40.00%, launch: 20.00%}
+https://cointelegraph.com/news/major-crypto-exchanges-huobi-global-and-okex-launch-support-for-tron-based-usdt
+700
+
+Bain-Backed Crypto Exchange Seed CX Is Expanding to Asia {crypto: 50.00%, cryptocurrency: 50.00%}
+https://www.coindesk.com/bain-backed-crypto-exchange-seed-cx-is-expanding-to-asia
+900
+
+Bitcoin (And Other Crypto) Use Cases Fizzle, Bit By Bit? {crypto: 33.33%, cryptocurrencies: 33.33%, trading: 33.33%}
+https://www.pymnts.com/sizzlefizzle/2019/bitcoin-crypto-use-cases-fizzle/
+1300
+
+Bitcoin, Ethereum, Ripple, Litecoin, EOS, Bitcoin Cash, Binance Coin, Stellar, Tron, Cardano: Price Analysis, March 22 {ethereum: 20.00%, ripple: 20.00%, cash: 20.00%, crypto: 20.00%, exchanges: 20.00%}
+https://cointelegraph.com/news/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-tron-cardano-price-analysis-march-22
+3200
+
 Ciberseguridad
+
+Investigan traspaso de fondos de Cuprum a cuentas de Provida {ciberataque: 100.00%}
+https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/investigan-traspaso-de-fondos-de-cuprum-a-cuentas-de-provida/2019-03-22/143158.html
+200
 
 Get 4 Essential CyberSecurity Software For Less Than $10 Per Month {cybersecurity: 100.00%}
 http://feedproxy.google.com/~r/TheHackersNews/~3/HYgnOCcEIgI/best-cybersecurity-software.html
 300
 
+This email subject line could well be a business scam {scam: 66.67%, phishing: 33.33%}
+https://www.smh.com.au/business/small-business/this-email-subject-line-could-well-be-a-business-scam-20190321-p5165p.html?ref=rss&utm_medium=rss&utm_source=rss_business
+400
+
 Microsoft Announces Windows Defender ATP Antivirus for Mac {malware: 50.00%, technology: 50.00%}
 http://feedproxy.google.com/~r/TheHackersNews/~3/L26_1K2xrFU/microsoft-defender-antivirus-macos.html
 400
 
+FIN7 is back with a previously unseen SQLRat malware {malware: 71.43%, security: 28.57%}
+https://securityaffairs.co/wordpress/82733/cyber-crime/fin7-sqlrat-malware.html
+500
+
+Facebook: Up to 600 million users’ passwords were visible to employees {hack: 9.09%, security: 54.55%, cybersecurity: 18.18%, mobile: 9.09%, technology: 9.09%}
+https://ameinfo.com/technology/it/facebook-user-passwords-plain-text-visible/
+1200
+
 Pagos Digitales
+
+Finovate Alumni News {psd2: 33.33%, finance: 33.33%, banks: 33.33%}
+https://finovate.com/finovate-alumni-news-963/
+600
 
 84% of MENA’s youth: Growth of private sector is the way forward {economic: 38.46%, digital: 38.46%, digital economy: 23.08%}
 https://ameinfo.com/money/economy/mena-youth-private-sector-growth/
 600
-
-First Data, InstaReM Pair On Corporate Card Issuance {fintech: 28.57%, banks: 14.29%, digital: 14.29%, digital payments: 14.29%, payments: 28.57%}
-https://www.pymnts.com/news/b2b-payments/2019/first-data-instarem-issue-corporate-cards/
-1000
 
 IBM World wire – the inevitable rise of Centralized Blockchains {currencies: 12.50%, banking: 12.50%, currency: 12.50%, trading: 12.50%, blockchain: 12.50%, crypto: 12.50%, payments: 25.00%}
 https://dailyfintech.com/2019/03/22/ibm-world-wire-the-inevitable-rise-of-centralized-blockchains/
@@ -68,17 +128,25 @@ Banca Abierta
 
 Otro
 
-VC FinTech Funding Sets Sights On ‘Alternative’ Data {fintech: 100.00%}
-https://www.pymnts.com/news/b2b-payments/2019/vc-fintech-funding-investments-alternative-data/
+Instarem Raises Capital; TurnKey Lender Goes Live in Malaysia {fintech: 100.00%}
+https://finovate.com/instarem-raises-capital-turnkey-lender-goes-live-in-malaysia/
 200
 
 Facebook to re-examine how live videos are flagged after Christchurch shooting {artificial intelligence: 100.00%}
 https://www.smh.com.au/technology/facebook-to-re-examine-how-live-videos-are-flagged-after-christchurch-shooting-20190322-p516f1.html?ref=rss&utm_medium=rss&utm_source=rss_technology
 200
 
+'If the product is good, it should sell itself': A Q&A with Earnest's CEO {fintech: 100.00%}
+http://www.americanbanker.com/news/if-the-product-is-good-it-should-sell-itself-a-q-a-with-earnests-ceo
+200
+
 Embracing the promise of fintech {fintech: 100.00%}
 http://www.bankofengland.co.uk/quarterly-bulletin/2019/2019-q1/embracing-the-promise-of-fintech
 400
+
+Project BankNorth Partners with nCino Ahead of 2020 Launch {launch: 66.67%, fintech: 16.67%, bank: 16.67%}
+https://finovate.com/project-banknorth-partners-with-ncino-ahead-of-2020-launch/
+600
 
 An Indonesian Plot Twist: Fintech Akulaku Buys Stake into a Bank {fintech: 45.45%, bank: 36.36%, billion: 9.09%, technology: 9.09%}
 http://fintechnews.sg/29656/indonesia/akulaku-bank-yudha-bhakti-invest-buy-technology-fintech/
@@ -92,20 +160,32 @@ Top fintech stories this week – 22 March 2019 {fintech: 100.00%}
 https://www.bankingtech.com/2019/03/top-fintech-stories-this-week-22-march-2019/
 200
 
-This email subject line could well be a business scam {scam: 66.67%, phishing: 33.33%} 
-https://www.smh.com.au/business/small-business/this-email-subject-line-could-well-be-a-business-scam-20190321-p5165p.html?ref=rss&utm_medium=rss&utm_source=rss_business
+Google requests meeting with top US general amid China AI debate {ai: 100.00%} 
+https://www.business-standard.com/article/international/google-requests-meeting-with-us-general-amid-row-over-it-ai-work-in-china-119032201254_1.html
+200
+
+Swiss Federal Council Initiates Blockchain Law Consultation Period {blockchain: 100.00%} 
+https://cointelegraph.com/news/swiss-federal-council-initiates-blockchain-law-consultation-period
+200
+
+Road to Consensus with Kadena’s Will Martino: Who Needs Private Blockchain? {blockchain: 100.00%} 
+https://www.coindesk.com/road-to-consensus-with-kadenas-will-martino-who-needs-private-blockchain
+200
+
+Daily Crunch: Facebook admits password security lapse {security: 50.00%, cybersecurity: 50.00%} 
+http://feedproxy.google.com/~r/Techcrunch/~3/bXL8TkDlXcM/
 400
 
-FIN7 is back with a previously unseen SQLRat malware {malware: 71.43%, security: 28.57%} 
-https://securityaffairs.co/wordpress/82733/cyber-crime/fin7-sqlrat-malware.html
+NSE subsidiary buys cybersecurity company Aujas for undisclosed sum {cybersecurity: 50.00%, security: 50.00%} 
+https://www.business-standard.com/article/companies/nse-subsidiary-buys-cybersecurity-company-aujas-for-undisclosed-sum-119032200953_1.html
 500
 
-Blockchain in Biometrics Could be Used in Travel Security, US Customs Rep Says {blockchain: 40.00%, security: 40.00%, technology: 20.00%} 
-https://cointelegraph.com/news/blockchain-in-biometrics-could-be-used-in-travel-security-us-customs-rep-says
+How 6 million Bank of America customers are using Erica {bank: 33.33%, ai: 33.33%, transaction: 33.33%} 
+http://www.americanbanker.com/news/how-6-million-bank-of-america-customers-are-using-erica
 600
 
-Major Crypto Exchanges Huobi Global and OKEx Launch Support for Tron-Based USDT {crypto: 40.00%, exchanges: 40.00%, launch: 20.00%} 
-https://cointelegraph.com/news/major-crypto-exchanges-huobi-global-and-okex-launch-support-for-tron-based-usdt
+Japan: SBI Group Sets Up Spin-Off to Manufacture Crypto Mining Chips {crypto: 33.33%, financial: 33.33%, cash: 33.33%} 
+https://cointelegraph.com/news/japan-sbi-group-sets-up-spin-off-to-manufacture-crypto-mining-chips
 700
 
 10 UAE-Based FinTech Startups You Don't Want to Miss {fintech: 40.00%, crypto: 6.67%, sandbox: 6.67%, blockchain: 6.67%, big data: 6.67%, mobile: 13.33%, financial: 6.67%, network: 6.67%, cash: 6.67%} 
