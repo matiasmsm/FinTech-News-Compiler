@@ -1,16 +1,64 @@
 DLT
 
+Bitcoin Daily: Facebook Posts New Blockchain Job; Mt. Gox Nears Creditor Account Settlement {blockchain: 75.00%, launch: 25.00%}
+https://www.pymnts.com/blockchain/bitcoin/2019/facebook-blockchain-job-mt-gox-creditor-account-settlement/
+400
+
+Invoice Financing Via Blockchain Targets SMB Cash Flow Problems {blockchain: 33.33%, cash: 33.33%, launch: 33.33%}
+https://www.pymnts.com/news/b2b-payments/2019/invoice-financing-blockchain-ai/
+600
+
+The UAE is the happiest Arab country in the world, for the 5th year in a row {investing: 33.33%, blockchain: 16.67%, technologies: 16.67%, network: 16.67%, trade: 16.67%}
+https://ameinfo.com/trending/uae-happiest-country-2018/
+1000
+
+Crypto Lawyer Drew Hinkes Joins Firm to Help ICO Issuers Fight Back {crypto: 33.33%, ico: 33.33%, blockchain: 33.33%}
+https://www.coindesk.com/blockchain-lawyer-drew-hinkes-joins-new-firm-to-help-ico-issuers-fight-back
+1400
+
+Beating Amazon with Blockchain {blockchain: 46.45%, network: 8.39%, largest: 1.29%, digital: 1.94%, technology: 5.16%, banks: 0.65%, cryptocurrency: 5.81%, technologies: 0.65%, transactions: 1.94%, crypto: 0.65%, payments: 6.45%, transaction: 1.29%, fintech: 0.65%, payment: 0.65%, security: 0.65%, theft: 0.65%, ethereum: 1.29%, hyperledger: 1.29%, companies: 2.58%, launch: 1.29%, faster: 1.94%, investment: 1.94%, digital asset: 1.29%, big data: 0.65%, ai: 0.65%, billion: 1.29%, cash: 1.94%, cryptocurrencies: 0.65%}
+https://hackernoon.com/beating-amazon-with-blockchain-f46fa240c3e8?source=rss----3a8144eabfe3---4
+60200
+
 Criptoactivos
+
+SBI Holdings Latest Crypto Venture Will See It Make Mining Chips {crypto: 100.00%}
+https://www.coindesk.com/sbi-holdings-latest-crypto-venture-will-see-it-make-mining-chips
+300
+
+Japan: SBI Group Sets Up Spin-Off to Manufacture Crypto Mining Chips {crypto: 33.33%, financial: 33.33%, cash: 33.33%}
+https://cointelegraph.com/news/japan-sbi-group-sets-up-spin-off-to-manufacture-crypto-mining-chips
+700
 
 Ciberseguridad
 
-This email subject line could well be a business scam {scam: 66.67%, phishing: 33.33%}
-https://www.smh.com.au/business/small-business/this-email-subject-line-could-well-be-a-business-scam-20190321-p5165p.html?ref=rss&utm_medium=rss&utm_source=rss_business
+Get 4 Essential CyberSecurity Software For Less Than $10 Per Month {cybersecurity: 100.00%}
+http://feedproxy.google.com/~r/TheHackersNews/~3/HYgnOCcEIgI/best-cybersecurity-software.html
+300
+
+Microsoft Announces Windows Defender ATP Antivirus for Mac {malware: 50.00%, technology: 50.00%}
+http://feedproxy.google.com/~r/TheHackersNews/~3/L26_1K2xrFU/microsoft-defender-antivirus-macos.html
 400
 
 Pagos Digitales
 
+84% of MENA’s youth: Growth of private sector is the way forward {economic: 38.46%, digital: 38.46%, digital economy: 23.08%}
+https://ameinfo.com/money/economy/mena-youth-private-sector-growth/
+600
+
+First Data, InstaReM Pair On Corporate Card Issuance {fintech: 28.57%, banks: 14.29%, digital: 14.29%, digital payments: 14.29%, payments: 28.57%}
+https://www.pymnts.com/news/b2b-payments/2019/first-data-instarem-issue-corporate-cards/
+1000
+
+IBM World wire – the inevitable rise of Centralized Blockchains {currencies: 12.50%, banking: 12.50%, currency: 12.50%, trading: 12.50%, blockchain: 12.50%, crypto: 12.50%, payments: 25.00%}
+https://dailyfintech.com/2019/03/22/ibm-world-wire-the-inevitable-rise-of-centralized-blockchains/
+3200
+
 Monitoreo Tecnológico
+
+Middle East bank chief calls for more regtech spending {bank: 20.00%, regtech: 20.00%, banks: 20.00%, financial: 20.00%, institutions: 20.00%}
+https://www.finextra.com/newsarticle/33573/middle-east-bank-chief-calls-for-more-regtech-spending?utm_medium=rss&utm_source=finextrafeed
+1100
 
 Big Data
 
@@ -20,7 +68,47 @@ Banca Abierta
 
 Otro
 
+VC FinTech Funding Sets Sights On ‘Alternative’ Data {fintech: 100.00%}
+https://www.pymnts.com/news/b2b-payments/2019/vc-fintech-funding-investments-alternative-data/
+200
+
 Facebook to re-examine how live videos are flagged after Christchurch shooting {artificial intelligence: 100.00%}
 https://www.smh.com.au/technology/facebook-to-re-examine-how-live-videos-are-flagged-after-christchurch-shooting-20190322-p516f1.html?ref=rss&utm_medium=rss&utm_source=rss_technology
 200
+
+Embracing the promise of fintech {fintech: 100.00%}
+http://www.bankofengland.co.uk/quarterly-bulletin/2019/2019-q1/embracing-the-promise-of-fintech
+400
+
+An Indonesian Plot Twist: Fintech Akulaku Buys Stake into a Bank {fintech: 45.45%, bank: 36.36%, billion: 9.09%, technology: 9.09%}
+http://fintechnews.sg/29656/indonesia/akulaku-bank-yudha-bhakti-invest-buy-technology-fintech/
+800
+
+AI turns scribbles into masterpieces and other news {ai: 100.00%} 
+https://www.bbc.co.uk/news/technology-47555566
+200
+
+Top fintech stories this week – 22 March 2019 {fintech: 100.00%} 
+https://www.bankingtech.com/2019/03/top-fintech-stories-this-week-22-march-2019/
+200
+
+This email subject line could well be a business scam {scam: 66.67%, phishing: 33.33%} 
+https://www.smh.com.au/business/small-business/this-email-subject-line-could-well-be-a-business-scam-20190321-p5165p.html?ref=rss&utm_medium=rss&utm_source=rss_business
+400
+
+FIN7 is back with a previously unseen SQLRat malware {malware: 71.43%, security: 28.57%} 
+https://securityaffairs.co/wordpress/82733/cyber-crime/fin7-sqlrat-malware.html
+500
+
+Blockchain in Biometrics Could be Used in Travel Security, US Customs Rep Says {blockchain: 40.00%, security: 40.00%, technology: 20.00%} 
+https://cointelegraph.com/news/blockchain-in-biometrics-could-be-used-in-travel-security-us-customs-rep-says
+600
+
+Major Crypto Exchanges Huobi Global and OKEx Launch Support for Tron-Based USDT {crypto: 40.00%, exchanges: 40.00%, launch: 20.00%} 
+https://cointelegraph.com/news/major-crypto-exchanges-huobi-global-and-okex-launch-support-for-tron-based-usdt
+700
+
+10 UAE-Based FinTech Startups You Don't Want to Miss {fintech: 40.00%, crypto: 6.67%, sandbox: 6.67%, blockchain: 6.67%, big data: 6.67%, mobile: 13.33%, financial: 6.67%, network: 6.67%, cash: 6.67%} 
+https://gomedici.com/10-uae-based-fintech-startups-you-don't-want-to-miss/
+7200
 
