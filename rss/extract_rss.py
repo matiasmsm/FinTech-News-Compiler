@@ -30,5 +30,6 @@ def consultas_feed():
         url = diccionario_fuente["url"]
         peso = diccionario_fuente["peso"]
         url_content = feedparser.parse(url)
+        print(url_content)
         diccionario_noticias_fuentes[nombre] = (nombre, url_content, peso)
     return diccionario_noticias_fuentes
