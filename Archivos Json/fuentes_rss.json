@@ -152,7 +152,8 @@
   {"nombre": "AMEinfo", "url":"https://ameinfo.com/feed/", "peso": 1},
   {"nombre": "US Government", "url":"https://www.usa.gov/rss/updates.xml", "peso": 1.5},
   {"nombre": "CoinDesk", "url":"http://feeds.feedburner.com/CoinDesk", "peso": 1},
-  {"nombre": "FinTech Singapore", "url": "http://fintechnews.sg/feed/", "peso": 1}
+  {"nombre": "FinTech Singapore", "url": "http://fintechnews.sg/feed/", "peso": 1},
+  {"nombre": "Hackernoon", "url": "https://hackernoon.com/feed", "peso": 1}
   ]
 }
 

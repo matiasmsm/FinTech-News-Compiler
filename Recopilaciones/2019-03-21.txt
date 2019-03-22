@@ -1,0 +1,254 @@
+DLT
+
+UPS Integrates Blockchain Platform to Improve Merchant Supply Chains {blockchain: 100.00%}
+https://cointelegraph.com/news/ups-integrates-blockchain-platform-to-improve-merchant-supply-chains
+200
+
+Sirin Labs Partners With MyEtherWallet to Enhance Outreach of Blockchain Smartphone {blockchain: 100.00%}
+https://cointelegraph.com/news/sirin-labs-partners-with-myetherwallet-to-enhance-outreach-of-blockchain-smartphone
+200
+
+Ex-NATO Chief, Danish PM Now Advises Blockchain Firm Concordium {blockchain: 100.00%}
+https://www.coindesk.com/ex-nato-chief-danish-pm-now-advises-blockchain-firm-concordium
+200
+
+MakerDAO Votes to Increase Fees 4% on Ethereum Stablecoin DAI {ethereum: 100.00%}
+https://www.coindesk.com/makerdao-votes-to-increase-fees-4-on-ethereum-stablecoin-dai
+300
+
+Australia unveils national blockchain strategy {blockchain: 66.67%, government: 33.33%}
+https://www.finextra.com/newsarticle/33568/australia-unveils-national-blockchain-strategy?utm_medium=rss&utm_source=finextrafeed
+400
+
+China’s Alibaba Partners With Chinese Software Giant to Promote Blockchain Development {blockchain: 66.67%, technology: 33.33%}
+https://cointelegraph.com/news/chinas-alibaba-partners-with-chinese-software-giant-to-promote-blockchain-development
+400
+
+Redditors Call Out Reported Scam on Blockchain-Based Prediction Platform Augur {scam: 33.33%, blockchain: 66.67%}
+https://cointelegraph.com/news/redditors-call-out-reported-scam-on-blockchain-based-prediction-platform-augur
+400
+
+Sirin Labs, MyEtherWallet Team Up for Finney Phone Integration {blockchain: 50.00%, companies: 50.00%}
+https://www.coindesk.com/sirin-labs-myetherwallet-team-up-for-finney-phone-integration
+400
+
+Dragonchain Announces Partnership with Humanitarian Organization M2030, Facilitating Donation Processes with Blockchain to Fight Malaria {blockchain: 87.50%, security: 8.33%, technology: 4.17%}
+https://www.the-blockchain.com/2019/03/21/dragonchain-announces-partnership-with-humanitarian-organization-m2030-facilitating-donation-processes-with-blockchain-to-fight-malaria/
+600
+
+UniCredit completes transaction on we.trade blockchain platform {transaction: 33.33%, trade: 16.67%, blockchain: 33.33%, trading: 16.67%}
+https://www.finextra.com/newsarticle/33572/unicredit-completes-transaction-on-wetrade-blockchain-platform?utm_medium=rss&utm_source=finextrafeed
+800
+
+Criptoactivos
+
+Alleged Bitcoin Fraudster Alexander Vinnik Appeals for Extradition to Russia {crypto: 100.00%}
+https://cointelegraph.com/news/alleged-bitcoin-fraudster-alexander-vinnik-appeals-for-extradition-to-russia
+200
+
+WSJ Claim of $9 Mln Laundered Via Shapeshift Based on Flawed Investigation, Analysts Say {crypto: 100.00%}
+https://cointelegraph.com/news/wsj-claim-of-9-mln-laundered-via-shapeshift-based-on-flawed-investigation-analysts-say
+200
+
+Mt Gox Trustee Approves Creditor Claims Worth Billions {crypto: 100.00%}
+https://www.coindesk.com/mt-gox-is-taking-a-step-towards-paying-out-creditors
+200
+
+Texas: Crypto AriseBank CEO Pleads Guilty to Deceiving Investors in $4.2 Million Case {crypto: 100.00%}
+https://cointelegraph.com/news/texas-crypto-arisebank-ceo-pleads-guilty-to-deceiving-investors-in-42-million-case
+300
+
+Bitmain Set to Deploy $80 Million Worth of Bitcoin Miners, Sources Say {largest: 50.00%, crypto: 50.00%}
+https://www.coindesk.com/bitmain-bitcoin-mining-farms-antminer
+400
+
+Crypto Markets Descend While Tech Stocks Surge {crypto: 66.67%, trading: 33.33%}
+https://cointelegraph.com/news/crypto-markets-descend-while-tech-stocks-surge
+500
+
+Report: Bitmain Plans to Set Up 200,000 Crypto Mining Machines in China {crypto: 50.00%, cryptocurrency: 50.00%}
+https://cointelegraph.com/news/report-bitmain-plans-to-set-up-200-000-crypto-mining-machines-in-china
+900
+
+Not Just BNB: Up 120%, Huobi’s Crypto Exchange Coin Is Breaking Out {crypto: 50.00%, cryptocurrency: 50.00%}
+https://www.coindesk.com/not-just-bnb-up-120-huobis-crypto-exchange-coin-is-breaking-out
+900
+
+Payment Service Square is Hiring Crypto Engineers, Offers Salaries in Bitcoin {payment: 50.00%, crypto: 25.00%, cryptocurrency: 25.00%}
+https://cointelegraph.com/news/payment-service-square-is-hiring-crypto-engineers-offers-salaries-in-bitcoin
+1700
+
+IPC partners Omniex on extranet-based cryptocurrency trading ecosystem {cryptocurrency: 16.67%, trading: 33.33%, digital: 16.67%, digital asset: 33.33%}
+https://www.finextra.com/newsarticle/33558/ipc-partners-omniex-on-extranet-based-cryptocurrency-trading-ecosystem?utm_medium=rss&utm_source=finextrafeed
+1900
+
+Ciberseguridad
+
+UK Police Federation Hit by Ransomware {malware: 100.00%}
+https://www.infosecurity-magazine.com:443/news/uk-police-federation-hit-by-1/
+200
+
+Russian hackers targeting European governments ahead of May election, cybersecurity firm says {cybersecurity: 100.00%}
+https://www.cnbc.com/2019/03/21/russian-hackers-target-european-governments-ahead-of-election-fireeye.html
+375.0
+
+[SI-LAB] LockerGoga is the most active ransomware that focuses on targeting companies {companies: 55.56%, crypto: 11.11%, malware: 22.22%, security: 11.11%}
+https://securityaffairs.co/wordpress/82684/malware/lockergoga-ransomware-spreads.html
+1600
+
+Pagos Digitales
+
+Walmart tops up PhonePe wallet with Rs 743 cr to counter Amazon and Google {google pay: 100.00%}
+https://www.business-standard.com/article/companies/walmart-tops-up-phonepe-wallet-with-rs-743-cr-to-counter-amazon-and-google-119032100709_1.html
+200
+
+First Data Buys German Cashless Tech Co ayCash {fintech: 33.33%, payment: 33.33%, digital: 33.33%}
+https://www.pymnts.com/news/partnerships-acquisitions/2019/first-data-cashless-germany/
+800
+
+Prepaid Technologies Acquires Dash from Karmic Labs {technologies: 75.00%, payment: 12.50%, fintech: 12.50%}
+https://finovate.com/prepaid-technologies-acquires-dash-from-karmic-labs/
+800
+
+41% of banks missed PSD2 deadline says survey {banks: 50.00%, psd2: 25.00%, payment: 25.00%}
+https://www.finextra.com/newsarticle/33569/41-of-banks-missed-psd2-deadline-says-survey?utm_medium=rss&utm_source=finextrafeed
+900
+
+Facebook Posts Job Vacancy for Senior Lawyer With Blockchain, Payments Experience {blockchain: 40.00%, payments: 40.00%, payment: 20.00%}
+https://cointelegraph.com/news/facebook-seeks-legal-counsel-as-hints-of-blockchain-payments-continue
+1000
+
+solarisBank To Grow Alipay In Europe; PagBrasil Teams With Singapore’s APACPAY {alipay: 16.67%, payments: 50.00%, payment: 25.00%, mobile: 8.33%}
+https://www.pymnts.com/news/international/global-payments/2019/solarisbank-alipay-europe-china-atm/
+1300
+
+Four corporate email oversights that put your organization at risk {technology: 12.50%, transaction: 6.25%, security: 43.75%, theft: 6.25%, payment: 18.75%, apple pay: 6.25%, mobile: 6.25%}
+https://ameinfo.com/technology/it/four-corporate-email-oversights-that-put-your-organization-at-risk/
+1600
+
+Monitoreo Tecnológico
+
+How to save the third wave of technology from itself {technology: 40.00%, finance: 20.00%, regulatory: 20.00%, regtech: 20.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/KOP8aT7on7I/
+800
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Otro
+
+Prediction Startup Numerai Raises $11 Million in ICO {ico: 66.67%, launch: 33.33%}
+https://cointelegraph.com/news/prediction-startup-numerai-raises-11-million-in-ico
+100
+
+Cayman Islands-based fintech consultancy opens {fintech: 100.00%}
+https://www.finextra.com/pressarticle/77763/cayman-islands-based-fintech-consultancy-opens?utm_medium=rss&utm_source=finextrafeed
+200
+
+Aurora’s Sterling Anderson, Uber ATG’s Raquel Urtasun to discuss self-driving cars and AI at TC Sessions {ai: 100.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/HCirAi7Nuwg/
+200
+
+Finaxar Wins the Visa Everywhere Initiative with its Financing Solution {fintech: 100.00%}
+http://fintechnews.sg/29644/fintech/finaxar-visa-everywhere-initiative/
+200
+
+Tandem launches Autosavings account {bank: 50.00%, machine learning: 50.00%}
+https://www.finextra.com/newsarticle/33566/tandem-launches-autosavings-account?utm_medium=rss&utm_source=finextrafeed
+400
+
+Citi Ventures Leads $28 Million Round for Client Management Startup HoneyBook {fintech: 50.00%, billion: 50.00%}
+https://bankinnovation.net/2019/03/citi-ventures-leads-28-million-round-for-client-management-startup-honeybook/
+400
+
+Vietnam’s Deputy Prime Minister Says It Will Be Piloting P2P Lending Soon {government: 50.00%, fintech: 50.00%}
+http://fintechnews.sg/29629/vietnam/vietnam-p2p-lending/
+400
+
+Bach to the future: AI turns Google Doodle into clever melody maker {ai: 66.67%, artificial intelligence: 33.33%}
+http://news.sky.com/story/bach-to-the-future-ai-turns-google-doodle-into-clever-melody-maker-11671694
+800
+
+MX and Personetics team up to bring AI-driven insights to FIs {ai: 33.33%, fintech: 33.33%, financial: 33.33%}
+https://www.finextra.com/pressarticle/77757/mx-and-personetics-team-up-to-bring-ai-driven-insights-to-fis?utm_medium=rss&utm_source=finextrafeed
+1200
+
+Hacker AI vs. Enterprise AI: A New Threat {ai: 50.00%, artificial intelligence: 25.00%, machine learning: 25.00%}
+https://www.darkreading.com/vulnerabilities---threats/advanced-threats/hacker-ai-vs-enterprise-ai-a-new-threat-/a/d-id/1334201?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+1800
+
+Etihad Airways will install new tech at Abu Dhabi International Airport {technology: 33.33%, artificial intelligence: 16.67%, ai: 16.67%, technologies: 8.33%, mobile: 8.33%, faster: 8.33%, payment: 8.33%}
+https://ameinfo.com/travel/etihad-airways-abu-dhabi-international-airport/
+3200
+
+AriseBank CEO Pleads Guilty to $4.2 Million Securities Fraud Involving ICO {ico: 100.00%} 
+https://www.coindesk.com/arisebank-ceo-pleads-guilty-to-4-2-million-securities-fraud-involving-ico
+100
+
+Facebook’s AI couldn’t spot mass murder {ai: 100.00%} 
+http://feedproxy.google.com/~r/Techcrunch/~3/meSa5tx64uo/
+200
+
+Google celebra a Bach con su primer doodle basado en inteligencia artificial {inteligencia artificial: 100.00%} 
+https://www.cooperativa.cl/noticias/tecnologia/internet/google/google-celebra-a-bach-con-su-primer-doodle-basado-en-inteligencia/2019-03-21/021639.html
+200
+
+Ex-NATO Secretary General Bullish on Blockchain as He Partners With Swiss Startup {blockchain: 100.00%} 
+https://cointelegraph.com/news/ex-nato-secretary-general-bullish-on-blockchain-as-he-partners-with-swiss-startup
+200
+
+Cyber Expert Hosts 'Savvy Cyber Kids' Talk in MA {cybersecurity: 100.00%} 
+https://www.infosecurity-magazine.com:443/news/cyber-expert-hosts-savvy-cyber-1-1/
+200
+
+Google’s First AI-Powered Doodle Lets You Harmonize Like Johann Sebastian Bach {ai: 100.00%} 
+http://feedproxy.google.com/~r/timeblogs/nerd_world/~3/4YS2xri560c/
+250.0
+
+Crypto Market Maker B2C2 Hires Wall Street FX Vet to Lead US Expansion {crypto: 100.00%} 
+https://www.coindesk.com/crypto-market-maker-b2c2-hires-wall-street-fx-vet-to-lead-us-expansion
+300
+
+Hear it from the Experts: The Future of Fintech and Inclusivity {fintech: 75.00%, technology: 25.00%} 
+https://finovate.com/hear-it-from-the-experts-the-future-of-fintech-and-inclusivity/
+400
+
+Lightning Labs Releases Alpha Version of Lightning Offramp Solution Lightning Loop {network: 50.00%, blockchain: 50.00%} 
+https://cointelegraph.com/news/lightning-labs-releases-alpha-version-of-lightning-offramp-solution-lightning-loop
+400
+
+Facebook Seeks Counsel to Forge Blockchain Partnerships for New Products {blockchain: 66.67%, launch: 33.33%} 
+https://www.coindesk.com/facebook-seeks-counsel-to-forge-blockchain-partnerships-for-new-products
+400
+
+Broadridge integrates Swift gpi {swift: 33.33%, financial: 33.33%, fintech: 33.33%} 
+https://www.finextra.com/pressarticle/77758/broadridge-integrates-swift-gpi?utm_medium=rss&utm_source=finextrafeed
+600
+
+Vitalik Buterin: High Ethereum Price Good for Security, Ecosystem Development {ethereum: 40.00%, security: 40.00%, network: 20.00%} 
+https://cointelegraph.com/news/vitalik-buterin-high-ethereum-price-good-for-security-ecosystem-development
+700
+
+Square To Beef Up Team Of Bitcoin Engineers {digital: 20.00%, digital payments: 20.00%, payments: 40.00%, cryptocurrency: 20.00%} 
+https://www.pymnts.com/cryptocurrency/2019/square-digital-payments-bitcoin-engineers/
+800
+
+Cryptocurrency Price Correlations in Bitcoin, Dollar Flipped in 2018, Binance Finds {cryptocurrency: 50.00%, cryptocurrencies: 50.00%} 
+https://cointelegraph.com/news/cryptocurrency-price-correlations-in-bitcoin-dollar-flipped-in-2018-binance-finds
+900
+
+Xiaomi Mi 9 in the UAE: An affordable flagship is here! {largest: 12.50%, ai: 25.00%, launch: 12.50%, companies: 12.50%, faster: 25.00%, technology: 12.50%} 
+https://ameinfo.com/technology/gadgets/xiaomi-mi-9-affordable-flagship/
+1200
+
+Bill Pay Network Doxo Adds Apple Pay as Payment Method {network: 22.22%, apple pay: 22.22%, payment: 33.33%, bank: 11.11%, cash: 11.11%} 
+https://bankinnovation.net/2019/03/bill-pay-network-doxo-adds-apple-pay-as-payment-method/
+1300
+
+Travelstop Targets Fintech SMEs with Business Travel Management Platform {fintech: 66.67%, artificial intelligence: 16.67%, ai: 16.67%} 
+http://fintechnews.sg/29596/travel/travelstop-targets-fintech-smes-with-business-travel-management-platform/
+1800
+
