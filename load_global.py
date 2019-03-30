@@ -30,8 +30,8 @@ def juntar_datos(diccionario_noticias):
                             if palabra_titulo == \
                                     palabra_titulo_lista_titulos_noticias:
                                 porcentaje_coincidencia += 1
-                porcentaje_coincidencia = porcentaje_coincidencia/len(list(
-                    noticia["titulo"]))
+                if len(list(noticia["titulo"])) > 0:
+                    porcentaje_coincidencia = porcentaje_coincidencia/len(list(noticia["titulo"]))
                 if porcentaje_coincidencia < 80:
                     lista_links_noticias.append(noticia["link"])
                     lista_todas_las_noticias.append(noticia)
