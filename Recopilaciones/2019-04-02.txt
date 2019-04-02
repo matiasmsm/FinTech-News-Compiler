@@ -1,0 +1,286 @@
+DLT
+
+Report: China Leading World in Blockchain Projects {blockchain: 100.00%}
+https://cointelegraph.com/news/report-china-leading-world-in-blockchain-projects
+200
+
+PayPal joins Cambridge Blockchain funding round {blockchain: 66.67%, digital: 33.33%}
+https://www.finextra.com/pressarticle/77893/paypal-joins-cambridge-blockchain-funding-round?utm_medium=rss&utm_source=finextrafeed
+400
+
+First blockchain Thai-Myanmar money transfer service to launch {blockchain: 50.00%, launch: 50.00%}
+https://www.bankingtech.com/2019/04/first-blockchain-thai-myanmar-money-transfer-service-to-launch/
+400
+
+PayPal Invests in Digital Identity-Focused Blockchain Startup in Apparent First {digital: 40.00%, blockchain: 40.00%, investment: 20.00%}
+https://cointelegraph.com/news/paypal-invests-in-digital-identity-focused-blockchain-startup-in-apparent-first
+600
+
+PayPal Makes Its First-Ever Investment in a Blockchain Startup {investment: 28.57%, blockchain: 42.86%, payments: 28.57%}
+https://www.coindesk.com/paypal-makes-its-first-ever-investment-in-a-blockchain-startup
+800
+
+Does Hyperledger Fabric perform at scale? {hyperledger: 50.00%, blockchain: 50.00%}
+https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/
+900
+
+Berlin-based Brickblock Tokenizes Property in Europe in Private STO {blockchain: 73.68%, security: 10.53%, transaction: 5.26%, digital: 5.26%, economic: 5.26%}
+https://www.the-blockchain.com/2019/04/02/berlin-based-brickblock-tokenizes-property-in-europe-in-private-sto/
+1000
+
+Coursera & INSEAD launch Blockchain Specialization in the Middle East {launch: 9.30%, blockchain: 62.79%, technology: 11.63%, government: 2.33%, economic: 2.33%, technologies: 2.33%, network: 2.33%, finance: 4.65%, banking: 2.33%}
+https://ameinfo.com/money/banking-finance/coursera-insead-blockchain-middle-east/
+1800
+
+Universal Faucet Integration: Polkadot {blockchain: 48.28%, ethereum: 17.24%, network: 17.24%, security: 6.90%, transaction: 6.90%, api: 3.45%}
+https://hackernoon.com/universal-faucet-integration-polkadot-bdd9e25f8cb1?source=rss----3a8144eabfe3---4
+2400
+
+Logistics Company Partners With Blockchain-Based ‘ShipChain’ To Bring Cutting-Edge Tech to Supply Ch {blockchain: 53.33%, technology: 20.00%, companies: 11.11%, network: 2.22%, theft: 2.22%, hack: 2.22%, security: 4.44%, ethereum: 2.22%, mobile: 2.22%}
+https://hackernoon.com/logistics-company-partners-with-blockchain-based-shipchain-to-bring-cutting-edge-tech-to-supply-ch-ae8a852e8757?source=rss----3a8144eabfe3---4
+4000
+
+How to Launch (or not launch) a Mainnet/Testnet? {launch: 29.41%, crypto: 4.41%, ico: 4.41%, blockchain: 23.53%, network: 7.35%, exchanges: 1.47%, billion: 2.94%, ethereum: 2.94%, transaction: 1.47%, transactions: 4.41%, scam: 1.47%, phishing: 1.47%, security: 1.47%, cryptocurrency: 1.47%, digital: 2.94%, economic: 1.47%, payments: 2.94%, trading: 1.47%, investment: 1.47%, financial: 1.47%}
+https://hackernoon.com/how-to-launch-or-not-launch-a-mainnet-testnet-f857a82b91ad?source=rss----3a8144eabfe3---4
+21000
+
+Criptoactivos
+
+A16z-Backed TrustToken Launches Stablecoin Pegged to UK Pound {cryptocurrency: 100.00%}
+https://www.coindesk.com/a16z-backed-trusttoken-launches-stablecoin-pegged-to-uk-pound
+200
+
+Bitcoin’s Value Suddenly Surged, But Nobody’s Really Sure Why {cryptocurrency: 100.00%}
+http://feedproxy.google.com/~r/time/business/~3/Aof2lqu544c/
+250.0
+
+Why Binance, the World’s Biggest Crypto Exchange, Is Enthusiastic About Stablecoins {crypto: 100.00%}
+https://cointelegraph.com/news/why-binance-the-worlds-biggest-crypto-exchange-is-enthusiastic-about-stablecoins
+300
+
+BTC Hits $4,800 for the First Time in 2019, Top Crypto Markets See Double Digit Growth {crypto: 100.00%}
+https://cointelegraph.com/news/btc-hits-4-800-for-the-first-time-in-2019-top-crypto-markets-see-double-digit-growth
+300
+
+QuadrigaCX Crypto Exchange Could Soon Be Placed in Bankruptcy {crypto: 100.00%}
+https://www.coindesk.com/quadrigacx-crypto-exchange-could-soon-be-placed-in-bankruptcy
+300
+
+Bitcoin soars 20%, mystery buyer seen as catalyst {cryptocurrencies: 50.00%, trading: 50.00%}
+https://www.channelnewsasia.com/news/business/bitcoin-soars-20-mystery-buyer-seen-as-catalyst-11404994
+400
+
+Bitcoin soars to highest level in 5 months, thanks to mystery buyer {cryptocurrencies: 50.00%, financial: 50.00%}
+https://www.business-standard.com/article/international/bitcoin-soars-to-highest-level-in-5-months-thanks-to-mystery-buyer-119040201331_1.html
+400
+
+Bitcoin’s Price Rises Above Major Moving Averages In First Since 2018 {trading: 66.67%, cryptocurrency: 33.33%}
+https://www.coindesk.com/bitcoins-price-rises-above-major-moving-averages-in-first-since-2018
+400
+
+Malta: Financial Regulator Approves First 14 Crypto Assets Agents {financial: 60.00%, crypto: 40.00%}
+https://cointelegraph.com/news/malta-financial-regulator-approves-first-14-crypto-assets-agents
+500
+
+Puerto Rico Sees New Crypto Bank Accept First Client Deposit {crypto: 33.33%, bank: 33.33%, banking: 33.33%}
+https://cointelegraph.com/news/puerto-rico-sees-new-crypto-bank-accept-first-client-deposit
+700
+
+Amid Bitcoin Uncertainty, ‘the Smart Money Knows That Crypto Is Not Ready’ {crypto: 33.33%, finance: 33.33%, companies: 33.33%}
+https://www.nytimes.com/2019/04/02/technology/cryptocurrency-bust-wall-street.html?partner=rss&emc=rss
+875.0
+
+A New Bank for Crypto Traders Has Opened in Puerto Rico {bank: 25.00%, crypto: 25.00%, financial: 25.00%, cryptocurrency: 25.00%}
+https://www.coindesk.com/a-new-bank-for-crypto-traders-has-opened-in-puerto-rico
+1700
+
+Crypto lenders push no-tax perk of leveraging bitcoin for cash {crypto: 16.67%, cash: 33.33%, digital: 16.67%, cryptocurrencies: 16.67%, transactions: 16.67%}
+http://www.americanbanker.com/articles/crypto-lenders-push-no-tax-perk-of-leveraging-bitcoin-for-cash
+2100
+
+Digital Currency Group Data Reveals Turbulent Crypto Investment Landscape {digital: 14.29%, digital currency: 14.29%, currency: 14.29%, crypto: 28.57%, investment: 28.57%}
+https://cointelegraph.com/news/digital-currency-group-data-reveals-turbulent-crypto-investment-landscape
+2200
+
+The Bitcoin rush seems to be on- FOMO caution advised {crypto: 15.79%, blockchain: 5.26%, investment: 5.26%, trading: 21.05%, ethereum: 5.26%, billion: 21.05%, currencies: 5.26%, digital: 5.26%, currency: 5.26%, banking: 5.26%, finance: 5.26%}
+https://ameinfo.com/money/banking-finance/the-bitcoin-rush-seems-to-be-on-fomo-caution-advised/
+6600
+
+Ciberseguridad
+
+Government spyware hidden in Google Play store apps {government: 50.00%, malware: 50.00%}
+https://nakedsecurity.sophos.com/2019/04/02/government-spyware-hidden-in-google-play-store-apps/
+400
+
+Canadian Police Raid ‘Orcus RAT’ Author {malware: 66.67%, security: 33.33%}
+https://krebsonsecurity.com/2019/04/canadian-police-raid-orcus-rat-author/
+500.0
+
+Analyzing AZORult malware using NSA Ghidra suite {malware: 80.00%, security: 20.00%}
+https://securityaffairs.co/wordpress/83211/breaking-news/azorult-nsa-ghidra.html
+500
+
+Network security market shows its highest growth in more than 6 years: BofA {network: 33.33%, security: 33.33%, companies: 16.67%, cybersecurity: 16.67%}
+https://www.cnbc.com/2019/04/02/network-security-market-showing-highest-growth-since-2012.html
+1000.0
+
+Pagos Digitales
+
+The Rise of The Gig Economy: How Electronic Payments Can Help Pt. 2 {payments: 100.00%}
+https://www.finextra.com/blogposting/16959/the-rise-of-the-gig-economy-how-electronic-payments-can-help-pt-2?utm_medium=rss&utm_source=finextrafeed
+100
+
+Jet Airways grounds 15 more planes due to non-payment of rentals to lessors {payment: 50.00%, government: 50.00%}
+https://www.business-standard.com/article/companies/jet-airways-grounds-15-more-planes-due-to-non-payment-of-rentals-to-lessors-119040201033_1.html
+100
+
+New Fintech Unicorn Bill.com Teams with Mastercard to Offer Virtual Card {fintech: 50.00%, payments: 50.00%}
+https://bankinnovation.net/2019/04/bill-com-latest-fintech-unicorn-after-88-million-round/
+600
+
+Coinbase Expands Into Cross-Border Payments {payments: 80.00%, cryptocurrency: 20.00%}
+https://cointelegraph.com/news/coinbase-expands-into-cross-border-payments
+700
+
+Pakistan’s Central Bank Aims to Issue Its Own Digital Currency by 2025 {central bank: 11.11%, bank: 22.22%, digital: 22.22%, digital currency: 22.22%, currency: 22.22%}
+https://cointelegraph.com/news/pakistans-central-bank-aims-to-issue-its-own-digital-currency-by-2025
+1100
+
+Pakistan Central Bank Eyes Digital Currency Launch by 2025 {central bank: 16.67%, bank: 25.00%, digital: 16.67%, digital currency: 16.67%, currency: 16.67%, launch: 8.33%}
+https://www.coindesk.com/pakistan-central-bank-eyes-digital-currency-launch-by-2025
+1300
+
+DLT ready to drive widespread disruption in cross-border payments {dlt: 14.29%, payments: 57.14%, distributed ledger: 14.29%, technologies: 14.29%}
+https://www.finextra.com/newsarticle/33622/dlt-ready-to-drive-widespread-disruption-in-cross-border-payments?utm_medium=rss&utm_source=finextrafeed
+2200
+
+Monitoreo Tecnológico
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Open Banking Transformation and Disruption - the expectation of Open Banking in 2019 {open banking: 50.00%, banking: 50.00%}
+https://www.finextra.com/featurearticle/2387/open-banking-transformation-and-disruption---the-expectation-of-open-banking-in-2019?utm_medium=rss&utm_source=finextrafeed
+600
+
+Otro
+
+Ensemble Capital chooses Numerix Oneview Asset Management {ai: 100.00%}
+https://www.finextra.com/pressarticle/77887/ensemble-capital-chooses-numerix-oneview-asset-management?utm_medium=rss&utm_source=finextrafeed
+200
+
+Google’s anti-trans controversy is the latest case of big tech overcorrecting to the right {artificial intelligence: 100.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/cm8AeA15Ohc/
+200
+
+Morris Garages demonstrates connectivity features of upcoming MG Hector SUV {ai: 100.00%}
+https://www.business-standard.com/article/automobile/morris-garages-demonstrates-connectivity-features-of-upcoming-mg-hector-suv-119040200686_1.html
+200
+
+Tencent Co-Founder Backs Singaporean Fintech Startup to the Tune of SG$2.7 Mil {fintech: 100.00%}
+http://fintechnews.sg/29852/remittance/koku-singapore-remittance-fx-tencent/
+200
+
+Tinkoff Bank builds supercomputer {bank: 50.00%, ai: 50.00%}
+https://www.finextra.com/pressarticle/77888/tinkoff-bank-builds-supercomputer?utm_medium=rss&utm_source=finextrafeed
+400
+
+Blend seeks to deepen bank ties with account opening product {bank: 50.00%, fintech: 50.00%}
+http://www.americanbanker.com/news/blend-seeks-to-deepen-bank-ties-with-account-opening-product
+400
+
+Singapore’s Investment Management Association Announces a New Chairperson {investment: 80.00%, fintech: 20.00%}
+http://fintechnews.sg/29889/roboadvisor/singapores-investment-management-association-announces-a-new-chairman/
+400
+
+Movers and Shakers: Notable March Hires in Fintech and Banking {fintech: 33.33%, banking: 33.33%, bank: 33.33%}
+https://bankinnovation.net/2019/04/movers-and-shakers-notable-march-hires-in-fintech-and-banking/
+600
+
+South Africa's TymeBank picks Finn AI for digital financial fitness coach {ai: 20.00%, digital: 40.00%, financial: 20.00%, artificial intelligence: 20.00%}
+https://www.finextra.com/newsarticle/33626/south-africas-tymebank-picks-finn-ai-for-digital-financial-fitness-coach?utm_medium=rss&utm_source=finextrafeed
+1600
+
+Top IoT, AI and Robotics Books {ai: 37.50%, technology: 12.50%, artificial intelligence: 12.50%, machine learning: 12.50%, big data: 12.50%, fintech: 12.50%}
+http://fintechnews.sg/22282/iot/top-iot-ai-and-robotics-books/
+6000
+
+Succeeding in the future of payments {payments: 85.71%, payment: 7.14%, security: 7.14%} 
+https://www.ibm.com/blogs/insights-on-business/banking/succeeding-in-the-future-of-payments/
+100
+
+A Primer for Fintech’s Biggest Event this Spring {fintech: 100.00%} 
+https://finovate.com/a-primer-for-fintechs-biggest-event-this-spring/
+200
+
+Address the FinovateSpring audience by taking part in FinTech Futures supplement {fintech: 100.00%} 
+https://www.bankingtech.com/2019/04/address-the-finovatespring-audience-by-taking-part-in-fintech-futures-supplement/
+200
+
+Intel Capital throws £89m at cloud gaming, AI, communications {ai: 100.00%} 
+http://feedproxy.google.com/~r/bit-tech/all/~3/BzNn15pNASI/
+200
+
+Exchange Volumes May Be Fake, But Bitcoin’s Value Is Real {cryptocurrencies: 100.00%} 
+https://www.coindesk.com/exchange-volumes-may-be-fake-but-bitcoins-value-is-real
+200
+
+Ernst & Young Argues That Crypto Exchange QuadrigaCX Should Be Placed in Bankruptcy {crypto: 100.00%} 
+https://cointelegraph.com/news/ernst-young-argues-that-crypto-exchange-quadrigacx-should-be-placed-in-bankruptcy
+300
+
+BC Group Unveils Insured Custody Offering for Asia-Based Crypto Investors {crypto: 100.00%} 
+https://cointelegraph.com/news/bc-group-unveils-insured-custody-offering-for-asia-based-crypto-investors
+300
+
+How Crypto Is Taxed in the US: A Taxpayer’s Dilemma {crypto: 100.00%} 
+https://cointelegraph.com/news/how-crypto-is-taxed-in-the-us-a-taxpayers-dilemma
+300
+
+Alcatraz AI is building Face ID for corporate badges {ai: 66.67%, mobile: 33.33%} 
+http://feedproxy.google.com/~r/Techcrunch/~3/ehOinirb5dY/
+400
+
+Major Swiss Stock Exchange SIX Lists XRP Exchange Traded Product {stock: 50.00%, ripple: 50.00%} 
+https://cointelegraph.com/news/major-swiss-stock-exchange-six-lists-xrp-exchange-traded-product
+400
+
+Computer systems in the City of Albany hit in Ransomware Attack {malware: 50.00%, security: 50.00%} 
+https://securityaffairs.co/wordpress/83187/cyber-crime/city-albany-ransomware-attack.html
+400
+
+XRP Exchange-Traded Product Goes Live on Swiss SIX Exchange {cryptocurrency: 50.00%, stock: 50.00%} 
+https://www.coindesk.com/xrp-exchange-traded-product-goes-live-on-swiss-six-exchange
+400
+
+Mobile-First Phishing Kit Targets Verizon Customers {mobile: 50.00%, phishing: 50.00%} 
+https://threatpost.com/mobile-phishing-targets-verizon/143366/
+500
+
+BREAKING: new update about DDoS’er Linux/DDoSMan ELF malware based on Elknot {malware: 83.33%, security: 16.67%} 
+https://securityaffairs.co/wordpress/83157/malware/new-linux-ddosman-threat-emerged-from-an-evolution-of-the-older-elknot.html
+500
+
+ARTEÏA launches Token Sale for P2P Art Market Blockchain Platform {blockchain: 80.00%, security: 8.00%, launch: 4.00%, ico: 4.00%, technology: 4.00%} 
+https://www.the-blockchain.com/2019/04/02/arteia-launches-a-p2p-blockchain-platform-for-art-market/
+1000
+
+10 FinTech Startups in Mexico Worth Your Attention {fintech: 25.00%, financial: 25.00%, banks: 6.25%, payments: 37.50%, mobile: 6.25%} 
+https://gomedici.com/10-fintech-startups-mexico-worth-your-attention/
+1200
+
+UAE workforce optimistic about AI inclusion at workplace {ai: 70.59%, technology: 11.76%, companies: 11.76%, artificial intelligence: 5.88%} 
+https://ameinfo.com/it-2/uae-workforce-optimistic-about-ai-inclusion-at-workplace/
+1600
+
+Privacy & Regulatory Considerations in Enterprise Blockchain {regulatory: 20.00%, blockchain: 20.00%, security: 20.00%, distributed ledger: 20.00%, technology: 20.00%} 
+https://www.darkreading.com/risk/privacy-and-regulatory-considerations-in-enterprise-blockchain-/a/d-id/1334277?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+2000
+
+When the Price of Bitcoin Rises {technology: 6.67%, digital: 16.67%, technologies: 3.33%, currency: 13.33%, exchanges: 30.00%, stock: 6.67%, trade: 3.33%, transaction: 6.67%, investment: 3.33%, economic: 3.33%, security: 3.33%, blockchain: 3.33%} 
+https://hackernoon.com/when-the-price-of-bitcoin-rises-1f2fd052beac?source=rss----3a8144eabfe3---4
+2400
+

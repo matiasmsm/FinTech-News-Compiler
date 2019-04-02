@@ -1,0 +1,258 @@
+DLT
+
+The blockchain hype is over, but disruption is just beginning {blockchain: 100.00%}
+https://www.bankingtech.com/2019/04/the-blockchain-hype-is-over-but-disruption-is-just-beginning/
+200
+
+Tron Supports Gambling DApps Restrictions in Japanese Market to Comply With Regulations {blockchain: 100.00%}
+https://cointelegraph.com/news/tron-supports-gamblings-dapps-restrictions-in-japanese-market-to-comply-with-regulations
+200
+
+ConsenSys Picks Latest Blockchain Startups for Accelerator Program {blockchain: 100.00%}
+https://www.coindesk.com/consensys-picks-latest-10-blockchain-startups-for-accelerator-program
+200
+
+Research: Ethereum-Based Prediction Market Augur Currently Faces a Design Flaw Attack {ethereum: 100.00%}
+https://cointelegraph.com/news/research-ethereum-based-prediction-market-augur-currently-faces-a-design-flaw-attack
+300
+
+Muttniks: An open source dapp to show you how we built Astro Ledger {ethereum: 43.24%, trade: 2.70%, blockchain: 43.24%, api: 2.70%, network: 5.41%, launch: 2.70%}
+https://hackernoon.com/muttniks-an-open-source-dapp-to-show-you-how-we-built-astro-ledger-8a063b788d0b?source=rss----3a8144eabfe3---4
+2400
+
+Criptoactivos
+
+Cryptocurrencies Not Currently Viable for Terrorism Financing: Think Tank {cryptocurrencies: 100.00%}
+https://cointelegraph.com/news/cryptocurrencies-not-currently-viable-for-terrorism-financing-think-tank
+300
+
+Decentralized Platform Launches New Features as Demand for Crypto Lending Increases {crypto: 100.00%}
+https://cointelegraph.com/news/decentralized-platform-launches-new-features-as-demand-for-crypto-lending-increases
+300
+
+Coincheck Launches Bitcoin OTC Trading Desk for Large-Scale Institutional Clients {trading: 66.67%, cryptocurrency: 33.33%}
+https://cointelegraph.com/news/coincheck-launches-bitcoin-otc-trading-desk-for-large-scale-institutional-clients
+400
+
+Crypto Regulations Move Into The Spotlight {crypto: 66.67%, regulation: 33.33%}
+https://www.pymnts.com/news/regulation/2019/crypto-coindelta-quadriga-aml/
+500
+
+Cryptocurrency exchange loses millions in heist {cryptocurrency: 75.00%, theft: 25.00%}
+http://feedproxy.google.com/~r/eset/blog/~3/7JyHcyPBkRE/
+500
+
+US SEC Seeks Crypto Specialist Attorney Advisor to Develop Plan for Crypto Securities {crypto: 75.00%, trading: 25.00%}
+https://cointelegraph.com/news/us-sec-seeks-crypto-specialist-attorney-advisor-to-develop-plan-for-crypto-securities
+600
+
+Bitcoin Cash, Litecoin Futures Volumes Top $150 Million at Kraken Exchange {cash: 50.00%, crypto: 25.00%, trading: 25.00%}
+https://www.coindesk.com/bitcoin-cash-litecoin-futures-volumes-top-150-million-at-kraken-exchange
+600
+
+Speak Out: Discussing the Top Cryptocurrencies {cryptocurrencies: 50.00%, cryptocurrency: 50.00%}
+https://cointelegraph.com/news/speak-out-discussing-the-top-cryptocurrencies
+900
+
+Blockchain Front Page: Is a 51% attack a real issue? {blockchain: 25.00%, cryptocurrency: 50.00%, currency: 25.00%}
+https://dailyfintech.com/2019/04/01/blockchain-front-page-is-a-51-attack-a-real-issue/
+1200
+
+Indian Crypto Exchange Coindelta Shutters Services, Citing Adverse Regulatory Conditions {crypto: 50.00%, regulatory: 25.00%, cryptocurrency: 25.00%}
+https://cointelegraph.com/news/indian-crypto-exchange-coindelta-shutters-services-citing-adverse-regulatory-conditions
+1300
+
+Coincheck Launches OTC Crypto Trading for Institutions {crypto: 20.00%, trading: 40.00%, institutions: 20.00%, cryptocurrency: 20.00%}
+https://www.coindesk.com/coincheck-launches-otc-crypto-trading-for-institutions
+1700
+
+Pakistan Plans New Digital Currency Regulations Following FAFTA’s Urging {digital: 20.00%, digital currency: 20.00%, currency: 20.00%, cryptocurrency: 20.00%, institutions: 20.00%}
+https://cointelegraph.com/news/pakistan-plans-new-digital-currency-regulations-following-faftas-urging
+2100
+
+Shadow IT Makes Developers Scrappy {technology: 7.14%, crypto: 35.71%, exchanges: 7.14%, trading: 7.14%, network: 14.29%, finance: 14.29%, api: 7.14%, machine learning: 7.14%}
+https://hackernoon.com/shadow-it-makes-developers-scrappy-d194518c21f9?source=rss----3a8144eabfe3---4
+3200
+
+Ciberseguridad
+
+Microsoft slaps down 99 APT35/Charming Kitten domains {phishing: 100.00%}
+https://nakedsecurity.sophos.com/2019/04/01/microsoft-slaps-down-99-apt35-charming-kitten-domains/
+200
+
+ThreatList: Game of Thrones, a Top Malware Conduit for Cybercriminals {malware: 100.00%}
+https://threatpost.com/game-of-thrones-malware-piracy/143318/
+300
+
+New Linux/DDosMan threat emerged from an evolution of the older Elknot {malware: 75.00%, security: 25.00%}
+https://securityaffairs.co/wordpress/83157/malware/new-linux-ddosman-threat-emerged-from-an-evolution-of-the-older-elknot.html
+400
+
+March Madness Scams Give Attackers Fast Break {scams: 50.00%, attackers: 25.00%, phishing: 25.00%}
+https://threatpost.com/march-madness-scams/143339/
+600
+
+Threat actors in the ME are becoming more destructive in 2019 {government: 21.43%, institutions: 7.14%, largest: 7.14%, cybersecurity: 7.14%, phishing: 7.14%, companies: 7.14%, financial: 7.14%, network: 14.29%, security: 7.14%, artificial intelligence: 7.14%, ai: 7.14%}
+https://ameinfo.com/it-2/threat-actors-in-the-me-are-becoming-more-destructive-in-2019/
+8800
+
+Pagos Digitales
+
+Manchester to be test bed for finger vein payments {payments: 80.00%, launch: 20.00%}
+https://www.finextra.com/newsarticle/33618/manchester-to-be-test-bed-for-finger-vein-payments?utm_medium=rss&utm_source=finextrafeed
+100
+
+Amazon Accepting Cash Payments At Oxxo Stores {cash: 37.50%, payments: 50.00%, companies: 12.50%}
+https://www.pymnts.com/amazon/2019/mexico-oxxo-stores-cashless-payments/
+100
+
+Curve showcases AR payment pilot {payment: 100.00%}
+https://www.bankingtech.com/2019/04/curve-showcases-ar-payment-pilot/
+100
+
+Coinbase Soft Launches International Payments with XRP and USDC {payments: 100.00%}
+https://www.coindesk.com/coinbase-soft-launches-international-payments-with-xrp-and-usdc
+100
+
+Ebanx enters Brazil {fintech: 33.33%, payments: 66.67%}
+https://www.finextra.com/pressarticle/77868/ebanx-enters-brazil?utm_medium=rss&utm_source=finextrafeed
+600
+
+Jio has FANG, technology that will edge in every aspect of digital economy {technology: 33.33%, digital: 33.33%, digital economy: 33.33%}
+https://www.business-standard.com/article/companies/jio-on-path-to-connect-every-possible-tech-use-case-through-acquisitions-119033100597_1.html
+700
+
+Truevo taps Temenos for fintech-targeted payments line {fintech: 16.67%, payments: 66.67%, payment: 16.67%}
+https://www.finextra.com/pressarticle/77867/truevo-taps-temenos-for-fintech-targeted-payments-line?utm_medium=rss&utm_source=finextrafeed
+1100
+
+Tencent’s Payment & FinTech Business, an Important Revenue Growth Driver {payment: 34.78%, fintech: 21.74%, billion: 8.70%, wechat: 13.04%, mobile: 17.39%, bank: 4.35%}
+https://gomedici.com/tencent-payment-fintech-business-important-revenue-growth-driver/
+1300
+
+Pakistan Introducing Regulations, Licensing Scheme for Crypto Firms {crypto: 16.67%, government: 16.67%, digital: 16.67%, digital currency: 16.67%, currency: 16.67%, technology: 16.67%}
+https://www.coindesk.com/pakistan-introducing-regulations-licensing-scheme-for-crypto-firms
+2500
+
+World Bank Sees DLT Potential For Cross-Border Transactions {bank: 6.25%, dlt: 12.50%, transactions: 18.75%, payments: 25.00%, swift: 12.50%, ripple: 12.50%, distributed ledger: 6.25%, technology: 6.25%}
+https://www.pymnts.com/news/payment-methods/2019/world-bank-swift-ripple-dlt-cross-border/
+5500
+
+Monitoreo Tecnológico
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Salt Edge updates API {api: 50.00%, open banking: 25.00%, banking: 25.00%}
+https://www.finextra.com/pressarticle/77864/salt-edge-updates-api?utm_medium=rss&utm_source=finextrafeed
+600
+
+Seizing the open banking opportunity {open banking: 33.33%, banking: 33.33%, technology: 33.33%}
+https://www.finextra.com/videoarticle/2025/seizing-the-open-banking-opportunity?utm_medium=rss&utm_source=finextrafeed
+700
+
+Otro
+
+ICO Invites Applicants to GDPR Sandbox {ico: 50.00%, sandbox: 50.00%}
+https://www.infosecurity-magazine.com:443/news/ico-invites-applicants-to-gdpr-1/
+100
+
+Kyyba Innovations launches Detroit Fintech Challenge {fintech: 100.00%}
+https://www.finextra.com/pressarticle/77866/kyyba-innovations-launches-detroit-fintech-challenge?utm_medium=rss&utm_source=finextrafeed
+200
+
+Lenders without border walls {machine learning: 100.00%}
+http://www.americanbanker.com/news/lenders-without-border-walls
+200
+
+EBAday 2019 zones in on fintech {fintech: 50.00%, banking: 50.00%}
+https://www.finextra.com/newsarticle/33614/ebaday-2019-zones-in-on-fintech?utm_medium=rss&utm_source=finextrafeed
+400
+
+NatWest trials money management app {bank: 33.33%, finance: 33.33%, ai: 33.33%}
+https://www.finextra.com/newsarticle/33611/natwest-trials-money-management-app?utm_medium=rss&utm_source=finextrafeed
+600
+
+Finovate Alumni News {ai: 20.00%, banking: 20.00%, api: 20.00%, bank: 20.00%, launch: 20.00%}
+https://finovate.com/finovate-alumni-news-969/
+1000
+
+Google employees call for removal of rightwing thinktank leader from AI council {ai: 50.00%, artificial intelligence: 16.67%, technology: 33.33%}
+https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter
+1200
+
+By 2023, 50% of gov’t IT workers will occupy roles that don’t exist today {government: 42.42%, digital: 24.24%, technology: 9.09%, security: 3.03%, technologies: 9.09%, artificial intelligence: 3.03%, ai: 3.03%, network: 3.03%, investment: 3.03%}
+https://ameinfo.com/technology/it/2023-new-jobs-government-it/
+3600
+
+Clearing House bids to win over smaller institutions to real-time payments network {institutions: 16.67%, payments: 33.33%, network: 16.67%, banks: 16.67%, payment: 16.67%} 
+https://www.finextra.com/newsarticle/33615/clearing-house-bids-to-win-over-smaller-institutions-to-real-time-payments-network?utm_medium=rss&utm_source=finextrafeed
+100
+
+Exclusive: Renault alerts prosecutors over Oman dealer payments under Ghosn {payments: 100.00%} 
+https://www.channelnewsasia.com/news/business/exclusive--renault-alerts-prosecutors-over-oman-dealer-payments-under-ghosn-11401668
+100
+
+Police Freeze Accounts, Seize Luxury Cars in Probe of ICO Promoter Vanbex {ico: 100.00%} 
+https://www.coindesk.com/police-freeze-bank-accounts-seize-luxury-cars-in-probe-of-22-million-ico-promoter-vanbex
+100
+
+Coconut joins RBS bail out queue {fintech: 100.00%} 
+https://www.finextra.com/newsarticle/33612/coconut-joins-rbs-bail-out-queue?utm_medium=rss&utm_source=finextrafeed
+200
+
+United Arab Emirates to Host Blockchain Aviation Conference in Abu Dhabi {blockchain: 100.00%} 
+https://cointelegraph.com/news/united-arab-emirates-to-host-blockchain-aviation-conference-in-abu-dhabi
+200
+
+Thousands of Unprotected Kibana Instances Exposing Elasticsearch Databases {cybersecurity: 100.00%} 
+http://feedproxy.google.com/~r/TheHackersNews/~3/2w0P4pvV0r8/kibana-data-security.html
+200
+
+Crypto Markets Continue Rising While Bitcoin’s Dominance Continues to Drop {crypto: 100.00%} 
+https://cointelegraph.com/news/crypto-markets-continue-rising-while-bitcoins-dominance-continues-to-drop
+300
+
+10 Fintechs Stand a Chance to Present Their Solutions to Singapore’s Investment Industry {investment: 60.00%, fintech: 40.00%} 
+http://fintechnews.sg/29819/roboadvisor/accelerator-imas-singapore-investment-fintech-wealth-management/
+400
+
+Israeli Crypto Miner to Be Delisted From Tel Aviv Stock Exchange Due to Bear Market {crypto: 50.00%, stock: 50.00%} 
+https://cointelegraph.com/news/israeli-crypto-miner-to-be-delisted-from-tel-aviv-stock-exchange-due-to-bear-market
+500
+
+The SEC Wants to Hire a ‘Crypto Securities’ Advisor {crypto: 66.67%, digital: 33.33%} 
+https://www.coindesk.com/the-us-sec-is-hiring-a-crypto-specialist-legal-advisor
+500
+
+Study: Swiss FinTech Sector Grows, While Traditional Banks Decline {fintech: 40.00%, banks: 20.00%, financial: 20.00%, institutions: 20.00%} 
+https://cointelegraph.com/news/study-swiss-fintech-sector-grows-while-traditional-banks-decline
+800
+
+Finn AI Brings Conversational Banking to South Africa’s TymeBank {ai: 36.84%, banking: 31.58%, technology: 5.26%, financial: 10.53%, digital: 10.53%, bank: 5.26%} 
+https://finovate.com/finn-ai-brings-conversational-banking-to-south-africas-tymebank/
+1200
+
+Morgan Stanley focuses on data quality to strengthen AI {ai: 33.33%, bank: 33.33%, artificial intelligence: 33.33%} 
+http://www.americanbanker.com/news/morgan-stanleys-new-data-strategy-for-higher-quality-ai
+1200
+
+Bitcoin, Ethereum, Ripple, EOS, Litecoin, Bitcoin Cash, Binance Coin, Stellar, Cardano, TRON: Price Analysis April 1 {ethereum: 33.33%, ripple: 33.33%, cash: 33.33%} 
+https://cointelegraph.com/news/bitcoin-ethereum-ripple-eos-litecoin-bitcoin-cash-binance-coin-stellar-cardano-tron-price-analysis-april-1
+1400
+
+Alt Season? Over 100 Crypto Assets Outperform Bitcoin in Q1 Surge {crypto: 33.33%, cryptocurrencies: 33.33%, cryptocurrency: 33.33%} 
+https://www.coindesk.com/alt-season-over-100-crypto-assets-outperformed-bitcoins-price-in-q1
+1900
+
+Bibox Crypto Exchange Rolls Out Blockchain Project Incubator {crypto: 20.00%, blockchain: 40.00%, cryptocurrency: 20.00%, exchanges: 20.00%} 
+https://cointelegraph.com/news/bibox-crypto-exchange-rolls-out-blockchain-project-incubator
+2500
+
+Capital One Treasury Head: AI and ML Driving Customer Experience Improvements {ai: 14.29%, bank: 14.29%, banking: 14.29%, digital: 14.29%, digital economy: 14.29%, technologies: 14.29%, artificial intelligence: 14.29%} 
+https://bankinnovation.net/2019/04/capital-one-treasury-head-ai-and-ml-driving-customer-experience-improvements/
+4200
+
