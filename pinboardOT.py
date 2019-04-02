@@ -44,5 +44,26 @@ def escribir_pdf(lista_contenido):
             Story.append(Spacer(1, 12))
     doc.build(Story)
 
+def feedPinboard(lista_contenido):
+    doc = SimpleDocTemplate("Resumenes Semanales/resumen_semanal{}.pdf".format(
+            datetime.datetime.now()), pagesize=letter)
+    width, height = letter
+    Story = []
+    logo = "Fotos/logo_bcch.png"
+    im = Image(logo, inch, inch)
+    Story.append(im)
+    styles = getSampleStyleSheet()
+    styles.add(ParagraphStyle(name='Justify', alignment=TA_JUSTIFY))
+    titulo = "Resumen Semanal Noticias FinTech"
+    ptext = '<font size=12>%s</font>'%titulo
+    Story.append(Paragraph(ptext, styles["Normal"]))
+    Story.append(Spacer(1, 12))
+    for linea in lista_contenido:
+        ptext = '<font size=12>%s</font>'%linea
+        Story.append(Paragraph(ptext, styles["Normal"]))
+        if linea[:4] != ["h", "t", "t", "p"]:
+            Story.append(Spacer(1, 12))
+    doc.build(Story)
+
 if __name__ == '__main__':
     escribir_resumen_semanal()
