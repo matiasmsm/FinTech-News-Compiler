@@ -12,6 +12,14 @@ First blockchain Thai-Myanmar money transfer service to launch {blockchain: 50.0
 https://www.bankingtech.com/2019/04/first-blockchain-thai-myanmar-money-transfer-service-to-launch/
 400
 
+Global Blockchain Applications in Telecoms to Generate $1.37 Billion by 2024: Report {blockchain: 50.00%, billion: 50.00%}
+https://cointelegraph.com/news/global-blockchain-applications-in-telecoms-to-generate-137-billion-by-2024-report
+400
+
+PayPal Invests In Blockchain Startup Aimed At Digital Identity Control {blockchain: 50.00%, digital: 33.33%, technology: 16.67%}
+https://www.pymnts.com/news/investment-tracker/2019/paypal-cambridge-blockchain/
+600
+
 PayPal Invests in Digital Identity-Focused Blockchain Startup in Apparent First {digital: 40.00%, blockchain: 40.00%, investment: 20.00%}
 https://cointelegraph.com/news/paypal-invests-in-digital-identity-focused-blockchain-startup-in-apparent-first
 600
@@ -28,6 +36,14 @@ Berlin-based Brickblock Tokenizes Property in Europe in Private STO {blockchain:
 https://www.the-blockchain.com/2019/04/02/berlin-based-brickblock-tokenizes-property-in-europe-in-private-sto/
 1000
 
+A new and essential collaboration platform for blockchain {blockchain: 75.00%, technology: 16.67%, hyperledger: 8.33%}
+https://www.ibm.com/blogs/blockchain/2019/04/a-new-and-essential-collaboration-platform-for-blockchain/
+1200
+
+A Small Bank in Germany Is Now Nearly 30% Owned by Crypto Companies {bank: 40.00%, crypto: 20.00%, companies: 20.00%, blockchain: 20.00%}
+https://www.coindesk.com/a-small-bank-in-germany-is-now-nearly-30-owned-by-crypto-companies
+1700
+
 Coursera & INSEAD launch Blockchain Specialization in the Middle East {launch: 9.30%, blockchain: 62.79%, technology: 11.63%, government: 2.33%, economic: 2.33%, technologies: 2.33%, network: 2.33%, finance: 4.65%, banking: 2.33%}
 https://ameinfo.com/money/banking-finance/coursera-insead-blockchain-middle-east/
 1800
@@ -36,15 +52,15 @@ Universal Faucet Integration: Polkadot {blockchain: 48.28%, ethereum: 17.24%, ne
 https://hackernoon.com/universal-faucet-integration-polkadot-bdd9e25f8cb1?source=rss----3a8144eabfe3---4
 2400
 
-Logistics Company Partners With Blockchain-Based ‘ShipChain’ To Bring Cutting-Edge Tech to Supply Ch {blockchain: 53.33%, technology: 20.00%, companies: 11.11%, network: 2.22%, theft: 2.22%, hack: 2.22%, security: 4.44%, ethereum: 2.22%, mobile: 2.22%}
-https://hackernoon.com/logistics-company-partners-with-blockchain-based-shipchain-to-bring-cutting-edge-tech-to-supply-ch-ae8a852e8757?source=rss----3a8144eabfe3---4
-4000
-
 How to Launch (or not launch) a Mainnet/Testnet? {launch: 29.41%, crypto: 4.41%, ico: 4.41%, blockchain: 23.53%, network: 7.35%, exchanges: 1.47%, billion: 2.94%, ethereum: 2.94%, transaction: 1.47%, transactions: 4.41%, scam: 1.47%, phishing: 1.47%, security: 1.47%, cryptocurrency: 1.47%, digital: 2.94%, economic: 1.47%, payments: 2.94%, trading: 1.47%, investment: 1.47%, financial: 1.47%}
 https://hackernoon.com/how-to-launch-or-not-launch-a-mainnet-testnet-f857a82b91ad?source=rss----3a8144eabfe3---4
 21000
 
 Criptoactivos
+
+Coinbase Reveals Hot Wallet Coverage Up to $225 Mln Via Lloyd’s of London Broker {crypto: 100.00%}
+https://cointelegraph.com/news/coinbase-reveals-hot-wallet-coverage-up-to-225-mln-via-lloyds-of-london-broker
+200
 
 A16z-Backed TrustToken Launches Stablecoin Pegged to UK Pound {cryptocurrency: 100.00%}
 https://www.coindesk.com/a16z-backed-trusttoken-launches-stablecoin-pegged-to-uk-pound
@@ -54,6 +70,10 @@ Bitcoin’s Value Suddenly Surged, But Nobody’s Really Sure Why {cryptocurrenc
 http://feedproxy.google.com/~r/time/business/~3/Aof2lqu544c/
 250.0
 
+Brian Kelly Says Next Target for Bitcoin is $6,000, With Crypto Markets Bottoming {crypto: 100.00%}
+https://cointelegraph.com/news/brian-kelly-says-next-target-for-bitcoin-is-6-000-with-crypto-markets-bottoming
+300
+
 Why Binance, the World’s Biggest Crypto Exchange, Is Enthusiastic About Stablecoins {crypto: 100.00%}
 https://cointelegraph.com/news/why-binance-the-worlds-biggest-crypto-exchange-is-enthusiastic-about-stablecoins
 300
@@ -62,16 +82,16 @@ BTC Hits $4,800 for the First Time in 2019, Top Crypto Markets See Double Digit 
 https://cointelegraph.com/news/btc-hits-4-800-for-the-first-time-in-2019-top-crypto-markets-see-double-digit-growth
 300
 
-QuadrigaCX Crypto Exchange Could Soon Be Placed in Bankruptcy {crypto: 100.00%}
-https://www.coindesk.com/quadrigacx-crypto-exchange-could-soon-be-placed-in-bankruptcy
+$255 Million: Coinbase Confirms Extent of Crypto Insurance Coverage {crypto: 100.00%}
+https://www.coindesk.com/coinbase-insurance-coverage
 300
 
 Bitcoin soars 20%, mystery buyer seen as catalyst {cryptocurrencies: 50.00%, trading: 50.00%}
 https://www.channelnewsasia.com/news/business/bitcoin-soars-20-mystery-buyer-seen-as-catalyst-11404994
 400
 
-Bitcoin soars to highest level in 5 months, thanks to mystery buyer {cryptocurrencies: 50.00%, financial: 50.00%}
-https://www.business-standard.com/article/international/bitcoin-soars-to-highest-level-in-5-months-thanks-to-mystery-buyer-119040201331_1.html
+Major Swiss Stock Exchange SIX Lists XRP Exchange Traded Product {stock: 50.00%, ripple: 50.00%}
+https://cointelegraph.com/news/major-swiss-stock-exchange-six-lists-xrp-exchange-traded-product
 400
 
 Bitcoin’s Price Rises Above Major Moving Averages In First Since 2018 {trading: 66.67%, cryptocurrency: 33.33%}
@@ -81,6 +101,14 @@ https://www.coindesk.com/bitcoins-price-rises-above-major-moving-averages-in-fir
 Malta: Financial Regulator Approves First 14 Crypto Assets Agents {financial: 60.00%, crypto: 40.00%}
 https://cointelegraph.com/news/malta-financial-regulator-approves-first-14-crypto-assets-agents
 500
+
+A16z Moves to Place Bigger Bets on High-Risk Assets – Including Crypto {crypto: 66.67%, financial: 33.33%}
+https://www.coindesk.com/a16z-wants-to-bet-big-on-high-risk-assets-like-crypto
+500
+
+Beating back bears, Bitcoin briefly balloons beyond $4,900 {trading: 50.00%, currency: 25.00%, cryptocurrency: 25.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/MNXbbtlc8UY/
+600
 
 Puerto Rico Sees New Crypto Bank Accept First Client Deposit {crypto: 33.33%, bank: 33.33%, banking: 33.33%}
 https://cointelegraph.com/news/puerto-rico-sees-new-crypto-bank-accept-first-client-deposit
@@ -108,6 +136,14 @@ https://ameinfo.com/money/banking-finance/the-bitcoin-rush-seems-to-be-on-fomo-c
 
 Ciberseguridad
 
+Mar-a-Lago: woman with malware and Chinese passports accused of illegal entry {malware: 100.00%}
+https://www.theguardian.com/us-news/2019/apr/02/mar-a-lago-woman-malware-chinese-passports
+300
+
+Women Now Hold One-Quarter of Cybersecurity Jobs {cybersecurity: 100.00%}
+https://www.darkreading.com/risk/women-now-hold-one-quarter-of-cybersecurity-jobs/d/d-id/1334319?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+300
+
 Government spyware hidden in Google Play store apps {government: 50.00%, malware: 50.00%}
 https://nakedsecurity.sophos.com/2019/04/02/government-spyware-hidden-in-google-play-store-apps/
 400
@@ -120,8 +156,12 @@ Analyzing AZORult malware using NSA Ghidra suite {malware: 80.00%, security: 20.
 https://securityaffairs.co/wordpress/83211/breaking-news/azorult-nsa-ghidra.html
 500
 
-Network security market shows its highest growth in more than 6 years: BofA {network: 33.33%, security: 33.33%, companies: 16.67%, cybersecurity: 16.67%}
-https://www.cnbc.com/2019/04/02/network-security-market-showing-highest-growth-since-2012.html
+If the Saudis actually hacked Jeff Bezos' phone, here are the details security experts want to know {security: 33.33%, cybersecurity: 33.33%, hack: 33.33%}
+https://www.cnbc.com/2019/04/02/bezos-saudi-hacking-allegations-lack-detail-experts.html
+1000.0
+
+There Are Probably Cameras on Your Flight, but Relax, They’re Not On (Yet) {cybersecurity: 50.00%, malware: 50.00%}
+https://www.nytimes.com/2019/04/02/business/airlines-cameras-privacy.html?partner=rss&emc=rss
 1000.0
 
 Pagos Digitales
@@ -130,8 +170,8 @@ The Rise of The Gig Economy: How Electronic Payments Can Help Pt. 2 {payments: 1
 https://www.finextra.com/blogposting/16959/the-rise-of-the-gig-economy-how-electronic-payments-can-help-pt-2?utm_medium=rss&utm_source=finextrafeed
 100
 
-Jet Airways grounds 15 more planes due to non-payment of rentals to lessors {payment: 50.00%, government: 50.00%}
-https://www.business-standard.com/article/companies/jet-airways-grounds-15-more-planes-due-to-non-payment-of-rentals-to-lessors-119040201033_1.html
+Succeeding in the future of payments {payments: 85.71%, payment: 7.14%, security: 7.14%}
+https://www.ibm.com/blogs/insights-on-business/banking/succeeding-in-the-future-of-payments/
 100
 
 New Fintech Unicorn Bill.com Teams with Mastercard to Offer Virtual Card {fintech: 50.00%, payments: 50.00%}
@@ -141,6 +181,10 @@ https://bankinnovation.net/2019/04/bill-com-latest-fintech-unicorn-after-88-mill
 Coinbase Expands Into Cross-Border Payments {payments: 80.00%, cryptocurrency: 20.00%}
 https://cointelegraph.com/news/coinbase-expands-into-cross-border-payments
 700
+
+Fintech’s Newest Unicorn Bill.com Raises $88 Million in New Funding {fintech: 25.00%, payments: 50.00%, investment: 12.50%, billion: 12.50%}
+https://finovate.com/fintechs-newest-unicorn-bill-com-raises-88-million-in-new-funding/
+1000
 
 Pakistan’s Central Bank Aims to Issue Its Own Digital Currency by 2025 {central bank: 11.11%, bank: 22.22%, digital: 22.22%, digital currency: 22.22%, currency: 22.22%}
 https://cointelegraph.com/news/pakistans-central-bank-aims-to-issue-its-own-digital-currency-by-2025
@@ -176,8 +220,8 @@ Google’s anti-trans controversy is the latest case of big tech overcorrecting 
 http://feedproxy.google.com/~r/Techcrunch/~3/cm8AeA15Ohc/
 200
 
-Morris Garages demonstrates connectivity features of upcoming MG Hector SUV {ai: 100.00%}
-https://www.business-standard.com/article/automobile/morris-garages-demonstrates-connectivity-features-of-upcoming-mg-hector-suv-119040200686_1.html
+Intel Capital throws £89m at cloud gaming, AI, communications {ai: 100.00%}
+http://feedproxy.google.com/~r/bit-tech/all/~3/BzNn15pNASI/
 200
 
 Tencent Co-Founder Backs Singaporean Fintech Startup to the Tune of SG$2.7 Mil {fintech: 100.00%}
@@ -188,10 +232,6 @@ Tinkoff Bank builds supercomputer {bank: 50.00%, ai: 50.00%}
 https://www.finextra.com/pressarticle/77888/tinkoff-bank-builds-supercomputer?utm_medium=rss&utm_source=finextrafeed
 400
 
-Blend seeks to deepen bank ties with account opening product {bank: 50.00%, fintech: 50.00%}
-http://www.americanbanker.com/news/blend-seeks-to-deepen-bank-ties-with-account-opening-product
-400
-
 Singapore’s Investment Management Association Announces a New Chairperson {investment: 80.00%, fintech: 20.00%}
 http://fintechnews.sg/29889/roboadvisor/singapores-investment-management-association-announces-a-new-chairman/
 400
@@ -199,6 +239,10 @@ http://fintechnews.sg/29889/roboadvisor/singapores-investment-management-associa
 Movers and Shakers: Notable March Hires in Fintech and Banking {fintech: 33.33%, banking: 33.33%, bank: 33.33%}
 https://bankinnovation.net/2019/04/movers-and-shakers-notable-march-hires-in-fintech-and-banking/
 600
+
+Finovate Alumni News {fintech: 20.00%, banking: 40.00%, digital: 20.00%, bank: 20.00%}
+https://finovate.com/finovate-alumni-news-970/
+800
 
 South Africa's TymeBank picks Finn AI for digital financial fitness coach {ai: 20.00%, digital: 40.00%, financial: 20.00%, artificial intelligence: 20.00%}
 https://www.finextra.com/newsarticle/33626/south-africas-tymebank-picks-finn-ai-for-digital-financial-fitness-coach?utm_medium=rss&utm_source=finextrafeed
@@ -208,8 +252,8 @@ Top IoT, AI and Robotics Books {ai: 37.50%, technology: 12.50%, artificial intel
 http://fintechnews.sg/22282/iot/top-iot-ai-and-robotics-books/
 6000
 
-Succeeding in the future of payments {payments: 85.71%, payment: 7.14%, security: 7.14%} 
-https://www.ibm.com/blogs/insights-on-business/banking/succeeding-in-the-future-of-payments/
+Visa Rolls Out Card Payouts, Pushing Payments To Gig Workers {payments: 57.14%, faster: 14.29%, companies: 14.29%, cash: 14.29%} 
+https://www.pymnts.com/news/payment-methods/2019/visa-card-payouts-gig-workers/
 100
 
 A Primer for Fintech’s Biggest Event this Spring {fintech: 100.00%} 
@@ -220,8 +264,8 @@ Address the FinovateSpring audience by taking part in FinTech Futures supplement
 https://www.bankingtech.com/2019/04/address-the-finovatespring-audience-by-taking-part-in-fintech-futures-supplement/
 200
 
-Intel Capital throws £89m at cloud gaming, AI, communications {ai: 100.00%} 
-http://feedproxy.google.com/~r/bit-tech/all/~3/BzNn15pNASI/
+Google Has a Board-Level AI Ethical Dilemma {ai: 100.00%} 
+https://www.infosecurity-magazine.com:443/news/google-has-a-boardlevel-ai-ethical-1/
 200
 
 Exchange Volumes May Be Fake, But Bitcoin’s Value Is Real {cryptocurrencies: 100.00%} 
@@ -240,12 +284,12 @@ How Crypto Is Taxed in the US: A Taxpayer’s Dilemma {crypto: 100.00%}
 https://cointelegraph.com/news/how-crypto-is-taxed-in-the-us-a-taxpayers-dilemma
 300
 
-Alcatraz AI is building Face ID for corporate badges {ai: 66.67%, mobile: 33.33%} 
-http://feedproxy.google.com/~r/Techcrunch/~3/ehOinirb5dY/
-400
+QuadrigaCX Crypto Exchange Could Soon Be Placed in Bankruptcy {crypto: 100.00%} 
+https://www.coindesk.com/quadrigacx-crypto-exchange-could-soon-be-placed-in-bankruptcy
+300
 
-Major Swiss Stock Exchange SIX Lists XRP Exchange Traded Product {stock: 50.00%, ripple: 50.00%} 
-https://cointelegraph.com/news/major-swiss-stock-exchange-six-lists-xrp-exchange-traded-product
+Blend seeks to deepen bank ties with account opening product {bank: 50.00%, fintech: 50.00%} 
+http://www.americanbanker.com/news/blend-seeks-to-deepen-bank-ties-with-account-opening-product
 400
 
 Computer systems in the City of Albany hit in Ransomware Attack {malware: 50.00%, security: 50.00%} 
@@ -264,6 +308,22 @@ BREAKING: new update about DDoS’er Linux/DDoSMan ELF malware based on Elknot {
 https://securityaffairs.co/wordpress/83157/malware/new-linux-ddosman-threat-emerged-from-an-evolution-of-the-older-elknot.html
 500
 
+IBM CEO Ginni Rometty: AI will change 100 percent of jobs in next decade {ai: 33.33%, investing: 33.33%, billion: 33.33%} 
+https://www.cnbc.com/2019/04/02/ibm-ceo-ginni-romettys-solution-to-closing-the-skills-gap-in-america.html
+750.0
+
+Tokenized Equity with Josh Stein from Harbor {blockchain: 75.00%, ethereum: 25.00%} 
+https://hackernoon.com/tokenized-equity-with-josh-stein-from-harbor-2ddecd0e2f4b?source=rss----3a8144eabfe3---4
+800
+
+Elon Musk Calls Dogecoin ‘My Fav Cryptocurrency’ {cryptocurrency: 50.00%, crypto: 50.00%} 
+https://www.coindesk.com/elon-musk-calls-dogecoin-my-fav-cryptocurrency
+900
+
+Network security market shows its highest growth in more than 6 years: BofA {network: 33.33%, security: 33.33%, companies: 16.67%, cybersecurity: 16.67%} 
+https://www.cnbc.com/2019/04/02/network-security-market-showing-highest-growth-since-2012.html
+1000.0
+
 ARTEÏA launches Token Sale for P2P Art Market Blockchain Platform {blockchain: 80.00%, security: 8.00%, launch: 4.00%, ico: 4.00%, technology: 4.00%} 
 https://www.the-blockchain.com/2019/04/02/arteia-launches-a-p2p-blockchain-platform-for-art-market/
 1000
@@ -276,11 +336,15 @@ UAE workforce optimistic about AI inclusion at workplace {ai: 70.59%, technology
 https://ameinfo.com/it-2/uae-workforce-optimistic-about-ai-inclusion-at-workplace/
 1600
 
-Privacy & Regulatory Considerations in Enterprise Blockchain {regulatory: 20.00%, blockchain: 20.00%, security: 20.00%, distributed ledger: 20.00%, technology: 20.00%} 
-https://www.darkreading.com/risk/privacy-and-regulatory-considerations-in-enterprise-blockchain-/a/d-id/1334277?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+Austrian Economics Minister: ‘We Do Not Need Regulation for Blockchain’ {regulation: 28.57%, blockchain: 28.57%, digital: 14.29%, economic: 14.29%, cryptocurrencies: 14.29%} 
+https://cointelegraph.com/news/austrian-economics-minister-we-do-not-need-regulation-for-blockchain
 2000
 
-When the Price of Bitcoin Rises {technology: 6.67%, digital: 16.67%, technologies: 3.33%, currency: 13.33%, exchanges: 30.00%, stock: 6.67%, trade: 3.33%, transaction: 6.67%, investment: 3.33%, economic: 3.33%, security: 3.33%, blockchain: 3.33%} 
-https://hackernoon.com/when-the-price-of-bitcoin-rises-1f2fd052beac?source=rss----3a8144eabfe3---4
-2400
+The Hidden Implications of Bitcoin’s Overnight Price-Jump {crypto: 5.00%, trading: 20.00%, billion: 20.00%, blockchain: 5.00%, exchanges: 15.00%, financial: 10.00%, currency: 5.00%, finance: 5.00%, digital: 10.00%, technology: 5.00%} 
+https://hackernoon.com/the-hidden-implications-of-bitcoins-overnight-price-jump-61b541dcc2bb?source=rss----3a8144eabfe3---4
+4000
+
+Delivering Practical Privacy in Blockchain and DLT Applications {blockchain: 17.82%, dlt: 3.96%, crypto: 3.96%, transactions: 15.84%, security: 1.98%, transaction: 3.96%, ethereum: 1.98%, financial: 2.97%, investing: 4.95%, cryptocurrencies: 6.93%, hack: 0.99%, government: 0.99%, technology: 4.95%, billion: 0.99%, regulatory: 5.94%, cash: 1.98%, companies: 0.99%, digital: 2.97%, payments: 3.96%, crypto asset: 0.99%, distributed ledger: 1.98%, banks: 0.99%, institutions: 0.99%, sandbox: 0.99%, bank: 1.98%, swift: 0.99%, technologies: 0.99%, cryptocurrency: 0.99%, currency: 0.99%} 
+https://hackernoon.com/delivering-practical-privacy-in-blockchain-and-dlt-applications-e4fbca82327b?source=rss----3a8144eabfe3---4
+49700
 
