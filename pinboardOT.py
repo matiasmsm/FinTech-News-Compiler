@@ -1,5 +1,7 @@
 import pinboard
 import datetime
+from docx import Document
+from docx.shared import Inches
 from reportlab.lib.pagesizes import letter
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
@@ -11,16 +13,18 @@ pb = pinboard.Pinboard('lsanz_observatorio:CC8E7F9E71CC9B935378')
 
 
 def escribir_resumen_semanal():
-    posts = pb.posts.recent(tag=["publishedOT", "d:201903"])
-    lista_contenido = list()
+    posts = pb.posts.recent(tag=["pw"])
+    lista_contenido_descripcion = list()
+    lista_contenido_url = list()
     with open("Resumenes Semanales/resumen_semanal{}.txt".format(
             datetime.datetime.now()), "w") as resumen_semanal_file:
         for post in posts["posts"]:
+
             resumen_semanal_file.write(post.description+"\n")
             resumen_semanal_file.write(post.url + "\n \n")
-            lista_contenido.append(post.description)
-            lista_contenido.append(post.url)
-    escribir_pdf(lista_contenido)
+            lista_contenido_descripcion.append(post.description)
+            lista_contenido_url.append(post.url)
+    escribir_docx(lista_contenido_descripcion, lista_contenido_url)
 
 
 def escribir_pdf(lista_contenido):
@@ -43,6 +47,22 @@ def escribir_pdf(lista_contenido):
         if linea[:4] != ["h", "t", "t", "p"]:
             Story.append(Spacer(1, 12))
     doc.build(Story)
+
+
+def escribir_docx(lista_descripciones, lista_urls):
+    document = Document()
+    document.add_heading('Resumen Semanal de Noticias FinTech', 0)
+    indice_noticia = 0
+    for noticia in lista_descripciones:
+        document.add_paragraph(noticia)
+        document.add_paragraph(lista_urls[indice_noticia])
+        indice_noticia += 1
+    """document.add_heading('Heading, level 1', level=1)
+    document.add_picture('monty-truth.png', width=Inches(1.25))"""
+    document.add_page_break()
+    document.save("Resumenes Semanales/resumen_semanal{}.docx".format(
+            datetime.datetime.now()))
+
 
 if __name__ == '__main__':
     escribir_resumen_semanal()
