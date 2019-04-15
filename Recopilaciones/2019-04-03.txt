@@ -1,0 +1,390 @@
+DLT
+
+PayPal invests in potential collaboration with Cambridge Blockchain {blockchain: 100.00%}
+https://www.bankingtech.com/2019/04/paypal-invests-in-potential-collaboration-with-cambridge-blockchain/
+200
+
+Biotech Company-Turned-Mining Firm Riot Blockchain Reports 2018 Net Loss of $58 Million {blockchain: 100.00%}
+https://cointelegraph.com/news/biotech-company-turned-mining-firm-riot-blockchain-reports-2018-net-loss-of-58-million
+200
+
+US Blockchain Firm Partners with Sustainable Construction Firm to Design Data Centers {blockchain: 100.00%}
+https://cointelegraph.com/news/us-blockchain-firm-partners-with-sustainable-construction-firm-to-design-data-centers
+200
+
+Former Obama Tech Officer Raises $3.7 Million for Blockchain SaaS Startup {blockchain: 100.00%}
+https://www.coindesk.com/former-obama-tech-officer-raises-3-7-million-for-blockchain-saas-startup
+200
+
+Chinese Regulator Approves First 197 Blockchain Firms, Including Tencent, Alibaba, Baidu {blockchain: 66.67%, companies: 33.33%}
+https://cointelegraph.com/news/chinese-regulator-approves-first-197-blockchain-firms-including-tencent-alibaba-baidu
+400
+
+Government registries with blockchain, for efficiency and trust {government: 30.00%, blockchain: 70.00%}
+https://www.ibm.com/blogs/blockchain/2019/04/government-registries-with-blockchain-for-efficiency-and-trust/
+400
+
+Riot Blockchain auditor cites 'material weaknesses' in internal control over financial reporting {blockchain: 50.00%, financial: 50.00%}
+https://www.cnbc.com/2019/04/03/riot-blockchain-flagged-by-auditor-for-material-weaknesses-in-reports.html
+500.0
+
+Finovate Alumni News {financial: 33.33%, blockchain: 33.33%, mobile: 33.33%}
+https://finovate.com/finovate-alumni-news-971/
+600
+
+Minersinc Brings To India The Best Of World Cinema, Curates 200+ Critically Acclaimed Titles For Cinema Enthusiasts {blockchain: 82.35%, security: 11.76%, launch: 5.88%}
+https://www.the-blockchain.com/2019/04/03/minersinc-brings-to-india-the-best-of-world-cinema-curates-200-critically-acclaimed-titles-for-cinema-enthusiasts/
+600
+
+Welcome to the Private Party! {blockchain: 33.33%, scam: 33.33%, exchanges: 33.33%}
+https://hackernoon.com/welcome-to-the-private-party-ae3b879a9889?source=rss----3a8144eabfe3---4
+600
+
+Big banks back new international blockchain alliance {banks: 25.00%, blockchain: 25.00%, swift: 25.00%, financial: 25.00%}
+https://www.finextra.com/newsarticle/33634/big-banks-back-new-international-blockchain-alliance?utm_medium=rss&utm_source=finextrafeed
+800
+
+European Union Launches International Association of Trusted Blockchain Applications {blockchain: 66.67%, ripple: 33.33%}
+https://cointelegraph.com/news/european-union-launches-international-association-of-trusted-blockchain-applications
+800
+
+Over 40 Central Banks Are Considering Blockchain Currencies: Davos Report {banks: 33.33%, blockchain: 33.33%, currencies: 16.67%, economic: 16.67%}
+https://www.coindesk.com/over-40-central-banks-are-considering-blockchain-currencies-davos-report
+800
+
+SEC Staff Publish Framework for Determining If Digital Assets Are Investment Contracts {digital: 33.33%, investment: 16.67%, digital asset: 33.33%, security: 16.67%}
+https://cointelegraph.com/news/sec-staff-publish-framework-for-determining-if-digital-assets-are-investment-contracts
+1000
+
+Cybersecurity, Blockchain Firm WISeKey Acquires Interest in Data Infrastructure Firm {cybersecurity: 40.00%, blockchain: 40.00%, transaction: 20.00%}
+https://cointelegraph.com/news/cybersecurity-blockchain-firm-wisekey-acquires-interest-in-data-infrastructure-firm
+1300
+
+WEF Report: 40 Central Banks Are Considering Digital Currencies, Blockchain Tech {banks: 18.18%, digital: 18.18%, currencies: 18.18%, blockchain: 18.18%, technology: 9.09%, central bank: 9.09%, bank: 9.09%}
+https://cointelegraph.com/news/wef-report-40-central-banks-are-considering-digital-currencies-blockchain-tech
+1400
+
+Privacy & Regulatory Considerations in Enterprise Blockchain {regulatory: 20.00%, blockchain: 20.00%, security: 20.00%, distributed ledger: 20.00%, technology: 20.00%}
+https://www.darkreading.com/risk/privacy-and-regulatory-considerations-in-enterprise-blockchain-/a/d-id/1334277?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+2000
+
+Jamaica Stock Exchange to Launch Live Trading Pilot for Bitcoin and Ethereum {stock: 25.00%, launch: 12.50%, trading: 12.50%, ethereum: 25.00%, trade: 12.50%, fintech: 12.50%}
+https://cointelegraph.com/news/jamaica-stock-exchange-to-launch-live-trading-pilot-for-bitcoin-and-ethereum
+2500
+
+How Ethereum Is Very Likely To Become A Leading Blockchain Platform {ethereum: 26.97%, blockchain: 24.72%, technology: 13.48%, investing: 1.12%, crypto: 3.37%, transactions: 4.49%, network: 1.12%, cryptocurrency: 2.25%, mobile: 2.25%, companies: 6.74%, cryptocurrencies: 1.12%, digital: 2.25%, digital currency: 1.12%, currency: 2.25%, security: 5.62%, financial: 1.12%}
+https://hackernoon.com/how-ethereum-is-very-likely-to-become-a-leading-blockchain-platform-110ea9d49372?source=rss----3a8144eabfe3---4
+19300
+
+Criptoactivos
+
+'Anybody's guess': Bitcoin's sudden surge leaves experts baffled {cryptocurrencies: 100.00%}
+https://www.smh.com.au/business/markets/anybody-s-guess-bitcoin-s-sudden-surge-leaves-experts-baffled-20190403-p51a5m.html?ref=rss&utm_medium=rss&utm_source=rss_business
+200
+
+3 Reasons Bitcoin’s Price Suddenly Surged Back to $5K {cryptocurrency: 100.00%}
+https://www.coindesk.com/these-3-factors-were-likely-behind-bitcoins-price-surge-to-5k
+200
+
+Short-Term Crypto Losses Surged Fivefold in 1st Month of 2019: Credit Karma Tax {crypto: 100.00%}
+https://cointelegraph.com/news/short-term-crypto-losses-surged-fivefold-in-1st-month-of-2019-credit-karma-tax
+300
+
+SEC’s First Crypto ‘No-Action’ Letter Took 11 Months to Secure {crypto: 100.00%}
+https://www.coindesk.com/secs-first-crypto-no-action-letter-took-11-months-to-secure
+300
+
+Major cryptocurrencies are soaring after bitcoin made its first big jump in months {cryptocurrencies: 100.00%}
+https://www.cnbc.com/2019/04/03/other-major-cryptocurrencies-move-following-bitcoins-jump.html
+375.0
+
+Brexit and April Fool's Joke Possible Catalysts for Crypto Rally, Crypto Reporter Says {crypto: 100.00%}
+https://cointelegraph.com/news/brexit-and-april-fools-joke-possible-catalysts-for-crypto-rally-crypto-reporter-says
+400
+
+Number of Active Bitcoin Wallets Increased Prior to Crypto Market Surge {crypto: 66.67%, digital: 33.33%}
+https://cointelegraph.com/news/number-of-active-bitcoin-wallets-increased-prior-to-crypto-market-surge
+500
+
+The SEC Just Released Its Long-Awaited Crypto Token Guidance {crypto: 50.00%, regulatory: 50.00%}
+https://www.coindesk.com/the-sec-just-released-its-crypto-token-guidance
+500
+
+Japan: Crypto Trading Platform Liquid Hits Unicorn Status With Over $1 Billion Valuation {crypto: 33.33%, trading: 33.33%, billion: 33.33%}
+https://cointelegraph.com/news/japan-crypto-trading-platform-liquid-hits-unicorn-status-with-over-1-billion-valuation
+700
+
+Liquid.com Closes Funding Round Valuing Crypto Firm at ‘Over $1 Billion’ {crypto: 60.00%, billion: 20.00%, trading: 20.00%}
+https://www.coindesk.com/liquid-com-closes-funding-round-valuing-crypto-firm-at-over-1-billion
+700
+
+Crypto Market Rally Continues With Bitcoin Above $4,900, Tech Stocks Bounce Back {crypto: 50.00%, cryptocurrencies: 50.00%}
+https://cointelegraph.com/news/crypto-market-rally-continues-with-bitcoin-above-4-900-tech-stocks-bounce-back
+900
+
+Bitcoin, Ethereum, Ripple, Litecoin, EOS, Bitcoin Cash, Binance Coin, Stellar, Cardano, TRON: Price Analysis April 3 {ethereum: 25.00%, ripple: 25.00%, cash: 25.00%, crypto: 25.00%}
+https://cointelegraph.com/news/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-cardano-tron-price-analysis-april-3
+2600
+
+Ciberseguridad
+
+Third-Party Apps Exposed Over 540 Million Facebook Records {cybersecurity: 100.00%}
+https://www.wired.com/story/facebook-apps-540-million-records
+200
+
+2m credit cards ripped off from restaurant chain, sold on the dark web {malware: 100.00%}
+https://nakedsecurity.sophos.com/2019/04/03/2m-credit-cards-ripped-off-from-restaurant-chain-sold-on-the-dark-web/
+200
+
+Chinese National Carries Malware Into Mar-a-Lago {malware: 100.00%}
+https://www.darkreading.com/attacks-breaches/chinese-national-carries-malware-into-mar-a-lago/d/d-id/1334328?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+300
+
+Chinese Woman Cuffed at Mar-a-Lago With Malware on USB {malware: 100.00%}
+https://www.infosecurity-magazine.com:443/news/chinese-woman-arrested-maralago-1-1/
+300
+
+Woman From China Carrying Malware Arrested After Entering Mar-a-Lago {malware: 100.00%}
+https://www.nytimes.com/2019/04/02/us/mar-a-lago-zhang-chinese-secret-service.html?partner=rss&emc=rss
+375.0
+
+Mar-a-Lago's Security Problems Go Way Beyond a Thumb Drive {security: 50.00%, cybersecurity: 50.00%}
+https://www.wired.com/story/trump-mar-a-lago-security-problems
+400
+
+Financial Firms Scrutinize Third-Party Supplier Risk {financial: 50.00%, cybersecurity: 50.00%}
+https://www.darkreading.com/risk/financial-firms-scrutinize-third-party-supplier-risk/d/d-id/1334322?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+400
+
+Georgia Tech Cyberattack Exposes Data of 1.3 Million People {cyberattack: 50.00%, security: 50.00%}
+https://www.darkreading.com/attacks-breaches/georgia-tech-cyberattack-exposes-data-of-13-million-people/d/d-id/1334325?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+500
+
+Hundreds of millions of Facebook records exposed on public servers – report {cybersecurity: 33.33%, security: 33.33%, technology: 33.33%}
+https://www.theguardian.com/technology/2019/apr/03/facebook-data-public-servers-amazon
+600
+
+How to Maximize the Value of Your Cybersecurity Investment {cybersecurity: 25.00%, investment: 50.00%, security: 25.00%}
+https://threatpost.com/how-to-maximize-the-value-of-your-cybersecurity-investment/143408/
+700
+
+There Are Probably Cameras on Your Flight, but Relax, They’re Not On (Yet) {cybersecurity: 50.00%, malware: 50.00%}
+https://www.nytimes.com/2019/04/02/business/airlines-cameras-privacy.html?partner=rss&emc=rss
+1000.0
+
+Pagos Digitales
+
+Three Finnish banks to move to shared core and payments tech from Temenos {banks: 33.33%, payments: 66.67%}
+https://www.bankingtech.com/2019/04/three-finnish-banks-to-move-to-shared-core-and-payments-tech-from-temenos/
+100
+
+FHFA’s Otting authorizes GSE affordable housing payments {payments: 100.00%}
+http://www.americanbanker.com/news/fhfas-otting-authorizes-gse-affordable-housing-payments
+100
+
+Jet Airways defers March salary payment to its 16,000 employees {payment: 100.00%}
+https://www.business-standard.com/article/companies/jet-airways-defers-march-salary-payment-to-its-16-000-employees-119040300875_1.html
+100
+
+Chinese Grindr boss 'switched all internal communications to WeChat' amid HIV user' data fears {wechat: 100.00%}
+https://www.dailymail.co.uk/news/article-6881865/Chinese-Grindr-boss-switched-internal-communications-WeChat-amid-HIV-user-data-fears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+100
+
+Celo Raises $30 Million for Stablecoin-Based Smartphone Payment Plans {payment: 100.00%}
+https://cointelegraph.com/news/celo-raises-30-million-for-stablecoin-based-smartphone-payment-plans
+100
+
+5-Star Swiss Hotel Set to Accept Bitcoin Payments {payments: 100.00%}
+https://www.coindesk.com/5-star-swiss-hotel-set-to-accept-bitcoin-payments
+100
+
+How France’s new digital minister plans to regulate tech {digital: 66.67%, digital economy: 33.33%}
+http://feedproxy.google.com/~r/Techcrunch/~3/jSnepagiXnM/
+400
+
+Group-IB report: JS-sniffers infected 2440 websites around the world {malware: 33.33%, payment: 33.33%, security: 33.33%}
+https://securityaffairs.co/wordpress/83283/cyber-crime/js-sniffers-infections.html
+800
+
+The SaaS 10-Year Challenge {companies: 52.94%, launch: 5.88%, billion: 17.65%, api: 5.88%, payments: 11.76%, machine learning: 5.88%}
+https://hackernoon.com/the-saas-10-year-challenge-ca21265f9061?source=rss----3a8144eabfe3---4
+1400
+
+Nimiq Acquires 9.9% Stake in Germany's WEG AG to Become Bank's Third Crypto Firm Owner {bank: 33.33%, crypto: 16.67%, blockchain: 16.67%, payments: 33.33%}
+https://cointelegraph.com/news/nimiq-acquires-99-stake-in-germanys-weg-ag-to-become-banks-third-crypto-firm-owner
+2100
+
+All Shops in Changi Airport Will Accept E-Wallet Payments Very Soon {payments: 60.00%, payment: 10.00%, mobile: 10.00%, alipay: 10.00%, fintech: 10.00%}
+http://fintechnews.sg/29902/mobilepayments/changi-airport-qr-e-wallet-payment-mobile-paynow-alipay-grabpay/
+2900
+
+Monitoreo Tecnológico
+
+Shield and Trusted Data form international partnership {regtech: 50.00%, financial: 50.00%}
+https://www.finextra.com/pressarticle/77913/shield-and-trusted-data-form-international-partnership?utm_medium=rss&utm_source=finextrafeed
+400
+
+3 Notable Regtech Startups: Apiax, ComplyAdvantage, Ascent {regtech: 33.33%, psd2: 11.11%, regulation: 11.11%, companies: 11.11%, fintech: 11.11%, billion: 22.22%}
+https://bankinnovation.net/2019/04/3-notable-regtech-startups-apiax-complyadvantage-ascent/
+3700
+
+Big Data
+
+CBDC
+
+Banca Abierta
+
+Open Banking body urges UK firms to prepare for no-deal Brexit {open banking: 50.00%, banking: 50.00%}
+https://www.finextra.com/pressarticle/77909/open-banking-body-urges-uk-firms-to-prepare-for-no-deal-brexit?utm_medium=rss&utm_source=finextrafeed
+500
+
+CMA clamps down on open banking implementation {open banking: 25.00%, banking: 25.00%, banks: 25.00%, mobile: 25.00%}
+https://www.bankingtech.com/2019/04/cma-clamps-down-on-open-banking-implementation/
+900
+
+Effective Implementation of PSD2 and Open Banking Propositions {psd2: 20.00%, open banking: 40.00%, banking: 40.00%}
+https://www.finextra.com/blogposting/16966/effective-implementation-of-psd2-and-open-banking-propositions?utm_medium=rss&utm_source=finextrafeed
+1400
+
+Otro
+
+US SEC Releases No-Action Letter Confirming TurnKey Jet ICO Tokens Are Not Securities {ico: 100.00%}
+https://cointelegraph.com/news/us-sec-releases-no-action-letter-confirming-turnkey-jet-ico-tokens-are-not-securities
+100
+
+European Commission sets up fintech innovation forum {fintech: 100.00%}
+https://www.finextra.com/newsarticle/33630/european-commission-sets-up-fintech-innovation-forum?utm_medium=rss&utm_source=finextrafeed
+200
+
+Discover Deep Learning with Nvidia’s Robotics Workshop on April 17 at UC Berkeley {ai: 100.00%}
+http://feedproxy.google.com/~r/Techcrunch/~3/0Ee-9dg-eSs/
+200
+
+Nationwide and Jaywing explore “explainable” AI driven application scoring {ai: 100.00%}
+https://www.bankingtech.com/2019/04/nationwide-and-jaywing-explore-explainable-ai-driven-application-scoring/
+200
+
+AI-powered booking service Google Duplex rolls out to iOS & Android 5.0+ devices {ai: 66.67%, technology: 33.33%}
+http://feedproxy.google.com/~r/Techcrunch/~3/RfAwxMTCRSE/
+400
+
+To license or not to license – are we asking the question? {bank: 60.00%, fintech: 20.00%, banks: 20.00%}
+https://dailyfintech.com/2019/04/03/to-license-or-not-to-license-are-we-asking-the-question/
+600
+
+With this New ATM by NCR, You Only Need to Wave Your Hand to Get Cash {cash: 33.33%, banking: 33.33%, fintech: 33.33%}
+http://fintechnews.sg/29877/fintech/ncr-kelpie-atm/
+600
+
+Traversing Indonesia’s FinTech Landscape – Investment Perspective {fintech: 40.00%, investment: 30.00%, largest: 20.00%, billion: 10.00%}
+https://gomedici.com/traversing-indonesia-fintech-landscape-investment-perspective/
+800
+
+IBM artificial intelligence can predict with 95% accuracy if you plan to quit your job {artificial intelligence: 50.00%, ai: 50.00%}
+https://www.cnbc.com/2019/04/03/ibm-ai-can-predict-with-95-percent-accuracy-which-employees-will-quit.html
+1000.0
+
+Tinkoff builds most powerful supercomputer in financial sector {financial: 25.00%, faster: 25.00%, machine learning: 25.00%, ai: 25.00%}
+https://www.bankingtech.com/2019/04/tinkoff-builds-most-powerful-supercomputer-in-financial-sector/
+1600
+
+Saxo Bank: What does Q2 hold for Europe? {bank: 27.27%, trading: 7.58%, investment: 3.03%, currencies: 4.55%, technology: 4.55%, companies: 4.55%, government: 4.55%, trade: 7.58%, ai: 1.52%, digital: 1.52%, economic: 6.06%, banking: 6.06%, banks: 1.52%, largest: 1.52%, financial: 3.03%, central bank: 12.12%, currency: 1.52%, stock: 1.52%}
+https://ameinfo.com/money/economy/saxo-bank-what-does-q2-hold-for-europe/
+3600
+
+Bill.com raises $88m for business payments push {payments: 100.00%} 
+https://www.bankingtech.com/2019/04/bill-com-raises-88m-for-business-payments-push/
+100
+
+Paytm Payments Bank eyes 10-crore S/B customer base in next one year: CEO {payments: 54.55%, bank: 36.36%, largest: 9.09%} 
+https://www.thehindubusinessline.com/money-and-banking/paytm-payments-bank-to-offer-risk-free-insurance-mutual-fund-by-june-md/article26721960.ece
+100
+
+Paytm Payments Bank to offer risk-free insurance, MF products by June: MD {payments: 57.14%, bank: 42.86%} 
+https://www.business-standard.com/article/finance/paytm-payments-bank-to-offer-risk-free-insurance-mf-products-by-june-md-119040300783_1.html
+100
+
+SEC Issues First ‘No-Action’ Letter Clearing ICO to Sell Tokens in US {ico: 100.00%} 
+https://www.coindesk.com/sec-issues-first-ever-no-action-letter-clearing-ico-to-sell-tokens-under-us-law
+100
+
+MIT’s ‘cyber-agriculture’ optimizes basil flavors {machine learning: 100.00%} 
+http://feedproxy.google.com/~r/Techcrunch/~3/Wwsv-jtAee0/
+200
+
+Hacker Eva Galperin Has a Plan to Eradicate Stalkerware {malware: 100.00%} 
+https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus
+200
+
+Consumer lender Affirm raises $300M to fund rapid expansion {fintech: 100.00%} 
+http://www.americanbanker.com/news/consumer-lender-affirm-raises-300m-to-fund-rapid-expansion
+200
+
+How Blockchain May Help the Cobalt in Smartphones and Electric Cars Be Ethically Sourced {blockchain: 100.00%} 
+https://cointelegraph.com/news/how-blockchain-may-help-the-cobalt-in-smartphones-and-electric-cars-be-ethically-sourced
+200
+
+Facebook dips on report that user records were exposed on Amazon cloud servers {cybersecurity: 100.00%} 
+https://www.cnbc.com/2019/04/03/facebook-dips-on-report-that-user-records-were-exposed-on-aws-servers.html
+250.0
+
+BTC Tests $5,000 Amid 2019’s First Major Crypto Market Recovery {crypto: 100.00%} 
+https://cointelegraph.com/news/btc-tests-5-000-amid-2019s-first-major-crypto-market-recovery
+300
+
+UK Orgs, Charities Improving in Cybersecurity {cybersecurity: 100.00%} 
+https://www.infosecurity-magazine.com:443/news/uk-orgs-charities-improving-in/
+300
+
+Atomic Capital Makes Crypto’s Most Aggressive Lending Offer Yet {crypto: 100.00%} 
+https://www.coindesk.com/atomic-capital-will-lend-up-to-85-of-your-cryptos-value-but-with-a-catch
+300
+
+Smart Dubai Endorses Blockchain Platform From Major Local Telecoms Operator {blockchain: 66.67%, digital: 33.33%} 
+https://cointelegraph.com/news/smart-dubai-endorses-blockchain-platform-from-major-local-telecoms-operator
+400
+
+6 Essential Skills Cybersecurity Pros Need to Develop in 2019 {cybersecurity: 66.67%, security: 33.33%} 
+https://www.darkreading.com/careers-and-people/6-essential-skills-cybersecurity-pros-need-to-develop-in-2019/d/d-id/1334312?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
+500
+
+Jamaica Stock Exchange to Pilot Bitcoin and Ether Trading {stock: 50.00%, trading: 25.00%, fintech: 25.00%} 
+https://www.coindesk.com/jamaica-stock-exchange-to-pilot-bitcoin-and-ether-trading
+600
+
+Crooks use hidden directories of compromised HTTPS sites to deliver malware {malware: 57.14%, attackers: 14.29%, security: 28.57%} 
+https://securityaffairs.co/wordpress/83249/cyber-crime/https-sites-deliver-malware.html
+700
+
+INATBA: EU seeking ways for widespread adoption of Blockchain, and what this means for the industry {blockchain: 50.00%, cryptocurrencies: 50.00%} 
+https://www.finextra.com/blogposting/16964/inatba-eu-seeking-ways-for-widespread-adoption-of-blockchain-and-what-this-means-for-the-industry?utm_medium=rss&utm_source=finextrafeed
+800
+
+AI-Powered Asset Manager Pagaya, with Sights on Real Estate, Raises $25 Million {ai: 50.00%, fintech: 50.00%} 
+https://bankinnovation.net/2019/04/ai-powered-asset-manager-pagaya-with-sights-on-real-estate-raises-25-million/
+800
+
+61% of Major Global Digital Firms Invest in Blockchain, Report Finds {digital: 33.33%, blockchain: 33.33%, companies: 16.67%, investing: 16.67%} 
+https://cointelegraph.com/news/61-of-major-global-digital-firms-invest-in-blockchain-report-finds
+800
+
+In-Depth Analysis of JS Sniffers Uncovers New Families of Credit Card-Skimming Code {digital: 33.33%, cybersecurity: 33.33%, payment: 33.33%} 
+http://feedproxy.google.com/~r/TheHackersNews/~3/JW9uuneJoCE/js-sniffers-credit-card-hacking.html
+800
+
+System Audit with help of Artificial Intelligence in Banking {artificial intelligence: 14.29%, banking: 28.57%, banks: 14.29%, digital: 14.29%, security: 14.29%, regulatory: 14.29%} 
+https://www.finextra.com/blogposting/16965/system-audit-with-help-of-artificial-intelligence-in-banking?utm_medium=rss&utm_source=finextrafeed
+1200
+
+Salt Edge Earns Account Information Service Provider License from FCA {open banking: 20.00%, banking: 20.00%, financial: 40.00%, psd2: 20.00%} 
+https://finovate.com/salt-edge-earns-account-information-service-provider-license-from-fca/
+1600
+
+A16z, Polychain Invest $25 Million in Crypto Payments Startup Celo {crypto: 14.29%, payments: 57.14%, mobile: 14.29%, cryptocurrency: 14.29%} 
+https://www.coindesk.com/a16z-polychain-invest-25-million-into-crypto-payments-startup-celo
+2200
+
+Cross-Border Payment Efforts Look To The Blockchain And Beyond {payment: 10.00%, blockchain: 20.00%, banks: 10.00%, payments: 40.00%, ripple: 10.00%, swift: 10.00%} 
+https://www.pymnts.com/news/b2b-payments/2019/cross-border-global-payments-blockchain/
+3300
+

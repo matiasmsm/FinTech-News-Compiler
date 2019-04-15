@@ -1,0 +1,5 @@
+#!/Users/matiasmingo/Desktop/Banco Central/PEGA/Tareas/Recopilación y filtración noticias/Code/venv/bin/python
+from django.core import management
+
+if __name__ == "__main__":
+    management.execute_from_command_line()
