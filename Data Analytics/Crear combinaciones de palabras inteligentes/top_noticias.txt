@@ -1,195 +1,0 @@
-Trump’s attorney general pick wants to investigate the Justice Department’s role in Big Tech
-https://www.theverge.com/2019/1/15/18184363/trump-attorney-general-william-barr-big-tech-privacy-antitrust
-
-HSBC uses DLT to settle $250bn of FX transactions
-https://www.finextra.com/newsarticle/33207/hsbc-uses-dlt-to-settle-250bn-of-fx-transactions?utm_medium=rss&utm_source=finextrafeed
-
-PBOC reins in funds of payment platforms
-http://www.chinadaily.com.cn/cndy/2019-01/15/content_37426971.htm
-
-Fintech firms want to shake up banking, and that worries the Fed
-https://www.channelnewsasia.com/news/business/fintech-firms-want-to-shake-up-banking--and-that-worries-the-fed-11120332
-
-Malaysia to regulate initial coin offerings, cryptocurrency trade
-https://www.reuters.com/article/us-crypto-currencies-malaysia/malaysia-to-regulate-initial-coin-offerings-cryptocurrency-trade-idUSKCN1P80PH
-
-Robinhood: The controversial app worth $5 billion that's trying to upend Wall Street
-https://www.cnbc.com/2019/01/14/robinhood-the-5-billion-app-trying-to-upend-wall-street.html
-
-What Google's E-Money License in EU Means for Banks & FinTechs
-https://gomedici.com/what-google-e-money-license-in-eu-means-for-banks-fintechs/
-
-Canada launches open banking consultation
-https://www.finextra.com/newsarticle/33209/canada-launches-open-banking-consultation?utm_medium=rss&utm_source=finextrafeed
-
-Easing payment friction with payment pre-validation (SWIFT)
-https://www.finextra.com/videoarticle/1998/easing-payment-friction-with-payment-pre-validation?utm_medium=rss&utm_source=finextrafeed
-Korea to tear down barriers to fintech innovation
-https://www.finextra.com/newsarticle/33214/korea-to-tear-down-barriers-to-fintech-innovation?utm_medium=rss&utm_source=finextrafeed
-
-R3 forms independent governing foundation for Corda Network
-https://www.finextra.com/pressarticle/76969/r3-forms-independent-governing-foundation-for-corda-network?utm_medium=rss&utm_source=finextrafeed
-
-Blockchain Makes Inroads Into Banking
-https://www.pymnts.com/news/b2b-payments/2019/blockchain-bank-iot-innovation-trade-finance/
-
-SWIFT publishes new ‘Pay Later’ API standard
-https://www.fintech.finance/01-news/swift-publishes-new-pay-later-api-standard/
-
-Fiserv buys First Data for $22B, creating fintech giant
-https://abcnews.go.com/Business/wireStory/fiserv-buys-data-22b-creating-fintech-giant-60415222
-
-Venture capital funding of cybersecurity firms hit record high in 2018: report
- http://feeds.reuters.com/~r/reuters/technologyNews/~3/LtGJbOnD4Pk/venture-capital-funding-of-cybersecurity-firms-hit-record-high-in-2018-report-idUSKCN1PB163  
-
-Cryptocurrency is radical but who does the radicalism benefit? 
-https://www.smh.com.au/business/the-economy/cryptocurrency-is-radical-but-who-does-the-radicalism-benefit-20190115-p50rge.html?ref=rss&utm_medium=rss&utm_source=rss_business
-  Cyberattack waves wash over West African banks
- https://www.bankingtech.com/2019/01/cyberattack-waves-wash-over-west-african-banks/
-
- Goldman Eyes FinTech As Investment — And As Strategy 
-https://www.pymnts.com/earnings/2019/goldman-sachs-fintech-marcus-growth/
-
-
-MIT and Stanford Professors Are Designing a Cryptocurrency to Top Bitcoin: Unit-e 
-http://fortune.com/2019/01/17/unit-e-cryptocurrency-news-bitcoin/  
-Fintech Regulators -- Look South Where Mexico Shows How To Do It
-https://www.forbes.com/sites/tomgroenfeldt/2019/01/17/fintech-regulators-look-south-where-mexico-shows-how-to-do-it/#13a3469242b2
-
-Who Scales It Best? Inside Blockchains’ Ongoing Transactions-Per-Second Race {blockchain:100%}
-https://cointelegraph.com/news/who-scales-it-best-inside-blockchains-ongoing-transactions-per-second-race
-India: Banking Research Institute Issues Blueprint on Blockchain Implementation {blockchain: 50%, central bank: 25%, bank: 25% }
-https://cointelegraph.com/news/india-banking-research-institute-issues-blueprint-on-blockchain-implementation
-
-Criptoactivos
-One of the world's largest crypto exchanges looks to go public in the U.S. through a reverse merger {cryptocurrency: 100% }
-https://www.cnbc.com/2019/01/22/one-of-the-worlds-largest-crypto-exchange-looks-to-go-public-in-the-us-through-a-reverse-merger.html
-
-Pagos Digitales
-Apple Pay Trending Up as Target, Other Retailers Add Payment Option {apple pay: 100%, }
-“According to Apple, 74 of the top 100 U.S. merchants now accept Apple Pay”
-https://bankinnovation.net/2019/01/apple-pay-trending-up-as-target-other-retailers-add-payment-option/
-
-DLT
-How Gulf Countries Are Embracing FinTech {fintech: 85.71428571428571, blockchain: 14.285714285714285, }
-https://gomedici.com/how-gulf-countries-are-embracing-fintech/
-
-Enterprise Blockchain Platform Records 10K Transactions per Second in Testnet Launch {blockchain: 100.0, }
-https://cointelegraph.com/news/enterprise-blockchain-platform-records-10k-transactions-per-second-in-testnet-launch
-
-Pagos Digitales
-Apple Pay goes live for CBA {apple pay: 100% }
-https://www.smh.com.au/business/banking-and-finance/apple-pay-goes-live-for-cba-20190123-p50t1a.html?ref=rss&utm_medium=rss&utm_source=rss_business
-
-Otro
-Barclays raises Rise Growth Investment funds for fintech start-ups {fintech: 100.0, }
-https://www.bankingtech.com/2019/01/barclays-raises-rise-growth-investment-funds-for-fintech-start-ups/
-
-Microsoft exec shares strengths and challenges of blockchain - MobiHealthNews {blockchain: 100.0%}  
-https://www.mobihealthnews.com/content/microsoft-exec-shares-strengths-and-challenges-blockchain
-
- World Open Network (WON): Reinventing Cryptocurrency and Blockchain Technology for Society - Bitcoinist {cryptocurrency: 50.0%, blockchain: 50.0%, }  
-https://bitcoinist.com/world-open-network-won-reinventing-cryptocurrency-and-blockchain-technology-for-society/
-Italian Government Introduces Blockchain Terms in Regulation for First Time {blockchain: 50.0%, regulation: 50.0%, }  
-https://cointelegraph.com/news/italian-government-introduces-blockchain-terms-in-regulation-for-first-time
-Blockchain regulation in Malaysia: Murkiest before the dawn? - Digital News Asia {blockchain: 50.0%, regulation: 50.0%, }  
-https://www.digitalnewsasia.com/digital-economy/blockchain-regulation-malaysia-murkiest-dawn  
-
-Age of Konsentus for Mastercard’s open banking {open banking: 100.0%}  
-https://www.bankingtech.com/2019/01/age-of-konsentus-for-mastercards-open-banking/  
-150  New Partnership Helps Moven Grow in MENA {fintech: 25.0%, open banking: 25.0%, central bank: 25.0%, bank: 25.0%, }  
-https://finovate.com/new-partnership-helps-moven-grow-in-mena/  
-lockchain This Week: Is Blockchain’s Breakout Moment Here And More - Inc42 Media {blockchain: 100.0%}  
-https://inc42.com/buzz/blockchain-this-week-is-blockchains-breakout-moment-here-and-more/
-
-IMF: Blockchain in Malta poses 'significant risks' to financial system - CoinGeek {blockchain: 100.0%}
- https://coingeek.com/imf-blockchain-malta-poses-significant-risks-financial-system/ 100  Government of Ireland Hosts Blockchain Hackathon - Crowdfund Insider {blockchain: 100.0%}
- https://www.crowdfundinsider.com/2019/01/143723-governmet-of-ireland-hosts-blockchain-hackathon/
- 100  Millions of Sensitive Financial Docs Exposed in Giant Database Leak, Highlighting Push for Blockchain Solutions - The Daily Hodl {blockchain: 100.0%}
-  Dutch Startup Raises $33M For AI In Real Estate {ai: 50.0%, artificial intelligence: 50.0%, }
- https://www.pymnts.com/news/investment-tracker/2019/real-estate-funding-property-value/ 
-Jamaica Stock Exchange digital currency trading pilot gets thumbs up {digital currency: 100.0%}
- https://www.finextra.com/newsarticle/33255/jamaica-stock-exchange-digital-currency-trading-pilot-gets-thumbs-up?utm_medium=rss&utm_source=finextrafeed 
-Pan-Asian fintech network approves mobile payments specifications {fintech: 100.0%}  
-https://www.finextra.com/newsarticle/33258/pan-asian-fintech-network-approves-mobile-payments-specifications?utm_medium=rss&utm_source=finextrafeed
-    Wall Street At Davos Want Blockchain, Not Bitcoin & Crypto - Ethereum World News {ethereum: 100.0%}
- https://ethereumworldnews.com/wall-street-davos-want-blockchain-not-bitcoin-crypto/   
-Italian Senate approves amendment to include blockchain terms in law - CoinGeek {blockchain: 100.0%}
- https://coingeek.com/italian-senate-approves-amendment-include-blockchain-terms-law/  
-UK- HSBC uses DLT to settle $250bn of FX transactions
-https://www.finextra.com/newsarticle/33207/hsbc-uses-dlt-to-settle-250bn-of-fx-transactions?utm_medium=rss&utm_source=finextrafeed
-
-
-Pagos Digitales & Economía Digital
-
-Irlanda & EU- What Google's E-Money License in EU Means for Banks & FinTechs
-https://gomedici.com/what-google-e-money-license-in-eu-means-for-banks-fintechs/
-
-Regulación
-Mexico- Fintech Regulators -- Look South Where Mexico Shows How To Do It
-https://www.forbes.com/sites/tomgroenfeldt/2019/01/17/fintech-regulators-look-south-where-mexico-shows-how-to-do-it/#13a3469242b2
-Chile- Lo que se juega en la regulación de las FinTech
-https://www.df.cl/noticias/opinion/editorial/lo-que-se-juega-en-la-regulacion-de-las-fintech/2019-01-15/185244.html
-
-
-Ciberseguridad
-
-Oeste de Africa- Cyberattack waves wash over West African banks 
-https://www.bankingtech.com/2019/01/cyberattack-waves-wash-over-west-african-banks/
-
-
-
-Banca Abierta
-
-Canada- Canada launches open banking consultation
-https://www.finextra.com/newsarticle/33209/canada-launches-open-banking-consultation?utm_medium=rss&utm_source=finextrafeed
-
-
-Otros
-
-Estados Unidos- Fintech firms want to shake up banking, and that worries the Fed
-https://www.channelnewsasia.com/news/business/fintech-firms-want-to-shake-up-banking--and-that-worries-the-fed-11120332
-
-Emprendimientos de blockchain en Latam subirán sus ventas en 87% en 2019
-http://map.conectamedia.cl/index.php/clippingNews/view?id=7898099&email=89893&fromemail=1
-EE. UU.: criptomonedas se encuentran entre las principales prioridades de investigación de la SEC para el 2019
-https://es.cointelegraph.com/news/us-crypto-is-among-secs-top-examination-priorities-for-2019
-
-Nueva ley de bancos: más solvencia y ciberseguridad
-http://map.conectamedia.cl/index.php/clippingNews/view?id=7954966&email=90426&fromemail=1
-
-Regulador español de valores agrega 23 exchanges de criptomonedas y divisas a la lista de advertencias
-http://map.conectamedia.cl/index.php/clippingNews/view?id=7919801&email=90064&fromemail=1 
-China bosses blockchain and AI patents {blockchain: 66.6%, ai: 33.3%, }  
-https://www.bankingtech.com/2019/01/china-bosses-blockchain-and-ai-patents/
-
-Who Scales It Best? Inside Blockchains’ Ongoing Transactions-Per-Second Race {blockchain:100%}
-https://cointelegraph.com/news/who-scales-it-best-inside-blockchains-ongoing-transactions-per-second-race
-
-India: Banking Research Institute Issues Blueprint on Blockchain Implementation {blockchain: 50%, central bank: 25%, bank: 25% }
-https://cointelegraph.com/news/india-banking-research-institute-issues-blueprint-on-blockchain-implementation
-
-  Pagos Digitales
-
-Alipay Rides The Payments Licensing Trend In Europe {fintech: 100%, }  
-https://www.pymnts.com/news/mobile-payments/2019/alipay-payments-licensing-luxembourg-fintech/
-Apple Pay Trending Up as Target, Other Retailers Add Payment Option {apple pay: 100%, }
-“According to Apple, 74 of the top 100 U.S. merchants now accept Apple Pay”
-https://bankinnovation.net/2019/01/apple-pay-trending-up-as-target-other-retailers-add-payment-option/
-
-Apple Pay goes live for CBA {apple pay: 100% }
-https://www.smh.com.au/business/banking-and-finance/apple-pay-goes-live-for-cba-20190123-p50t1a.html?ref=rss&utm_medium=rss&utm_source=rss_business
-
-
-Criptoactivos
-
-One of the world's largest crypto exchanges looks to go public in the U.S. through a reverse merger {cryptocurrency: 100% }
-https://www.cnbc.com/2019/01/22/one-of-the-worlds-largest-crypto-exchange-looks-to-go-public-in-the-us-through-a-reverse-merger.html
-
-
-Otro
-Barclays raises Rise Growth Investment funds for fintech start-ups {fintech: 100.0, }
-https://www.bankingtech.com/2019/01/barclays-raises-rise-growth-investment-funds-for-fintech-start-ups/
-
-How Gulf Countries Are Embracing FinTech {fintech: 85.71428571428571, blockchain: 14.285714285714285, }
-https://gomedici.com/how-gulf-countries-are-embracing-fintech/
