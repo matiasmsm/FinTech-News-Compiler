@@ -168,7 +168,6 @@ schedule==0.6.0
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
-sip==4.19.12
 six==1.10.0
 smmap2==2.0.5
 snowballstemmer==1.2.1
