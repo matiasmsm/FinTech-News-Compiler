@@ -8,6 +8,7 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_JUSTIFY
 from control_versiones_automatico_gitpython import subir_version
+from manejo_dropbox import main
 
 
 def juntar_datos(diccionario_noticias):
@@ -150,8 +151,7 @@ def escribir_rss_xml(diccionario_contenido_noticias):
 def load_todo():
     diccionario_fuentes_noticias_rss = RSS.transform_rss.transformar()
     contenido, lista_contenido, diccionario_contenido_noticias = juntar_datos(diccionario_fuentes_noticias_rss)
-    escribir_pdf(lista_contenido)
-    crear_txt(contenido)
     escribir_rss_xml(diccionario_contenido_noticias)
+    main()
     #crearRepoGit()
     subir_version()
