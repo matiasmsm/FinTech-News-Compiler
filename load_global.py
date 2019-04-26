@@ -149,9 +149,6 @@ def escribir_rss_xml(diccionario_contenido_noticias):
 
 
 def load_todo():
-    diccionario_fuentes_noticias_rss = RSS.transform_rss.transformar()
-    contenido, lista_contenido, diccionario_contenido_noticias = juntar_datos(diccionario_fuentes_noticias_rss)
-    escribir_rss_xml(diccionario_contenido_noticias)
     main()
     #crearRepoGit()
     subir_version()
