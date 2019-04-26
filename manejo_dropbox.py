@@ -12,10 +12,10 @@ class TransferData:
             dbx.files_upload(f.read(), file_to)
 
 def main():
-    access_token = 'zp_ELfFzrVAAAAAAAAAADk-KVo73eh2nM2oM7hma3aGcf9sXaT5ruGonMmyI7PHN'
+    access_token = 'zp_ELfFzrVAAAAAAAAAAEdGOto9N9D1ADJtPpYbG9lqfYD6WTN6IXFmqJwEC1V0s'
     transferData = TransferData(access_token)
     file_from = 'feed_rss.xml'
-    file_to = '/Aplicaciones/rssPivot/feed_rss.xml'  # The full path to upload the file to, including the file name
+    file_to = '/home/Aplicaciones/rssPivot/feed_rss.xml'  # The full path to upload the file to, including the file name
     # API v2
     transferData.upload_file(file_from, file_to)
 
