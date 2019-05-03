@@ -1,5 +1,5 @@
 import smtplib
-from ..RSS.transform_rss import transformar
+from .RSS import transform_rss
 import datetime
 import PyMediaRSS2Gen
 from reportlab.lib.pagesizes import letter
@@ -192,7 +192,7 @@ def escribir_rss_xml_mensual(diccionario_contenido_noticias):
 """
 
 def load_todo():
-    diccionario_fuentes_noticias_rss = transformar()
+    diccionario_fuentes_noticias_rss = transform_rss.transformar()
     contenido, lista_contenido, diccionario_contenido_noticias = juntar_datos(diccionario_fuentes_noticias_rss)
     escribir_rss_xml_general(diccionario_contenido_noticias)
     escribir_rss_xml_ejes(diccionario_contenido_noticias)
