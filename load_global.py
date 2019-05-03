@@ -1,5 +1,5 @@
 import smtplib
-from .RSS.transform_rss import transformar
+from ..RSS.transform_rss import transformar
 import datetime
 import PyMediaRSS2Gen
 from reportlab.lib.pagesizes import letter
