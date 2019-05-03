@@ -1,5 +1,5 @@
 import smtplib
-import RSS.transform_rss
+from RSS import transform_rss
 import datetime
 import PyMediaRSS2Gen
 from reportlab.lib.pagesizes import letter
@@ -8,7 +8,7 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_JUSTIFY
 from control_versiones_automatico_gitpython import subir_version
-from manejo_dropbox import main
+from manejo_dropbox import update_dropbox_file
 
 
 def juntar_datos(diccionario_noticias):
@@ -128,10 +128,10 @@ def escribir_html(lista_palabras):
         html_file.write(head_html)
 
 
-def escribir_rss_xml(diccionario_contenido_noticias):
+def escribir_rss_xml_general(diccionario_contenido_noticias):
     mediaFeed = PyMediaRSS2Gen.MediaRSS2(
         title="Noticias FinTech",
-        link="https://github.com/unknomads/Recopilador-de-Noticias",
+        link="", #Cambiar a link Dropbox
         description="Noticias FinTech recopiladas durante el día."
     )
     mediaFeed.copyright = "Copyright (c) 2019 Banco Central de Chile. All rights reserved."
@@ -146,12 +146,55 @@ def escribir_rss_xml(diccionario_contenido_noticias):
                 pubDate=noticia["pubDate"]
             ))
     mediaFeed.write_xml(open("feed_rss.xml", "w"))
+    update_dropbox_file("feed_rss.xml")
 
+
+def escribir_rss_xml_ejes(diccionario_contenido_noticias):
+    for eje in list(diccionario_contenido_noticias.keys()):
+        mediaFeed = PyMediaRSS2Gen.MediaRSS2(
+            title="Noticias {}".format(eje),
+            link="",  #Cambiar a link Dropbox
+            description="Noticias sobre {} recopiladas durante el día.".format(eje)
+        )
+        mediaFeed.copyright = "Copyright (c) 2019 Banco Central de Chile. All rights reserved."
+        mediaFeed.lastBuildDate = datetime.datetime.now()
+        mediaFeed.items = list()
+        for noticia in diccionario_contenido_noticias[eje]:
+            mediaFeed.items.append(PyMediaRSS2Gen.MediaRSSItem(
+                title=str(noticia["fuente"])+": "+noticia["titulo"]+" - "+" Puntaje: "+str(noticia["puntaje"]),
+                link=noticia["link"],
+                description=noticia["summary"],
+                pubDate=noticia["pubDate"]
+            ))
+        mediaFeed.write_xml(open("feed_rss_{}.xml".format(eje), "w"))
+        update_dropbox_file("feed_rss_{}.xml".format(eje))
+
+
+"""
+def escribir_rss_xml_mensual(diccionario_contenido_noticias):
+    mediaFeed = PyMediaRSS2Gen.MediaRSS2(
+        title="Noticias FinTech",
+        link="", #Cambiar a link Dropbox
+        description="Noticias FinTech recopiladas durante el día."
+    )
+    mediaFeed.copyright = "Copyright (c) 2019 Banco Central de Chile. All rights reserved."
+    mediaFeed.lastBuildDate = datetime.datetime.now()
+    mediaFeed.items = list()
+    for key, value in diccionario_contenido_noticias.items():
+        for noticia in value:
+            mediaFeed.items.append(PyMediaRSS2Gen.MediaRSSItem(
+                title=str(noticia["fuente"])+": "+noticia["titulo"]+" - "+" Puntaje: "+str(noticia["puntaje"]),
+                link=noticia["link"],
+                description=noticia["summary"],
+                pubDate=noticia["pubDate"]
+            ))
+    mediaFeed.write_xml(open("feed_rss.xml", "w"))
+"""
 
 def load_todo():
-    diccionario_fuentes_noticias_rss = RSS.transform_rss.transformar()
+    diccionario_fuentes_noticias_rss = transform_rss.transformar()
     contenido, lista_contenido, diccionario_contenido_noticias = juntar_datos(diccionario_fuentes_noticias_rss)
-    escribir_rss_xml(diccionario_contenido_noticias)
-    main()
+    escribir_rss_xml_general(diccionario_contenido_noticias)
+    escribir_rss_xml_ejes(diccionario_contenido_noticias)
     #crearRepoGit()
     subir_version()

@@ -1,7 +1,6 @@
 import datetime
 import json
 import re
-
 from RSS.extract_rss import consultas_feed
 
 
