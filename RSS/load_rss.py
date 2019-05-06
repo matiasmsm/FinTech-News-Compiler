@@ -1,6 +1,6 @@
 import datetime
 
-from transform_rss import transformar
+from .transform_rss import transformar
 
 
 def crear_recopilación_top_noticias():

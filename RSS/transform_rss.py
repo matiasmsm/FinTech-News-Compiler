@@ -1,7 +1,7 @@
 import datetime
 import json
 import re
-from extract_rss import consultas_feed
+from .extract_rss import consultas_feed
 
 
 def cargar_filtros():
