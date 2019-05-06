@@ -34,6 +34,7 @@ distributed==1.23.0
 Django==2.1.5
 docutils==0.14
 docx2txt==0.6
+dropbox==9.3.0
 EbookLib==0.15
 entrypoints==0.2.3
 enum34==1.1.6
