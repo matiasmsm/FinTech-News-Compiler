@@ -9,7 +9,7 @@ class TransferData:
         """
         dbx = dropbox.Dropbox(self.access_token)
         with open(file_from, 'rb') as f:
-            dbx.files_upload(f.read(), file_to)
+            dbx.files_upload(f.read(), file_to, mode=dropbox.files.WriteMode.overwrite)
 
 def update_dropbox_file(nombre_file):
     access_token = 'zp_ELfFzrVAAAAAAAAAAEdGOto9N9D1ADJtPpYbG9lqfYD6WTN6IXFmqJwEC1V0s'
