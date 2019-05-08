@@ -7,7 +7,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_JUSTIFY
-from control_versiones_automatico_gitpython import subir_version
+#from control_versiones_automatico_gitpython import subir_version
 from manejo_dropbox import update_dropbox_file
 
 
@@ -197,4 +197,4 @@ def load_todo():
     escribir_rss_xml_general(diccionario_contenido_noticias)
     escribir_rss_xml_ejes(diccionario_contenido_noticias)
     #crearRepoGit()
-    subir_version()
+    #subir_version()
