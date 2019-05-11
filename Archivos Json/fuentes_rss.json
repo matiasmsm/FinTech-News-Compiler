@@ -153,7 +153,6 @@
   {"nombre": "US Government", "url":"https://www.usa.gov/rss/updates.xml", "peso": 10},
   {"nombre": "CoinDesk", "url":"http://feeds.feedburner.com/CoinDesk", "peso": 1},
   {"nombre": "FinTech Singapore", "url": "http://fintechnews.sg/feed/", "peso": 1},
-  {"nombre": "Hackernoon", "url": "https://hackernoon.com/feed", "peso": 1},
   {"nombre": "Europol", "url": "https://www.europol.europa.eu/rss.xml", "peso": 10},
   {"nombre": "OECD", "url": "http://www.oecd.org/newsroom/index.xml", "peso": 10},
   {"nombre": "FED Boston", "url": "https://www.bostonfed.org/feeds/rss_news.xml", "peso": 10}
