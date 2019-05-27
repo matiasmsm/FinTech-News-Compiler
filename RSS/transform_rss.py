@@ -291,7 +291,11 @@ def filtrar_contenido(nombre_fuente, contenido, peso):
         """Loop por todos los articulos de la fuente"""
         titulo_noticia = entry.title
         """AQUI EL PROBLEMA"""
-        contenido = entry.summary
+        cotenido = ""
+        try:
+            contenido = entry.summary
+        except AttributeError as error:
+            pass
         """----------------------"""
         link_noticia = entry.link
         fecha_actual = datetime.datetime.now().ctime()
