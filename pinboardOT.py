@@ -14,17 +14,18 @@ pb = pinboard.Pinboard('lsanz_observatorio:CC8E7F9E71CC9B935378')
 
 def escribir_resumen_semanal():
     posts = pb.posts.recent(tag=["pw"])
+    print(posts)
     lista_contenido_descripcion = list()
     lista_contenido_url = list()
     with open("Resumenes Semanales/resumen_semanal{}.txt".format(
             datetime.datetime.now()), "w") as resumen_semanal_file:
         for post in posts["posts"]:
-
             resumen_semanal_file.write(post.description+"\n")
             resumen_semanal_file.write(post.url + "\n \n")
             lista_contenido_descripcion.append(post.description)
             lista_contenido_url.append(post.url)
     escribir_docx(lista_contenido_descripcion, lista_contenido_url)
+    escribir_html("Resumen Semanal", lista_contenido_descripcion, lista_contenido_url)
 
 
 def escribir_pdf(lista_contenido):
@@ -62,6 +63,20 @@ def escribir_docx(lista_descripciones, lista_urls):
     document.add_page_break()
     document.save("Resumenes Semanales/resumen_semanal{}.docx".format(
             datetime.datetime.now()))
+
+
+def escribir_html(titulo, lista_descripciones, lista_urls):
+    contenido_html="""<html>
+<head><title>{}</title></head>
+<body>\n""".format(titulo)
+    indice_noticia = 0
+    for noticia in lista_descripciones:
+        contenido_html += """<h2>{}</h2>""".format(noticia)
+        contenido_html += """<p>{}</p>""".format(lista_urls[indice_noticia])
+        indice_noticia += 1
+    contenido_html += """</body>\n</html>"""
+    with open("{}.html".format(titulo), "w") as html_file:
+        html_file.write(contenido_html)
 
 
 if __name__ == '__main__':
