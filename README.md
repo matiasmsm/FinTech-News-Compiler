@@ -4,6 +4,5 @@
 ##### By: Matías Mingo 
 
 ## About the project:
-Python program that runs a Heroku app that compiles news related to FinTech theme and displays it in diferent formats(XML, HTML, mail, pdf, doc)  using NLP methology to filter the news.
+Python program that runs a Heroku app which compiles FinTech news and displays them in diferent formats(XML, HTML, mail, pdf, doc)  using NLP methologies to filter the news.
 
-Also contains scripts ment to study trends in news articles using NLP.
